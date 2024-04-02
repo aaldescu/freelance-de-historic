@@ -39,7 +39,7 @@ with st.expander('Freelance.de Table Preview'):
 #
 fm_job_group_options = st.multiselect(
     'Job Groups',
-    freelancermap_prj_df["job_group"].unique().tolist(),["Jira", "Java"])
+    freelancermap_prj_df["job_group"].unique().tolist(),["Jira", "Java","SQL","Python","Javascript"])
 
 filtered_fm_df  = freelancermap_prj_df[freelancermap_prj_df['job_group'].isin(fm_job_group_options)]
 

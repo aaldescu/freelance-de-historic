@@ -7,7 +7,7 @@ import os
 
 def get_data_points(url,depth):
     time.sleep(2)
-    print (url + str(depth))
+    print ("Collecting:" , url , str(depth))
 
     response = requests.get(url)
     current_depth = depth + 1
@@ -22,9 +22,9 @@ def get_data_points(url,depth):
         # Find all <li> elements within the element with id "panel_categories"
         li_elements = panel_categories.find_all('li')
         
-        print(len(li_elements))
+        print("Found", len(li_elements),"<li> elements")
         page_title = soup.find('title').text
-        print(page_title)
+        print("Found ",page_title," page title")
         
 
         # Print the text content of each <li> element
@@ -39,8 +39,6 @@ def get_data_points(url,depth):
                 a_href = a_element.get('href').strip()
                 li_url = "https://www.freelance.de" + a_href
                 
-                #print('-' * 30)
-
                 data.append([current_time,a_text, span_text, a_href])
 
                 if current_depth < max_depth:
@@ -53,7 +51,7 @@ def get_data_points(url,depth):
 
 now = datetime.now()
 current_time = now.strftime("%Y-%m-%d")
-print("Current Time =", current_time)
+print("\n\n Current Run Time =", current_time)
 
 #GET PROJEKTE DATA
 start_url = "https://www.freelance.de/Projekte/"
@@ -88,3 +86,5 @@ get_data_points(start_url,0)
 with open(project_path + 'freelance_data.csv', 'a', newline='', encoding='utf-8' ) as csvfile:
     csvwriter = csv.writer(csvfile, delimiter=";")
     csvwriter.writerows(data)
+
+print(f"\n\nScript was executed successfully {current_time}")

@@ -27,7 +27,7 @@ url = 'https://www.freelancermap.de/projektboerse.html'
 
 # Launch a browser (Chromium by default)
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)
+    browser = p.chromium.launch(headless=True)
     
     # Create a new browser page
     page = browser.new_page()

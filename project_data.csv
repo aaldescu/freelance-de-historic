@@ -9791,3 +9791,1443 @@ date;job_group;num_jobs;href
 2024-03-16;Verfahrenstechnik;45;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
 2024-03-16;Versorgungstechnik;118;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
 2024-03-16;Weitere technische Qualifikationen;67;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-18;Design, Kunst, Medien;80;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-18;Design;33;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-18;Grafik- / Animationssoftware;21;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-18;Kunst;9;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-18;Medien;10;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-18;Redaktion;16;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-18;Einkauf, Handel, Logistik;289;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-18;Einkauf;48;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-18;Handel / E-Commerce;130;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-18;Import / Export;18;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-18;Lieferantenmanagement;12;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-18;Logistik / Supply-Chain-Management;96;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-18;Transport / Spedition;9;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-18;Finanzen, Versicherung, Recht;332;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-18;Finanzwesen;128;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-18;Rechnungswesen;188;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-18;Rechtswesen;84;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-18;Versicherungen;9;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-18;Forschung, Wissenschaft, Bildung;256;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-18;Bildung;4;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-18;Forschung / Entwicklung;13;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-18;Medizinische Wissenschaft;45;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-18;Wissenschaft;214;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-18;IT, Entwicklung;2367;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-18;Blockchain;6;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-18;Business Intelligence;174;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-18;Datenbanken;180;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-18;DevOps;97;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-18;ERP / CRM Systeme;263;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-18;Hardware-Entwicklung / Engineering;71;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-18;Incident / Service Management / ITIL;68;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-18;IT Sicherheit;186;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-18;Maschinelles Lernen;17;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-18;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-18;Plattformen / Betriebssysteme;121;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-18;Projektleitung / -management (IT);208;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-18;Qualitätsmanagement / Testing (IT);133;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-18;SAP;587;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-18;Serveradministration;111;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-18;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-18;Software Architektur / Analyse;84;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-18;Softwareentwicklung / -programmierung;617;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-18;Softwarepaketierung / Verteilung;31;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-18;Support / Techniker;71;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-18;System Architektur / Analyse;271;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-18;Systemadministration;221;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-18;Telekommunikation / Netzwerke;134;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-18;User Interface / User Experience;35;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-18;Virtualisierung;153;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-18;Web;292;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-18;Weitere IT-Qualifikationen;340;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-18;Marketing, Vertrieb, Kommunikation;262;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-18;Kommunikation;74;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-18;Marketing;122;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-18;Vertrieb;103;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-18;Management, Unternehmen, Strategie;926;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-18;Management;175;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-18;Personalwesen;89;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-18;Projektleitung / -management / PMO;470;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-18;Qualitätsmanagement;175;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-18;Strategie;102;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-18;Weitere organisatorische Qualifikationen;109;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-18;Sprachen, Dienstleistung, Soziales;67;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-18;Dienstleistung;25;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-18;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-18;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-18;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-18;Training / Schulung / Coaching;39;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-18;Technik, Ingenieurwesen;1409;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-18;Architektur;108;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-18;Automatisierungstechnik;123;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-18;Bauingenieurwesen;178;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-18;Elektrotechnik / Elektronik;209;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-18;Energietechnik;78;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-18;Fahrzeugbau / -technik;148;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-18;Fertigungstechnik;61;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-18;Funk- / Nachrichtentechnik;55;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-18;Handwerk;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-18;Installation / Montage / Wartung;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-18;Konstruktionstechnik;35;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-18;Luft- / Raumfahrttechnik;8;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-18;Management (Technik);277;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-18;Maschinen- / Anlagenbau;175;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-18;Mechatronik;23;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-18;Mess- / Regelungstechnik;181;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-18;Produktionstechnik;108;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-18;Prüftechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-18;Qualitätsmanagement / Testing (Technik);91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-18;Robotik / Robotertechnik;36;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-18;Sicherheitstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-18;Technisches Zeichnen / CAD / CAE;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-18;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-18;Umwelttechnik;61;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-18;Verfahrenstechnik;45;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-18;Versorgungstechnik;118;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-18;Weitere technische Qualifikationen;64;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-19;Design, Kunst, Medien;80;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-19;Design;32;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-19;Grafik- / Animationssoftware;18;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-19;Kunst;10;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-19;Medien;11;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-19;Redaktion;18;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-19;Einkauf, Handel, Logistik;292;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-19;Einkauf;50;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-19;Handel / E-Commerce;133;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-19;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-19;Lieferantenmanagement;14;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-19;Logistik / Supply-Chain-Management;95;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-19;Transport / Spedition;11;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-19;Finanzen, Versicherung, Recht;347;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-19;Finanzwesen;130;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-19;Rechnungswesen;200;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-19;Rechtswesen;89;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-19;Versicherungen;9;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-19;Forschung, Wissenschaft, Bildung;274;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-19;Bildung;4;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-19;Forschung / Entwicklung;14;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-19;Medizinische Wissenschaft;45;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-19;Wissenschaft;231;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-19;IT, Entwicklung;2404;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-19;Blockchain;6;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-19;Business Intelligence;173;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-19;Datenbanken;174;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-19;DevOps;99;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-19;ERP / CRM Systeme;277;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-19;Hardware-Entwicklung / Engineering;69;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-19;Incident / Service Management / ITIL;62;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-19;IT Sicherheit;186;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-19;Maschinelles Lernen;16;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-19;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-19;Plattformen / Betriebssysteme;121;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-19;Projektleitung / -management (IT);213;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-19;Qualitätsmanagement / Testing (IT);135;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-19;SAP;600;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-19;Serveradministration;112;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-19;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-19;Software Architektur / Analyse;81;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-19;Softwareentwicklung / -programmierung;610;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-19;Softwarepaketierung / Verteilung;32;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-19;Support / Techniker;71;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-19;System Architektur / Analyse;274;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-19;Systemadministration;226;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-19;Telekommunikation / Netzwerke;136;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-19;User Interface / User Experience;36;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-19;Virtualisierung;149;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-19;Web;287;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-19;Weitere IT-Qualifikationen;345;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-19;Marketing, Vertrieb, Kommunikation;269;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-19;Kommunikation;76;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-19;Marketing;123;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-19;Vertrieb;104;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-19;Management, Unternehmen, Strategie;936;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-19;Management;175;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-19;Personalwesen;93;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-19;Projektleitung / -management / PMO;475;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-19;Qualitätsmanagement;181;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-19;Strategie;102;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-19;Weitere organisatorische Qualifikationen;115;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-19;Sprachen, Dienstleistung, Soziales;65;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-19;Dienstleistung;23;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-19;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-19;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-19;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-19;Training / Schulung / Coaching;40;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-19;Technik, Ingenieurwesen;1427;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-19;Architektur;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-19;Automatisierungstechnik;124;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-19;Bauingenieurwesen;178;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-19;Elektrotechnik / Elektronik;212;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-19;Energietechnik;79;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-19;Fahrzeugbau / -technik;143;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-19;Fertigungstechnik;62;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-19;Funk- / Nachrichtentechnik;62;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-19;Handwerk;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-19;Installation / Montage / Wartung;48;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-19;Konstruktionstechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-19;Luft- / Raumfahrttechnik;10;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-19;Management (Technik);284;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-19;Maschinen- / Anlagenbau;181;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-19;Mechatronik;22;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-19;Mess- / Regelungstechnik;180;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-19;Produktionstechnik;101;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-19;Prüftechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-19;Qualitätsmanagement / Testing (Technik);89;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-19;Robotik / Robotertechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-19;Sicherheitstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-19;Technisches Zeichnen / CAD / CAE;114;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-19;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-19;Umwelttechnik;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-19;Verfahrenstechnik;48;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-19;Versorgungstechnik;123;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-19;Weitere technische Qualifikationen;63;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-20;Design, Kunst, Medien;74;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-20;Design;29;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-20;Grafik- / Animationssoftware;19;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-20;Kunst;8;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-20;Medien;9;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-20;Redaktion;17;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-20;Einkauf, Handel, Logistik;271;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-20;Einkauf;47;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-20;Handel / E-Commerce;120;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-20;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-20;Lieferantenmanagement;14;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-20;Logistik / Supply-Chain-Management;91;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-20;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-20;Finanzen, Versicherung, Recht;319;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-20;Finanzwesen;116;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-20;Rechnungswesen;184;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-20;Rechtswesen;82;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-20;Versicherungen;9;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-20;Forschung, Wissenschaft, Bildung;266;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-20;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-20;Forschung / Entwicklung;14;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-20;Medizinische Wissenschaft;38;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-20;Wissenschaft;231;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-20;IT, Entwicklung;2245;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-20;Blockchain;3;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-20;Business Intelligence;153;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-20;Datenbanken;166;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-20;DevOps;94;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-20;ERP / CRM Systeme;243;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-20;Hardware-Entwicklung / Engineering;62;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-20;Incident / Service Management / ITIL;61;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-20;IT Sicherheit;186;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-20;Maschinelles Lernen;16;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-20;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-20;Plattformen / Betriebssysteme;117;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-20;Projektleitung / -management (IT);191;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-20;Qualitätsmanagement / Testing (IT);127;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-20;SAP;544;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-20;Serveradministration;101;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-20;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-20;Software Architektur / Analyse;79;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-20;Softwareentwicklung / -programmierung;567;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-20;Softwarepaketierung / Verteilung;30;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-20;Support / Techniker;65;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-20;System Architektur / Analyse;257;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-20;Systemadministration;222;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-20;Telekommunikation / Netzwerke;132;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-20;User Interface / User Experience;36;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-20;Virtualisierung;144;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-20;Web;271;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-20;Weitere IT-Qualifikationen;326;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-20;Marketing, Vertrieb, Kommunikation;234;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-20;Kommunikation;65;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-20;Marketing;101;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-20;Vertrieb;96;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-20;Management, Unternehmen, Strategie;884;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-20;Management;163;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-20;Personalwesen;82;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-20;Projektleitung / -management / PMO;452;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-20;Qualitätsmanagement;179;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-20;Strategie;92;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-20;Weitere organisatorische Qualifikationen;106;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-20;Sprachen, Dienstleistung, Soziales;57;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-20;Dienstleistung;20;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-20;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-20;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-20;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-20;Training / Schulung / Coaching;35;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-20;Technik, Ingenieurwesen;1362;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-20;Architektur;106;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-20;Automatisierungstechnik;115;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-20;Bauingenieurwesen;177;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-20;Elektrotechnik / Elektronik;201;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-20;Energietechnik;80;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-20;Fahrzeugbau / -technik;131;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-20;Fertigungstechnik;58;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-20;Funk- / Nachrichtentechnik;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-20;Handwerk;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-20;Installation / Montage / Wartung;42;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-20;Konstruktionstechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-20;Luft- / Raumfahrttechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-20;Management (Technik);271;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-20;Maschinen- / Anlagenbau;174;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-20;Mechatronik;23;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-20;Mess- / Regelungstechnik;169;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-20;Produktionstechnik;91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-20;Prüftechnik;15;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-20;Qualitätsmanagement / Testing (Technik);82;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-20;Robotik / Robotertechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-20;Sicherheitstechnik;84;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-20;Technisches Zeichnen / CAD / CAE;109;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-20;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-20;Umwelttechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-20;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-20;Versorgungstechnik;120;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-20;Weitere technische Qualifikationen;56;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-21;Design, Kunst, Medien;80;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-21;Design;33;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-21;Grafik- / Animationssoftware;20;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-21;Kunst;11;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-21;Medien;9;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-21;Redaktion;19;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-21;Einkauf, Handel, Logistik;272;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-21;Einkauf;45;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-21;Handel / E-Commerce;121;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-21;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-21;Lieferantenmanagement;13;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-21;Logistik / Supply-Chain-Management;92;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-21;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-21;Finanzen, Versicherung, Recht;326;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-21;Finanzwesen;123;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-21;Rechnungswesen;186;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-21;Rechtswesen;75;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-21;Versicherungen;8;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-21;Forschung, Wissenschaft, Bildung;263;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-21;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-21;Forschung / Entwicklung;14;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-21;Medizinische Wissenschaft;36;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-21;Wissenschaft;230;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-21;IT, Entwicklung;2232;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-21;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-21;Business Intelligence;148;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-21;Datenbanken;162;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-21;DevOps;88;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-21;ERP / CRM Systeme;251;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-21;Hardware-Entwicklung / Engineering;64;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-21;Incident / Service Management / ITIL;64;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-21;IT Sicherheit;192;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-21;Maschinelles Lernen;13;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-21;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-21;Plattformen / Betriebssysteme;114;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-21;Projektleitung / -management (IT);198;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-21;Qualitätsmanagement / Testing (IT);127;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-21;SAP;530;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-21;Serveradministration;97;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-21;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-21;Software Architektur / Analyse;78;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-21;Softwareentwicklung / -programmierung;562;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-21;Softwarepaketierung / Verteilung;28;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-21;Support / Techniker;67;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-21;System Architektur / Analyse;239;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-21;Systemadministration;219;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-21;Telekommunikation / Netzwerke;127;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-21;User Interface / User Experience;32;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-21;Virtualisierung;142;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-21;Web;260;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-21;Weitere IT-Qualifikationen;333;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-21;Marketing, Vertrieb, Kommunikation;242;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-21;Kommunikation;67;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-21;Marketing;108;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-21;Vertrieb;102;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-21;Management, Unternehmen, Strategie;894;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-21;Management;162;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-21;Personalwesen;75;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-21;Projektleitung / -management / PMO;453;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-21;Qualitätsmanagement;185;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-21;Strategie;91;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-21;Weitere organisatorische Qualifikationen;115;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-21;Sprachen, Dienstleistung, Soziales;55;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-21;Dienstleistung;21;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-21;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-21;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-21;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-21;Training / Schulung / Coaching;32;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-21;Technik, Ingenieurwesen;1377;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-21;Architektur;106;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-21;Automatisierungstechnik;119;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-21;Bauingenieurwesen;185;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-21;Elektrotechnik / Elektronik;198;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-21;Energietechnik;80;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-21;Fahrzeugbau / -technik;133;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-21;Fertigungstechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-21;Funk- / Nachrichtentechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-21;Handwerk;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-21;Installation / Montage / Wartung;45;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-21;Konstruktionstechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-21;Luft- / Raumfahrttechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-21;Management (Technik);278;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-21;Maschinen- / Anlagenbau;176;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-21;Mechatronik;25;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-21;Mess- / Regelungstechnik;170;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-21;Produktionstechnik;87;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-21;Prüftechnik;15;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-21;Qualitätsmanagement / Testing (Technik);78;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-21;Robotik / Robotertechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-21;Sicherheitstechnik;87;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-21;Technisches Zeichnen / CAD / CAE;115;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-21;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-21;Umwelttechnik;55;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-21;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-21;Versorgungstechnik;124;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-21;Weitere technische Qualifikationen;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-22;Design, Kunst, Medien;77;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-22;Design;31;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-22;Grafik- / Animationssoftware;21;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-22;Kunst;9;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-22;Medien;8;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-22;Redaktion;17;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-22;Einkauf, Handel, Logistik;277;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-22;Einkauf;45;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-22;Handel / E-Commerce;121;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-22;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-22;Lieferantenmanagement;15;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-22;Logistik / Supply-Chain-Management;96;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-22;Transport / Spedition;11;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-22;Finanzen, Versicherung, Recht;335;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-22;Finanzwesen;131;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-22;Rechnungswesen;189;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-22;Rechtswesen;74;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-22;Versicherungen;8;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-22;Forschung, Wissenschaft, Bildung;259;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-22;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-22;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-22;Medizinische Wissenschaft;37;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-22;Wissenschaft;230;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-22;IT, Entwicklung;2255;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-22;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-22;Business Intelligence;160;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-22;Datenbanken;165;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-22;DevOps;94;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-22;ERP / CRM Systeme;248;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-22;Hardware-Entwicklung / Engineering;57;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-22;Incident / Service Management / ITIL;71;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-22;IT Sicherheit;199;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-22;Maschinelles Lernen;14;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-22;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-22;Plattformen / Betriebssysteme;116;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-22;Projektleitung / -management (IT);190;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-22;Qualitätsmanagement / Testing (IT);132;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-22;SAP;523;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-22;Serveradministration;104;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-22;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-22;Software Architektur / Analyse;76;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-22;Softwareentwicklung / -programmierung;566;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-22;Softwarepaketierung / Verteilung;27;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-22;Support / Techniker;65;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-22;System Architektur / Analyse;243;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-22;Systemadministration;221;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-22;Telekommunikation / Netzwerke;137;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-22;User Interface / User Experience;32;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-22;Virtualisierung;144;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-22;Web;272;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-22;Weitere IT-Qualifikationen;335;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-22;Marketing, Vertrieb, Kommunikation;243;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-22;Kommunikation;65;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-22;Marketing;105;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-22;Vertrieb;108;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-22;Management, Unternehmen, Strategie;899;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-22;Management;161;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-22;Personalwesen;80;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-22;Projektleitung / -management / PMO;448;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-22;Qualitätsmanagement;190;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-22;Strategie;97;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-22;Weitere organisatorische Qualifikationen;118;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-22;Sprachen, Dienstleistung, Soziales;58;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-22;Dienstleistung;26;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-22;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-22;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-22;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-22;Training / Schulung / Coaching;30;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-22;Technik, Ingenieurwesen;1368;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-22;Architektur;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-22;Automatisierungstechnik;115;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-22;Bauingenieurwesen;180;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-22;Elektrotechnik / Elektronik;190;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-22;Energietechnik;78;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-22;Fahrzeugbau / -technik;135;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-22;Fertigungstechnik;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-22;Funk- / Nachrichtentechnik;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-22;Handwerk;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-22;Installation / Montage / Wartung;40;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-22;Konstruktionstechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-22;Luft- / Raumfahrttechnik;13;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-22;Management (Technik);272;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-22;Maschinen- / Anlagenbau;174;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-22;Mechatronik;25;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-22;Mess- / Regelungstechnik;172;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-22;Produktionstechnik;86;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-22;Prüftechnik;17;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-22;Qualitätsmanagement / Testing (Technik);81;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-22;Robotik / Robotertechnik;35;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-22;Sicherheitstechnik;92;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-22;Technisches Zeichnen / CAD / CAE;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-22;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-22;Umwelttechnik;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-22;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-22;Versorgungstechnik;125;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-22;Weitere technische Qualifikationen;58;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-23;Design, Kunst, Medien;77;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-23;Design;31;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-23;Grafik- / Animationssoftware;23;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-23;Kunst;9;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-23;Medien;8;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-23;Redaktion;17;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-23;Einkauf, Handel, Logistik;279;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-23;Einkauf;50;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-23;Handel / E-Commerce;120;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-23;Import / Export;17;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-23;Lieferantenmanagement;19;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-23;Logistik / Supply-Chain-Management;93;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-23;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-23;Finanzen, Versicherung, Recht;344;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-23;Finanzwesen;129;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-23;Rechnungswesen;197;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-23;Rechtswesen;77;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-23;Versicherungen;9;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-23;Forschung, Wissenschaft, Bildung;248;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-23;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-23;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-23;Medizinische Wissenschaft;37;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-23;Wissenschaft;219;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-23;IT, Entwicklung;2302;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-23;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-23;Business Intelligence;168;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-23;Datenbanken;163;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-23;DevOps;104;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-23;ERP / CRM Systeme;249;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-23;Hardware-Entwicklung / Engineering;58;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-23;Incident / Service Management / ITIL;77;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-23;IT Sicherheit;218;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-23;Maschinelles Lernen;12;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-23;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-23;Plattformen / Betriebssysteme;121;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-23;Projektleitung / -management (IT);202;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-23;Qualitätsmanagement / Testing (IT);137;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-23;SAP;544;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-23;Serveradministration;109;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-23;Shopify;2;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-23;Software Architektur / Analyse;74;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-23;Softwareentwicklung / -programmierung;559;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-23;Softwarepaketierung / Verteilung;25;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-23;Support / Techniker;65;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-23;System Architektur / Analyse;253;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-23;Systemadministration;218;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-23;Telekommunikation / Netzwerke;151;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-23;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-23;Virtualisierung;151;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-23;Web;272;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-23;Weitere IT-Qualifikationen;345;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-23;Marketing, Vertrieb, Kommunikation;245;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-23;Kommunikation;66;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-23;Marketing;103;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-23;Vertrieb;110;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-23;Management, Unternehmen, Strategie;927;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-23;Management;160;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-23;Personalwesen;79;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-23;Projektleitung / -management / PMO;471;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-23;Qualitätsmanagement;198;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-23;Strategie;100;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-23;Weitere organisatorische Qualifikationen;113;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-23;Sprachen, Dienstleistung, Soziales;60;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-23;Dienstleistung;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-23;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-23;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-23;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-23;Training / Schulung / Coaching;31;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-23;Technik, Ingenieurwesen;1385;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-23;Architektur;120;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-23;Automatisierungstechnik;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-23;Bauingenieurwesen;183;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-23;Elektrotechnik / Elektronik;192;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-23;Energietechnik;78;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-23;Fahrzeugbau / -technik;131;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-23;Fertigungstechnik;55;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-23;Funk- / Nachrichtentechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-23;Handwerk;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-23;Installation / Montage / Wartung;40;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-23;Konstruktionstechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-23;Luft- / Raumfahrttechnik;13;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-23;Management (Technik);280;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-23;Maschinen- / Anlagenbau;170;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-23;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-23;Mess- / Regelungstechnik;167;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-23;Produktionstechnik;90;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-23;Prüftechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-23;Qualitätsmanagement / Testing (Technik);84;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-23;Robotik / Robotertechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-23;Sicherheitstechnik;92;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-23;Technisches Zeichnen / CAD / CAE;111;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-23;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-23;Umwelttechnik;52;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-23;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-23;Versorgungstechnik;125;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-23;Weitere technische Qualifikationen;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-24;Design, Kunst, Medien;77;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-24;Design;31;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-24;Grafik- / Animationssoftware;23;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-24;Kunst;9;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-24;Medien;8;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-24;Redaktion;17;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-24;Einkauf, Handel, Logistik;277;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-24;Einkauf;50;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-24;Handel / E-Commerce;119;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-24;Import / Export;17;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-24;Lieferantenmanagement;18;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-24;Logistik / Supply-Chain-Management;93;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-24;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-24;Finanzen, Versicherung, Recht;341;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-24;Finanzwesen;128;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-24;Rechnungswesen;194;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-24;Rechtswesen;77;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-24;Versicherungen;9;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-24;Forschung, Wissenschaft, Bildung;245;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-24;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-24;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-24;Medizinische Wissenschaft;37;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-24;Wissenschaft;216;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-24;IT, Entwicklung;2284;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-24;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-24;Business Intelligence;167;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-24;Datenbanken;163;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-24;DevOps;103;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-24;ERP / CRM Systeme;246;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-24;Hardware-Entwicklung / Engineering;58;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-24;Incident / Service Management / ITIL;77;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-24;IT Sicherheit;214;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-24;Maschinelles Lernen;12;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-24;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-24;Plattformen / Betriebssysteme;121;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-24;Projektleitung / -management (IT);202;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-24;Qualitätsmanagement / Testing (IT);135;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-24;SAP;536;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-24;Serveradministration;109;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-24;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-24;Software Architektur / Analyse;73;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-24;Softwareentwicklung / -programmierung;553;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-24;Softwarepaketierung / Verteilung;25;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-24;Support / Techniker;64;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-24;System Architektur / Analyse;249;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-24;Systemadministration;218;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-24;Telekommunikation / Netzwerke;151;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-24;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-24;Virtualisierung;150;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-24;Web;267;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-24;Weitere IT-Qualifikationen;342;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-24;Marketing, Vertrieb, Kommunikation;243;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-24;Kommunikation;66;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-24;Marketing;102;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-24;Vertrieb;108;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-24;Management, Unternehmen, Strategie;923;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-24;Management;160;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-24;Personalwesen;79;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-24;Projektleitung / -management / PMO;469;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-24;Qualitätsmanagement;196;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-24;Strategie;100;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-24;Weitere organisatorische Qualifikationen;112;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-24;Sprachen, Dienstleistung, Soziales;60;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-24;Dienstleistung;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-24;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-24;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-24;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-24;Training / Schulung / Coaching;31;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-24;Technik, Ingenieurwesen;1379;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-24;Architektur;119;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-24;Automatisierungstechnik;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-24;Bauingenieurwesen;182;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-24;Elektrotechnik / Elektronik;192;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-24;Energietechnik;77;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-24;Fahrzeugbau / -technik;130;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-24;Fertigungstechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-24;Funk- / Nachrichtentechnik;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-24;Handwerk;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-24;Installation / Montage / Wartung;39;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-24;Konstruktionstechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-24;Luft- / Raumfahrttechnik;13;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-24;Management (Technik);280;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-24;Maschinen- / Anlagenbau;170;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-24;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-24;Mess- / Regelungstechnik;167;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-24;Produktionstechnik;90;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-24;Prüftechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-24;Qualitätsmanagement / Testing (Technik);84;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-24;Robotik / Robotertechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-24;Sicherheitstechnik;91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-24;Technisches Zeichnen / CAD / CAE;111;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-24;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-24;Umwelttechnik;52;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-24;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-24;Versorgungstechnik;125;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-24;Weitere technische Qualifikationen;57;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-25;Design, Kunst, Medien;77;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-25;Design;32;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-25;Grafik- / Animationssoftware;24;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-25;Kunst;9;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-25;Medien;7;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-25;Redaktion;16;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-25;Einkauf, Handel, Logistik;275;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-25;Einkauf;51;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-25;Handel / E-Commerce;118;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-25;Import / Export;17;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-25;Lieferantenmanagement;17;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-25;Logistik / Supply-Chain-Management;92;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-25;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-25;Finanzen, Versicherung, Recht;335;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-25;Finanzwesen;125;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-25;Rechnungswesen;193;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-25;Rechtswesen;79;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-25;Versicherungen;8;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-25;Forschung, Wissenschaft, Bildung;244;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-25;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-25;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-25;Medizinische Wissenschaft;36;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-25;Wissenschaft;216;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-25;IT, Entwicklung;2238;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-25;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-25;Business Intelligence;164;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-25;Datenbanken;163;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-25;DevOps;103;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-25;ERP / CRM Systeme;241;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-25;Hardware-Entwicklung / Engineering;56;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-25;Incident / Service Management / ITIL;74;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-25;IT Sicherheit;208;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-25;Maschinelles Lernen;11;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-25;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-25;Plattformen / Betriebssysteme;122;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-25;Projektleitung / -management (IT);195;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-25;Qualitätsmanagement / Testing (IT);131;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-25;SAP;525;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-25;Serveradministration;111;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-25;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-25;Software Architektur / Analyse;71;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-25;Softwareentwicklung / -programmierung;541;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-25;Softwarepaketierung / Verteilung;24;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-25;Support / Techniker;62;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-25;System Architektur / Analyse;243;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-25;Systemadministration;214;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-25;Telekommunikation / Netzwerke;150;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-25;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-25;Virtualisierung;147;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-25;Web;265;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-25;Weitere IT-Qualifikationen;331;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-25;Marketing, Vertrieb, Kommunikation;242;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-25;Kommunikation;65;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-25;Marketing;102;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-25;Vertrieb;109;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-25;Management, Unternehmen, Strategie;907;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-25;Management;161;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-25;Personalwesen;79;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-25;Projektleitung / -management / PMO;460;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-25;Qualitätsmanagement;196;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-25;Strategie;96;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-25;Weitere organisatorische Qualifikationen;110;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-25;Sprachen, Dienstleistung, Soziales;57;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-25;Dienstleistung;28;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-25;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-25;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-25;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-25;Training / Schulung / Coaching;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-25;Technik, Ingenieurwesen;1359;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-25;Architektur;115;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-25;Automatisierungstechnik;110;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-25;Bauingenieurwesen;180;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-25;Elektrotechnik / Elektronik;190;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-25;Energietechnik;76;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-25;Fahrzeugbau / -technik;131;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-25;Fertigungstechnik;52;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-25;Funk- / Nachrichtentechnik;51;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-25;Handwerk;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-25;Installation / Montage / Wartung;35;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-25;Konstruktionstechnik;29;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-25;Luft- / Raumfahrttechnik;13;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-25;Management (Technik);278;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-25;Maschinen- / Anlagenbau;164;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-25;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-25;Mess- / Regelungstechnik;162;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-25;Produktionstechnik;89;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-25;Prüftechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-25;Qualitätsmanagement / Testing (Technik);84;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-25;Robotik / Robotertechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-25;Sicherheitstechnik;91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-25;Technisches Zeichnen / CAD / CAE;108;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-25;Textiltechnik;0;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-25;Umwelttechnik;51;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-25;Verfahrenstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-25;Versorgungstechnik;126;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-25;Weitere technische Qualifikationen;55;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-26;Design, Kunst, Medien;75;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-26;Design;30;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-26;Grafik- / Animationssoftware;23;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-26;Kunst;8;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-26;Medien;7;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-26;Redaktion;15;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-26;Einkauf, Handel, Logistik;279;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-26;Einkauf;51;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-26;Handel / E-Commerce;124;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-26;Import / Export;15;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-26;Lieferantenmanagement;15;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-26;Logistik / Supply-Chain-Management;93;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-26;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-26;Finanzen, Versicherung, Recht;334;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-26;Finanzwesen;133;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-26;Rechnungswesen;191;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-26;Rechtswesen;74;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-26;Versicherungen;8;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-26;Forschung, Wissenschaft, Bildung;240;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-26;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-26;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-26;Medizinische Wissenschaft;37;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-26;Wissenschaft;211;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-26;IT, Entwicklung;2247;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-26;Blockchain;2;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-26;Business Intelligence;158;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-26;Datenbanken;159;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-26;DevOps;97;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-26;ERP / CRM Systeme;242;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-26;Hardware-Entwicklung / Engineering;62;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-26;Incident / Service Management / ITIL;78;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-26;IT Sicherheit;206;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-26;Maschinelles Lernen;11;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-26;Natural Language Processing (NLP);1;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-26;Plattformen / Betriebssysteme;123;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-26;Projektleitung / -management (IT);197;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-26;Qualitätsmanagement / Testing (IT);139;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-26;SAP;531;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-26;Serveradministration;112;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-26;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-26;Software Architektur / Analyse;65;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-26;Softwareentwicklung / -programmierung;537;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-26;Softwarepaketierung / Verteilung;24;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-26;Support / Techniker;72;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-26;System Architektur / Analyse;236;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-26;Systemadministration;224;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-26;Telekommunikation / Netzwerke;156;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-26;User Interface / User Experience;32;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-26;Virtualisierung;150;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-26;Web;265;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-26;Weitere IT-Qualifikationen;341;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-26;Marketing, Vertrieb, Kommunikation;233;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-26;Kommunikation;61;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-26;Marketing;99;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-26;Vertrieb;105;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-26;Management, Unternehmen, Strategie;912;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-26;Management;172;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-26;Personalwesen;84;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-26;Projektleitung / -management / PMO;460;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-26;Qualitätsmanagement;192;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-26;Strategie;101;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-26;Weitere organisatorische Qualifikationen;113;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-26;Sprachen, Dienstleistung, Soziales;57;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-26;Dienstleistung;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-26;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-26;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-26;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-26;Training / Schulung / Coaching;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-26;Technik, Ingenieurwesen;1359;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-26;Architektur;117;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-26;Automatisierungstechnik;107;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-26;Bauingenieurwesen;177;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-26;Elektrotechnik / Elektronik;185;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-26;Energietechnik;75;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-26;Fahrzeugbau / -technik;131;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-26;Fertigungstechnik;53;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-26;Funk- / Nachrichtentechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-26;Handwerk;29;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-26;Installation / Montage / Wartung;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-26;Konstruktionstechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-26;Luft- / Raumfahrttechnik;13;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-26;Management (Technik);273;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-26;Maschinen- / Anlagenbau;162;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-26;Mechatronik;21;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-26;Mess- / Regelungstechnik;164;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-26;Produktionstechnik;97;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-26;Prüftechnik;17;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-26;Qualitätsmanagement / Testing (Technik);84;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-26;Robotik / Robotertechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-26;Sicherheitstechnik;97;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-26;Technisches Zeichnen / CAD / CAE;106;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-26;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-26;Umwelttechnik;51;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-26;Verfahrenstechnik;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-26;Versorgungstechnik;127;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-26;Weitere technische Qualifikationen;54;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-27;Design, Kunst, Medien;74;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-27;Design;31;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-27;Grafik- / Animationssoftware;21;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-27;Kunst;7;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-27;Medien;7;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-27;Redaktion;14;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-27;Einkauf, Handel, Logistik;274;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-27;Einkauf;51;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-27;Handel / E-Commerce;125;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-27;Import / Export;17;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-27;Lieferantenmanagement;14;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-27;Logistik / Supply-Chain-Management;91;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-27;Transport / Spedition;9;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-27;Finanzen, Versicherung, Recht;339;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-27;Finanzwesen;140;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-27;Rechnungswesen;187;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-27;Rechtswesen;72;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-27;Versicherungen;7;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-27;Forschung, Wissenschaft, Bildung;231;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-27;Bildung;2;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-27;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-27;Medizinische Wissenschaft;35;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-27;Wissenschaft;203;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-27;IT, Entwicklung;2216;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-27;Blockchain;2;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-27;Business Intelligence;155;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-27;Datenbanken;162;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-27;DevOps;93;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-27;ERP / CRM Systeme;235;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-27;Hardware-Entwicklung / Engineering;65;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-27;Incident / Service Management / ITIL;75;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-27;IT Sicherheit;198;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-27;Maschinelles Lernen;13;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-27;Natural Language Processing (NLP);3;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-27;Plattformen / Betriebssysteme;120;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-27;Projektleitung / -management (IT);190;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-27;Qualitätsmanagement / Testing (IT);130;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-27;SAP;529;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-27;Serveradministration;100;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-27;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-27;Software Architektur / Analyse;71;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-27;Softwareentwicklung / -programmierung;516;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-27;Softwarepaketierung / Verteilung;23;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-27;Support / Techniker;76;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-27;System Architektur / Analyse;223;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-27;Systemadministration;215;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-27;Telekommunikation / Netzwerke;152;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-27;User Interface / User Experience;32;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-27;Virtualisierung;146;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-27;Web;256;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-27;Weitere IT-Qualifikationen;334;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-27;Marketing, Vertrieb, Kommunikation;225;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-27;Kommunikation;59;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-27;Marketing;98;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-27;Vertrieb;102;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-27;Management, Unternehmen, Strategie;888;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-27;Management;171;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-27;Personalwesen;84;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-27;Projektleitung / -management / PMO;459;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-27;Qualitätsmanagement;179;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-27;Strategie;98;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-27;Weitere organisatorische Qualifikationen;105;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-27;Sprachen, Dienstleistung, Soziales;59;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-27;Dienstleistung;26;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-27;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-27;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-27;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-27;Training / Schulung / Coaching;30;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-27;Technik, Ingenieurwesen;1348;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-27;Architektur;115;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-27;Automatisierungstechnik;111;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-27;Bauingenieurwesen;180;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-27;Elektrotechnik / Elektronik;186;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-27;Energietechnik;74;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-27;Fahrzeugbau / -technik;126;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-27;Fertigungstechnik;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-27;Funk- / Nachrichtentechnik;46;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-27;Handwerk;27;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-27;Installation / Montage / Wartung;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-27;Konstruktionstechnik;33;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-27;Luft- / Raumfahrttechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-27;Management (Technik);272;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-27;Maschinen- / Anlagenbau;159;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-27;Mechatronik;22;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-27;Mess- / Regelungstechnik;167;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-27;Produktionstechnik;99;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-27;Prüftechnik;15;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-27;Qualitätsmanagement / Testing (Technik);77;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-27;Robotik / Robotertechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-27;Sicherheitstechnik;99;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-27;Technisches Zeichnen / CAD / CAE;107;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-27;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-27;Umwelttechnik;53;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-27;Verfahrenstechnik;48;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-27;Versorgungstechnik;124;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-27;Weitere technische Qualifikationen;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-28;Design, Kunst, Medien;82;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-28;Design;37;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-28;Grafik- / Animationssoftware;23;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-28;Kunst;8;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-28;Medien;9;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-28;Redaktion;14;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-28;Einkauf, Handel, Logistik;266;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-28;Einkauf;49;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-28;Handel / E-Commerce;119;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-28;Import / Export;15;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-28;Lieferantenmanagement;14;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-28;Logistik / Supply-Chain-Management;90;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-28;Transport / Spedition;9;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-28;Finanzen, Versicherung, Recht;320;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-28;Finanzwesen;132;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-28;Rechnungswesen;184;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-28;Rechtswesen;66;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-28;Versicherungen;6;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-28;Forschung, Wissenschaft, Bildung;223;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-28;Bildung;3;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-28;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-28;Medizinische Wissenschaft;35;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-28;Wissenschaft;193;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-28;IT, Entwicklung;2227;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-28;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-28;Business Intelligence;165;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-28;Datenbanken;161;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-28;DevOps;91;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-28;ERP / CRM Systeme;244;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-28;Hardware-Entwicklung / Engineering;77;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-28;Incident / Service Management / ITIL;64;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-28;IT Sicherheit;192;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-28;Maschinelles Lernen;21;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-28;Natural Language Processing (NLP);5;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-28;Plattformen / Betriebssysteme;125;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-28;Projektleitung / -management (IT);185;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-28;Qualitätsmanagement / Testing (IT);132;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-28;SAP;523;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-28;Serveradministration;104;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-28;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-28;Software Architektur / Analyse;70;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-28;Softwareentwicklung / -programmierung;512;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-28;Softwarepaketierung / Verteilung;22;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-28;Support / Techniker;76;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-28;System Architektur / Analyse;211;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-28;Systemadministration;203;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-28;Telekommunikation / Netzwerke;151;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-28;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-28;Virtualisierung;144;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-28;Web;265;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-28;Weitere IT-Qualifikationen;327;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-28;Marketing, Vertrieb, Kommunikation;226;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-28;Kommunikation;57;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-28;Marketing;101;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-28;Vertrieb;103;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-28;Management, Unternehmen, Strategie;859;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-28;Management;172;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-28;Personalwesen;77;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-28;Projektleitung / -management / PMO;439;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-28;Qualitätsmanagement;175;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-28;Strategie;94;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-28;Weitere organisatorische Qualifikationen;103;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-28;Sprachen, Dienstleistung, Soziales;55;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-28;Dienstleistung;27;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-28;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-28;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-28;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-28;Training / Schulung / Coaching;25;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-28;Technik, Ingenieurwesen;1374;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-28;Architektur;117;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-28;Automatisierungstechnik;106;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-28;Bauingenieurwesen;177;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-28;Elektrotechnik / Elektronik;197;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-28;Energietechnik;81;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-28;Fahrzeugbau / -technik;128;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-28;Fertigungstechnik;53;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-28;Funk- / Nachrichtentechnik;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-28;Handwerk;26;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-28;Installation / Montage / Wartung;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-28;Konstruktionstechnik;34;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-28;Luft- / Raumfahrttechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-28;Management (Technik);277;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-28;Maschinen- / Anlagenbau;164;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-28;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-28;Mess- / Regelungstechnik;166;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-28;Produktionstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-28;Prüftechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-28;Qualitätsmanagement / Testing (Technik);78;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-28;Robotik / Robotertechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-28;Sicherheitstechnik;96;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-28;Technisches Zeichnen / CAD / CAE;116;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-28;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-28;Umwelttechnik;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-28;Verfahrenstechnik;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-28;Versorgungstechnik;124;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-28;Weitere technische Qualifikationen;49;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-29;Design, Kunst, Medien;77;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-29;Design;34;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-29;Grafik- / Animationssoftware;23;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-29;Kunst;7;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-29;Medien;8;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-29;Redaktion;13;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-29;Einkauf, Handel, Logistik;260;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-29;Einkauf;49;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-29;Handel / E-Commerce;113;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-29;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-29;Lieferantenmanagement;13;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-29;Logistik / Supply-Chain-Management;89;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-29;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-29;Finanzen, Versicherung, Recht;316;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-29;Finanzwesen;130;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-29;Rechnungswesen;182;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-29;Rechtswesen;65;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-29;Versicherungen;7;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-29;Forschung, Wissenschaft, Bildung;215;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-29;Bildung;3;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-29;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-29;Medizinische Wissenschaft;33;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-29;Wissenschaft;187;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-29;IT, Entwicklung;2141;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-29;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-29;Business Intelligence;158;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-29;Datenbanken;154;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-29;DevOps;88;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-29;ERP / CRM Systeme;238;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-29;Hardware-Entwicklung / Engineering;70;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-29;Incident / Service Management / ITIL;61;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-29;IT Sicherheit;187;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-29;Maschinelles Lernen;23;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-29;Natural Language Processing (NLP);5;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-29;Plattformen / Betriebssysteme;115;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-29;Projektleitung / -management (IT);170;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-29;Qualitätsmanagement / Testing (IT);129;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-29;SAP;508;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-29;Serveradministration;100;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-29;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-29;Software Architektur / Analyse;68;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-29;Softwareentwicklung / -programmierung;497;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-29;Softwarepaketierung / Verteilung;22;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-29;Support / Techniker;72;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-29;System Architektur / Analyse;196;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-29;Systemadministration;194;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-29;Telekommunikation / Netzwerke;143;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-29;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-29;Virtualisierung;136;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-29;Web;260;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-29;Weitere IT-Qualifikationen;322;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-29;Marketing, Vertrieb, Kommunikation;222;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-29;Kommunikation;55;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-29;Marketing;99;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-29;Vertrieb;104;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-29;Management, Unternehmen, Strategie;834;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-29;Management;165;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-29;Personalwesen;71;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-29;Projektleitung / -management / PMO;431;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-29;Qualitätsmanagement;173;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-29;Strategie;88;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-29;Weitere organisatorische Qualifikationen;101;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-29;Sprachen, Dienstleistung, Soziales;50;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-29;Dienstleistung;24;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-29;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-29;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-29;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-29;Training / Schulung / Coaching;23;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-29;Technik, Ingenieurwesen;1330;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-29;Architektur;111;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-29;Automatisierungstechnik;106;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-29;Bauingenieurwesen;170;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-29;Elektrotechnik / Elektronik;191;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-29;Energietechnik;73;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-29;Fahrzeugbau / -technik;123;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-29;Fertigungstechnik;52;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-29;Funk- / Nachrichtentechnik;46;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-29;Handwerk;26;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-29;Installation / Montage / Wartung;29;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-29;Konstruktionstechnik;34;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-29;Luft- / Raumfahrttechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-29;Management (Technik);267;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-29;Maschinen- / Anlagenbau;160;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-29;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-29;Mess- / Regelungstechnik;164;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-29;Produktionstechnik;91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-29;Prüftechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-29;Qualitätsmanagement / Testing (Technik);76;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-29;Robotik / Robotertechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-29;Sicherheitstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-29;Technisches Zeichnen / CAD / CAE;114;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-29;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-29;Umwelttechnik;48;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-29;Verfahrenstechnik;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-29;Versorgungstechnik;125;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-29;Weitere technische Qualifikationen;51;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-03-30;Design, Kunst, Medien;75;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-03-30;Design;34;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-03-30;Grafik- / Animationssoftware;22;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-03-30;Kunst;7;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-03-30;Medien;7;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-03-30;Redaktion;13;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-03-30;Einkauf, Handel, Logistik;253;/Projekte/K/Einkauf-Handel-Logistik/
+2024-03-30;Einkauf;45;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-03-30;Handel / E-Commerce;110;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-03-30;Import / Export;16;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-03-30;Lieferantenmanagement;13;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-03-30;Logistik / Supply-Chain-Management;88;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-03-30;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-03-30;Finanzen, Versicherung, Recht;307;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-03-30;Finanzwesen;127;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-03-30;Rechnungswesen;179;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-03-30;Rechtswesen;63;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-03-30;Versicherungen;6;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-03-30;Forschung, Wissenschaft, Bildung;211;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-03-30;Bildung;3;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-03-30;Forschung / Entwicklung;11;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-03-30;Medizinische Wissenschaft;32;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-03-30;Wissenschaft;184;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-03-30;IT, Entwicklung;2102;/Projekte/K/IT-Entwicklung-Projekte/
+2024-03-30;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-03-30;Business Intelligence;155;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-03-30;Datenbanken;148;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-03-30;DevOps;87;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-03-30;ERP / CRM Systeme;234;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-03-30;Hardware-Entwicklung / Engineering;70;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-03-30;Incident / Service Management / ITIL;59;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-03-30;IT Sicherheit;185;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-03-30;Maschinelles Lernen;23;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-03-30;Natural Language Processing (NLP);5;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-03-30;Plattformen / Betriebssysteme;114;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-03-30;Projektleitung / -management (IT);165;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-03-30;Qualitätsmanagement / Testing (IT);129;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-03-30;SAP;495;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-03-30;Serveradministration;98;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-03-30;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-03-30;Software Architektur / Analyse;68;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-03-30;Softwareentwicklung / -programmierung;490;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-03-30;Softwarepaketierung / Verteilung;22;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-03-30;Support / Techniker;71;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-03-30;System Architektur / Analyse;193;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-03-30;Systemadministration;193;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-03-30;Telekommunikation / Netzwerke;141;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-03-30;User Interface / User Experience;27;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-03-30;Virtualisierung;133;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-03-30;Web;259;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-03-30;Weitere IT-Qualifikationen;320;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-03-30;Marketing, Vertrieb, Kommunikation;218;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-03-30;Kommunikation;55;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-03-30;Marketing;96;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-03-30;Vertrieb;101;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-03-30;Management, Unternehmen, Strategie;817;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-03-30;Management;162;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-03-30;Personalwesen;70;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-03-30;Projektleitung / -management / PMO;426;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-30;Qualitätsmanagement;168;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-30;Strategie;87;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-03-30;Weitere organisatorische Qualifikationen;98;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-03-30;Sprachen, Dienstleistung, Soziales;50;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-03-30;Dienstleistung;24;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-03-30;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-03-30;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-03-30;Sprache / Übersetzung;3;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-03-30;Training / Schulung / Coaching;23;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-03-30;Technik, Ingenieurwesen;1311;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-03-30;Architektur;110;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-03-30;Automatisierungstechnik;104;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-03-30;Bauingenieurwesen;168;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-03-30;Elektrotechnik / Elektronik;190;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-03-30;Energietechnik;73;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-03-30;Fahrzeugbau / -technik;121;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-03-30;Fertigungstechnik;52;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-03-30;Funk- / Nachrichtentechnik;46;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-03-30;Handwerk;26;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-03-30;Installation / Montage / Wartung;28;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-03-30;Konstruktionstechnik;33;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-03-30;Luft- / Raumfahrttechnik;16;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-03-30;Management (Technik);264;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-03-30;Maschinen- / Anlagenbau;160;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-03-30;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-03-30;Mess- / Regelungstechnik;160;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-03-30;Produktionstechnik;90;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-03-30;Prüftechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-03-30;Qualitätsmanagement / Testing (Technik);75;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-03-30;Robotik / Robotertechnik;31;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-03-30;Sicherheitstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-03-30;Technisches Zeichnen / CAD / CAE;112;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-03-30;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-03-30;Umwelttechnik;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-03-30;Verfahrenstechnik;47;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-03-30;Versorgungstechnik;122;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-03-30;Weitere technische Qualifikationen;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-04-01;Design, Kunst, Medien;68;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-04-01;Design;29;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-04-01;Grafik- / Animationssoftware;21;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-04-01;Kunst;7;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-04-01;Medien;5;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-04-01;Redaktion;12;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-04-01;Einkauf, Handel, Logistik;245;/Projekte/K/Einkauf-Handel-Logistik/
+2024-04-01;Einkauf;41;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-04-01;Handel / E-Commerce;107;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-04-01;Import / Export;15;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-04-01;Lieferantenmanagement;13;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-04-01;Logistik / Supply-Chain-Management;88;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-04-01;Transport / Spedition;10;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-04-01;Finanzen, Versicherung, Recht;276;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-04-01;Finanzwesen;120;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-04-01;Rechnungswesen;154;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-04-01;Rechtswesen;61;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-04-01;Versicherungen;6;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-04-01;Forschung, Wissenschaft, Bildung;198;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-04-01;Bildung;3;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-04-01;Forschung / Entwicklung;10;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-04-01;Medizinische Wissenschaft;32;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-04-01;Wissenschaft;172;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-04-01;IT, Entwicklung;1837;/Projekte/K/IT-Entwicklung-Projekte/
+2024-04-01;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-04-01;Business Intelligence;137;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-04-01;Datenbanken;134;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-04-01;DevOps;80;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-04-01;ERP / CRM Systeme;197;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-04-01;Hardware-Entwicklung / Engineering;65;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-04-01;Incident / Service Management / ITIL;52;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-04-01;IT Sicherheit;173;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-04-01;Maschinelles Lernen;20;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-04-01;Natural Language Processing (NLP);5;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-04-01;Plattformen / Betriebssysteme;101;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-04-01;Projektleitung / -management (IT);140;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-04-01;Qualitätsmanagement / Testing (IT);116;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-04-01;SAP;414;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-04-01;Serveradministration;87;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-04-01;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-04-01;Software Architektur / Analyse;62;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-04-01;Softwareentwicklung / -programmierung;432;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-04-01;Softwarepaketierung / Verteilung;19;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-04-01;Support / Techniker;59;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-04-01;System Architektur / Analyse;182;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-04-01;Systemadministration;176;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-04-01;Telekommunikation / Netzwerke;125;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-04-01;User Interface / User Experience;28;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-04-01;Virtualisierung;124;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-04-01;Web;226;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-04-01;Weitere IT-Qualifikationen;293;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-04-01;Marketing, Vertrieb, Kommunikation;199;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-04-01;Kommunikation;54;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-04-01;Marketing;89;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-04-01;Vertrieb;88;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-04-01;Management, Unternehmen, Strategie;771;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-04-01;Management;152;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-04-01;Personalwesen;69;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-04-01;Projektleitung / -management / PMO;404;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-04-01;Qualitätsmanagement;163;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-04-01;Strategie;82;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-04-01;Weitere organisatorische Qualifikationen;89;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-04-01;Sprachen, Dienstleistung, Soziales;46;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-04-01;Dienstleistung;22;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-04-01;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-04-01;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-04-01;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-04-01;Training / Schulung / Coaching;22;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-04-01;Technik, Ingenieurwesen;1192;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-04-01;Architektur;104;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-04-01;Automatisierungstechnik;91;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-04-01;Bauingenieurwesen;156;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-04-01;Elektrotechnik / Elektronik;172;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-04-01;Energietechnik;66;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-04-01;Fahrzeugbau / -technik;110;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-04-01;Fertigungstechnik;50;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-04-01;Funk- / Nachrichtentechnik;38;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-04-01;Handwerk;26;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-04-01;Installation / Montage / Wartung;21;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-04-01;Konstruktionstechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-04-01;Luft- / Raumfahrttechnik;14;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-04-01;Management (Technik);245;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-04-01;Maschinen- / Anlagenbau;148;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-04-01;Mechatronik;24;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-04-01;Mess- / Regelungstechnik;141;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-04-01;Produktionstechnik;83;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-04-01;Prüftechnik;12;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-04-01;Qualitätsmanagement / Testing (Technik);66;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-04-01;Robotik / Robotertechnik;30;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-04-01;Sicherheitstechnik;85;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-04-01;Technisches Zeichnen / CAD / CAE;105;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-04-01;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-04-01;Umwelttechnik;46;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-04-01;Verfahrenstechnik;40;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-04-01;Versorgungstechnik;114;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-04-01;Weitere technische Qualifikationen;46;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/
+2024-04-02;Design, Kunst, Medien;58;/Projekte/K/Design-Kunst-Medien-Projekte/
+2024-04-02;Design;28;/Projekte/K/Design-Kunst-Medien-Projekte/Design-Projekte/
+2024-04-02;Grafik- / Animationssoftware;14;/Projekte/K/Design-Kunst-Medien-Projekte/Grafik-Animationssoftware-Projekte/
+2024-04-02;Kunst;6;/Projekte/K/Design-Kunst-Medien-Projekte/Kunst-Projekte/
+2024-04-02;Medien;6;/Projekte/K/Design-Kunst-Medien-Projekte/Medien-Projekte/
+2024-04-02;Redaktion;9;/Projekte/K/Design-Kunst-Medien-Projekte/Redaktion-Projekte/
+2024-04-02;Einkauf, Handel, Logistik;188;/Projekte/K/Einkauf-Handel-Logistik/
+2024-04-02;Einkauf;36;/Projekte/K/Einkauf-Handel-Logistik/Einkauf-Projekte/
+2024-04-02;Handel / E-Commerce;81;/Projekte/K/Einkauf-Handel-Logistik/Handel-E-Commerce-Projekte/
+2024-04-02;Import / Export;12;/Projekte/K/Einkauf-Handel-Logistik/Import-Export-Projekte/
+2024-04-02;Lieferantenmanagement;10;/Projekte/K/Einkauf-Handel-Logistik/Lieferantenmanagement-Projekte/
+2024-04-02;Logistik / Supply-Chain-Management;62;/Projekte/K/Einkauf-Handel-Logistik/Supply-Chain-Management-Projekte/
+2024-04-02;Transport / Spedition;8;/Projekte/K/Einkauf-Handel-Logistik/Transport-Projekte/
+2024-04-02;Finanzen, Versicherung, Recht;232;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/
+2024-04-02;Finanzwesen;99;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Finanzwesen-Projekte/
+2024-04-02;Rechnungswesen;131;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechnungswesen-Projekte/
+2024-04-02;Rechtswesen;51;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Rechtswesen-Projekte/
+2024-04-02;Versicherungen;4;/Projekte/K/Finanzen-Versicherung-Recht-Projekte/Versicherungen-Projekte/
+2024-04-02;Forschung, Wissenschaft, Bildung;140;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/
+2024-04-02;Bildung;1;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Bildung-Projekte/
+2024-04-02;Forschung / Entwicklung;9;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Forschung-Entwicklung-Projekte/
+2024-04-02;Medizinische Wissenschaft;19;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Medizinische-Wissenschaft-Projekte/
+2024-04-02;Wissenschaft;125;/Projekte/K/Forschung-Wissenschaft-Bildung-Projekte/Wissenschaft-Projekte/
+2024-04-02;IT, Entwicklung;1582;/Projekte/K/IT-Entwicklung-Projekte/
+2024-04-02;Blockchain;1;/Projekte/K/IT-Entwicklung-Projekte/Blockchain-Projekte/
+2024-04-02;Business Intelligence;116;/Projekte/K/IT-Entwicklung-Projekte/Business-Intelligence-Projekte/
+2024-04-02;Datenbanken;114;/Projekte/K/IT-Entwicklung-Projekte/Datenbanken-Projekte/
+2024-04-02;DevOps;75;/Projekte/K/IT-Entwicklung-Projekte/DevOps-Projekte/
+2024-04-02;ERP / CRM Systeme;174;/Projekte/K/IT-Entwicklung-Projekte/ERP-CRM-Systeme-Projekte/
+2024-04-02;Hardware-Entwicklung / Engineering;61;/Projekte/K/IT-Entwicklung-Projekte/Hardware-Entwicklung-Engineering-Projekte/
+2024-04-02;Incident / Service Management / ITIL;44;/Projekte/K/IT-Entwicklung-Projekte/Incidentmanagement-Servicemanagement-ITIL-Projekte/
+2024-04-02;IT Sicherheit;147;/Projekte/K/IT-Entwicklung-Projekte/IT-Sicherheit-Projekte/
+2024-04-02;Maschinelles Lernen;17;/Projekte/K/IT-Entwicklung-Projekte/Maschinelles-Lernen-Projekte/
+2024-04-02;Natural Language Processing (NLP);4;/Projekte/K/IT-Entwicklung-Projekte/Natural-Language-Processing-Projekte/
+2024-04-02;Plattformen / Betriebssysteme;86;/Projekte/K/IT-Entwicklung-Projekte/Plattformen-Betriebssysteme-Projekte/
+2024-04-02;Projektleitung / -management (IT);115;/Projekte/K/IT-Entwicklung-Projekte/Projektleitung-Projektmanagement-IT-Projekte/
+2024-04-02;Qualitätsmanagement / Testing (IT);96;/Projekte/K/IT-Entwicklung-Projekte/Qualitaetsmanagement-Testing-Projekte/
+2024-04-02;SAP;362;/Projekte/K/IT-Entwicklung-Projekte/SAP-Projekte/
+2024-04-02;Serveradministration;74;/Projekte/K/IT-Entwicklung-Projekte/Serveradministration-Projekte/
+2024-04-02;Shopify;1;/Projekte/K/IT-Entwicklung-Projekte/Shopify-Projekte/
+2024-04-02;Software Architektur / Analyse;50;/Projekte/K/IT-Entwicklung-Projekte/Softwarearchitektur-Softwareanalyse-Projekte/
+2024-04-02;Softwareentwicklung / -programmierung;376;/Projekte/K/IT-Entwicklung-Projekte/Softwareentwicklung-Softwareprogrammierung-Projekte/
+2024-04-02;Softwarepaketierung / Verteilung;16;/Projekte/K/IT-Entwicklung-Projekte/Softwarepaketierung-Verteilung-Projekte/
+2024-04-02;Support / Techniker;44;/Projekte/K/IT-Entwicklung-Projekte/Support-Techniker-Projekte/
+2024-04-02;System Architektur / Analyse;156;/Projekte/K/IT-Entwicklung-Projekte/Systemarchitektur-Systemanalyse-Projekte/
+2024-04-02;Systemadministration;140;/Projekte/K/IT-Entwicklung-Projekte/Systemadministration-Projekte/
+2024-04-02;Telekommunikation / Netzwerke;108;/Projekte/K/IT-Entwicklung-Projekte/Telekommunikation-Netzwerke-Projekte/
+2024-04-02;User Interface / User Experience;23;/Projekte/K/IT-Entwicklung-Projekte/User-Interface-User-Experience-Projekte/
+2024-04-02;Virtualisierung;104;/Projekte/K/IT-Entwicklung-Projekte/Virtualisierung-Projekte/
+2024-04-02;Web;214;/Projekte/K/IT-Entwicklung-Projekte/Web-Projekte/
+2024-04-02;Weitere IT-Qualifikationen;234;/Projekte/K/IT-Entwicklung-Projekte/Weitere-IT-Qualifikationen-Projekte/
+2024-04-02;Marketing, Vertrieb, Kommunikation;153;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/
+2024-04-02;Kommunikation;40;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Kommunikation-Projekte/
+2024-04-02;Marketing;71;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Marketing-Projekte/
+2024-04-02;Vertrieb;65;/Projekte/K/Marketing-Vertrieb-Kommunikation-Projekte/Vertrieb-Projekte/
+2024-04-02;Management, Unternehmen, Strategie;597;/Projekte/K/Management-Unternehmen-Strategie-Projekte/
+2024-04-02;Management;118;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Management-Projekte/
+2024-04-02;Personalwesen;61;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Personalwesen-Projekte/
+2024-04-02;Projektleitung / -management / PMO;316;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-04-02;Qualitätsmanagement;132;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Qualitaetsmanagement-Projekte/
+2024-04-02;Strategie;63;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Strategie-Projekte/
+2024-04-02;Weitere organisatorische Qualifikationen;61;/Projekte/K/Management-Unternehmen-Strategie-Projekte/Weitere-organisatorische-Projekte/
+2024-04-02;Sprachen, Dienstleistung, Soziales;40;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/
+2024-04-02;Dienstleistung;17;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Dienstleistung-Projekte/
+2024-04-02;Erziehung;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Erziehung-Projekte/
+2024-04-02;Soziales;0;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Soziales-Projekte/
+2024-04-02;Sprache / Übersetzung;2;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Sprache-Uebersetzung-Projekte/
+2024-04-02;Training / Schulung / Coaching;21;/Projekte/K/Sprachen-Dienstleistung-Soziales-Projekte/Training-Schulung-Coaching-Projekte/
+2024-04-02;Technik, Ingenieurwesen;1009;/Projekte/K/Technik-Ingenieurwesen-Projekte/
+2024-04-02;Architektur;83;/Projekte/K/Technik-Ingenieurwesen-Projekte/Architektur-Projekte/
+2024-04-02;Automatisierungstechnik;85;/Projekte/K/Technik-Ingenieurwesen-Projekte/Automatisierungstechnik-Projekte/
+2024-04-02;Bauingenieurwesen;131;/Projekte/K/Technik-Ingenieurwesen-Projekte/Bauingenieurwesen-Projekte/
+2024-04-02;Elektrotechnik / Elektronik;154;/Projekte/K/Technik-Ingenieurwesen-Projekte/Elektrotechnik-Elektronik-Projekte/
+2024-04-02;Energietechnik;55;/Projekte/K/Technik-Ingenieurwesen-Projekte/Energietechnik-Projekte/
+2024-04-02;Fahrzeugbau / -technik;97;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fahrzeugbau-Fahrzeugtechnik-Projekte/
+2024-04-02;Fertigungstechnik;42;/Projekte/K/Technik-Ingenieurwesen-Projekte/Fertigungstechnik-Projekte/
+2024-04-02;Funk- / Nachrichtentechnik;36;/Projekte/K/Technik-Ingenieurwesen-Projekte/Funktechnik-Nachrichtentechnik-Projekte/
+2024-04-02;Handwerk;21;/Projekte/K/Technik-Ingenieurwesen-Projekte/Handwerk-Projekte/
+2024-04-02;Installation / Montage / Wartung;23;/Projekte/K/Technik-Ingenieurwesen-Projekte/Installation-Montage-Wartung-Projekte/
+2024-04-02;Konstruktionstechnik;21;/Projekte/K/Technik-Ingenieurwesen-Projekte/Konstruktionstechnik-Projekte/
+2024-04-02;Luft- / Raumfahrttechnik;15;/Projekte/K/Technik-Ingenieurwesen-Projekte/Luftfahrttechnik-Raumfahrttechnik-Projekte/
+2024-04-02;Management (Technik);204;/Projekte/K/Technik-Ingenieurwesen-Projekte/Projektleitung-Projektmanagement-PMO-Projekte/
+2024-04-02;Maschinen- / Anlagenbau;121;/Projekte/K/Technik-Ingenieurwesen-Projekte/Maschinenbau-Anlagenbau-Projekte/
+2024-04-02;Mechatronik;23;/Projekte/K/Technik-Ingenieurwesen-Projekte/Mechatronik-Projekte/
+2024-04-02;Mess- / Regelungstechnik;133;/Projekte/K/Technik-Ingenieurwesen-Projekte/Messtechnik-Regelungstechnik-Projekte/
+2024-04-02;Produktionstechnik;71;/Projekte/K/Technik-Ingenieurwesen-Projekte/Produktionstechnik-Projekte/
+2024-04-02;Prüftechnik;9;/Projekte/K/Technik-Ingenieurwesen-Projekte/Prueftechnik-Projekte/
+2024-04-02;Qualitätsmanagement / Testing (Technik);42;/Projekte/K/Technik-Ingenieurwesen-Projekte/Qualitaetsmanagement-Projekte/
+2024-04-02;Robotik / Robotertechnik;26;/Projekte/K/Technik-Ingenieurwesen-Projekte/Robotik-Robotertechnik-Projekte/
+2024-04-02;Sicherheitstechnik;73;/Projekte/K/Technik-Ingenieurwesen-Projekte/Sicherheitstechnik-Projekte/
+2024-04-02;Technisches Zeichnen / CAD / CAE;87;/Projekte/K/Technik-Ingenieurwesen-Projekte/Technisches-Zeichnen-CAD-CAE-Projekte/
+2024-04-02;Textiltechnik;1;/Projekte/K/Technik-Ingenieurwesen-Projekte/Textiltechnik-Projekte/
+2024-04-02;Umwelttechnik;32;/Projekte/K/Technik-Ingenieurwesen-Projekte/Umwelttechnik-Projekte/
+2024-04-02;Verfahrenstechnik;38;/Projekte/K/Technik-Ingenieurwesen-Projekte/Verfahrenstechnik-Projekte/
+2024-04-02;Versorgungstechnik;93;/Projekte/K/Technik-Ingenieurwesen-Projekte/Versorgungstechnik-Projekte/
+2024-04-02;Weitere technische Qualifikationen;40;/Projekte/K/Technik-Ingenieurwesen-Projekte/Weitere-technische-Projekte/

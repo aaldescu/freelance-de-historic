@@ -2,7 +2,16 @@ import pandas as pd
 import os
 import streamlit as st
 from datetime import timedelta
+import math
 
+def safe_divide_and_ceil(numerator, denominator):
+    if denominator == 0:  # Check for division by zero
+        return 0  # Or None, or any other value you deem appropriate
+    else:
+        result = numerator / denominator
+        #return math.ceil(result)
+        return round(result,2)
+    
 project_path = os.path.dirname(os.path.realpath(__file__))
 
 # HTML code for the "Buy Me A Coffee" button
@@ -61,6 +70,15 @@ expert_filtered_df = filtered_df[ filtered_df['source'].isin(['freelance_data.cs
 job_pivot_df = job_filtered_df.pivot_table(index='date', columns='job_group', values='num_jobs', aggfunc='sum').fillna(0)
 expert_pivot_df = expert_filtered_df.pivot_table(index='date', columns='job_group', values='num_jobs', aggfunc='sum').fillna(0)
 
+# Data for Experts / Jobs Ratio
+df_pivot = filtered_df.pivot_table(index=["job_group", "date"], columns="source", values="num_jobs").fillna(0).reset_index()
+df_pivot["experts"] = df_pivot["freelance_data.csv"]+df_pivot["freelancermap_project_data.csv"]
+df_pivot = df_pivot.drop(columns=["freelance_data.csv","freelancermap_project_data.csv"])
+# Apply the function for safe division and rounding up
+df_pivot["ratio"] = df_pivot.apply(lambda row: safe_divide_and_ceil(row["experts"], row["project_data.csv"]), axis=1)
+expert_ratio_df = df_pivot.pivot_table(index='date', columns='job_group', values='ratio', aggfunc='sum').fillna(0)
+
+
 # Calculate the daily differences for jobs
 job_daily_diff = job_pivot_df.diff().fillna(0)  # Calculate day-to-day difference and fill NaN with 0
 
@@ -75,8 +93,8 @@ st.header('Jobs :money_with_wings:')
 # Plotting with st.line_chart
 st.line_chart(job_pivot_df)
 
-st.header('Experts :sunglasses:')
-st.line_chart(expert_pivot_df)
+st.header('Field Commpetition trend :sunglasses:')
+st.line_chart(expert_ratio_df)
 
 # Visualize the daily differences
 st.header('Daily Difference in Jobs :chart_with_upwards_trend:')
@@ -84,3 +102,5 @@ st.bar_chart(job_daily_diff)
 
 st.header('Daily Difference in Experts :chart_with_upwards_trend:')
 st.bar_chart(expert_daily_diff)
+
+st.write(df_pivot)

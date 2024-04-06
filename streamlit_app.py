@@ -103,4 +103,15 @@ st.bar_chart(job_daily_diff)
 st.header('Daily Difference in Experts :chart_with_upwards_trend:')
 st.bar_chart(expert_daily_diff)
 
-st.write(df_pivot)
+
+#
+df_topcomp = df.pivot_table(index=["job_group", "date"], columns="source", values="num_jobs").fillna(0).reset_index()
+df_topcomp["experts"] = df_topcomp["freelance_data.csv"]+df_topcomp["freelancermap_project_data.csv"]
+df_topcomp = df_topcomp.drop(columns=["freelance_data.csv","freelancermap_project_data.csv"])
+# Apply the function for safe division and rounding up
+df_topcomp["ratio"] = df_topcomp.apply(lambda row: safe_divide_and_ceil(row["experts"], row["project_data.csv"]), axis=1)
+
+#
+abc = df_topcomp.groupby('job_group')['ratio'].mean().round().reset_index()
+abc = abc.sort_values(by="ratio", ascending=False)
+st.write(abc)

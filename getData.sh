@@ -6,7 +6,7 @@ scripts=("getData_freelance.de.py" "getData_freelancermap.de.py")
 # Iterate over the scripts and execute them
 for script in "${scripts[@]}"; do
   echo "Running $script..."
-  python "$script"
+  python3 "$script"
   if [ $? -eq 0 ]; then
     echo "$script completed successfully."
   else

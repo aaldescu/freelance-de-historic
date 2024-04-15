@@ -1,6 +1,14 @@
 import streamlit as st
 
 
+# HTML code for the "Buy Me A Coffee" button
+w3counter_html = """
+<a href="https://www.buymeacoffee.com/aldescu_projects" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
+    height="30" width="108">
+</a>
+"""
+
 st.title('About This Dashboard')
 st.write("""
     ## Purpose

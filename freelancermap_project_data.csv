@@ -6070,3 +6070,220 @@ date;job_group;num_jobs
 2024-04-15;Brandenburg;82
 2024-04-15;Saarland;49
 2024-04-15;Nur Endkundenprojekte;417
+2024-04-16;Vor Ort;4931
+2024-04-16;Remote;2506
+2024-04-16;Hybrid;1865
+2024-04-16;Freiberuflich;8002
+2024-04-16;Festanstellung;682
+2024-04-16;Arbeitnehmerüberlassung;618
+2024-04-16;IT;2654
+2024-04-16;Anlagen- und Maschinenbau;544
+2024-04-16;Energiewirtschaft;480
+2024-04-16;Finanzen;370
+2024-04-16;Automobilindustrie;366
+2024-04-16;Hochschulen und Behörden und Verbände;329
+2024-04-16;Medizin und Pharma;253
+2024-04-16;Baugewerbe;214
+2024-04-16;Elektrotechnische Industrie;191
+2024-04-16;Handel;187
+2024-04-16;Web- und Softwareentwicklung;5572
+2024-04-16;Schreib- und Übersetzungsdienste;913
+2024-04-16;Grafikdesign und Kreativdienste;823
+2024-04-16;Digitales Marketing;845
+2024-04-16;Ingenieurwesen;3288
+2024-04-16;Finanz- und Rechnungswesen;1155
+2024-04-16;Management und Beratungsdienste;6508
+2024-04-16;Forschung und Analyse;3335
+2024-04-16;IT-Dienstleistungen;3949
+2024-04-16;SAP Applications;1711
+2024-04-16;Projektmanagement;1147
+2024-04-16;Softwareentwicklung;889
+2024-04-16;Sap Hana;872
+2024-04-16;Beratung;685
+2024-04-16;Verwaltungstätigkeiten;600
+2024-04-16;Qualitätsmanagement;597
+2024-04-16;Automatisierung;590
+2024-04-16;Java;570
+2024-04-16;Datenbanken;530
+2024-04-16;Cloud Computing;522
+2024-04-16;Jira;514
+2024-04-16;Stakeholder Management;503
+2024-04-16;Innovation;500
+2024-04-16;Microsoft Azure;474
+2024-04-16;Schreiben von Dokumentation;437
+2024-04-16;Infrastruktur;421
+2024-04-16;SQL;418
+2024-04-16;Python;413
+2024-04-16;Agile Methodologie;407
+2024-04-16;Linux;398
+2024-04-16;Testen;396
+2024-04-16;Elektrotechnik;394
+2024-04-16;Prozessoptimierung;387
+2024-04-16;Scrum;386
+2024-04-16;Architektur;385
+2024-04-16;Inbetriebnahme;375
+2024-04-16;Devops;365
+2024-04-16;Kubernetes;356
+2024-04-16;Confluence;333
+2024-04-16;ABAP;333
+2024-04-16;Backend;319
+2024-04-16;Continuous Integration;317
+2024-04-16;Sap Erp;314
+2024-04-16;Git;308
+2024-04-16;Ablaufplanung;306
+2024-04-16;Bauwesen;304
+2024-04-16;Automobilindustrie;300
+2024-04-16;Geschäftsprozesse;298
+2024-04-16;Ingenieurwesen;297
+2024-04-16;Informationssicherheit;292
+2024-04-16;Technischer Support;289
+2024-04-16;APIs;286
+2024-04-16;Javascript;283
+2024-04-16;ITIL;277
+2024-04-16;Finanzen;276
+2024-04-16;Projektplanung;274
+2024-04-16;Rekrutierung;273
+2024-04-16;Test Automation;265
+2024-04-16;Enterprise Resource Planning;264
+2024-04-16;Fehleranalyse;262
+2024-04-16;Docker;261
+2024-04-16;Buchhaltung;261
+2024-04-16;Vertrieb;257
+2024-04-16;Fehlerbehandlung;256
+2024-04-16;Amazon Web Services;248
+2024-04-16;Front End;240
+2024-04-16;Kundenbeziehungsmanagement;220
+2024-04-16;Bauleitung;218
+2024-04-16;It Service Management;214
+2024-04-16;Oracle Financials;211
+2024-04-16;Nachhaltigkeit;210
+2024-04-16;Change Management;210
+2024-04-16;Allgemeinchirurgie;206
+2024-04-16;Audits;206
+2024-04-16;Springboot;204
+2024-04-16;C++;202
+2024-04-16;AngularJS;198
+2024-04-16;Risikomanagement;193
+2024-04-16;Betriebssysteme;191
+2024-04-16;Microservices;190
+2024-04-16;Speicherprogrammierbare Steuerungen;190
+2024-04-16;Kundendienst;188
+2024-04-16;Maschinenbau;186
+2024-04-16;Beschaffungsmanagement;183
+2024-04-16;Active Directory;180
+2024-04-16;Test Management;178
+2024-04-16;Data Analysis;176
+2024-04-16;Energietechnik;175
+2024-04-16;Terraform;174
+2024-04-16;Verhandlung;172
+2024-04-16;Microsoft Sql-Server;172
+2024-04-16;C#;170
+2024-04-16;SAP R/3;169
+2024-04-16;SAP IS-U;169
+2024-04-16;Jenkins;167
+2024-04-16;Budgetierung;165
+2024-04-16;Workflows;165
+2024-04-16;Wirtschaftsinformatik;165
+2024-04-16;Rechnerarchitektur;161
+2024-04-16;Typescript;160
+2024-04-16;Cisco;159
+2024-04-16;Technisches Geschick;157
+2024-04-16;Logistikprozesse;157
+2024-04-16;Sap Fi;157
+2024-04-16;Lagerverwaltung;156
+2024-04-16;Datenmanagement;154
+2024-04-16;SAP Sales und Distribution;154
+2024-04-16;Risikoanalyse;154
+2024-04-16;Ansible;151
+2024-04-16;Deutschland;9313
+2024-04-16;Österreich;544
+2024-04-16;Schweiz;1154
+2024-04-16;Großbritannien;388
+2024-04-16;Niederlande;173
+2024-04-16;USA;117
+2024-04-16;Belgien;78
+2024-04-16;Spanien;77
+2024-04-16;Frankreich;66
+2024-04-16;Polen;57
+2024-04-16;Irland;29
+2024-04-16;Luxemburg;27
+2024-04-16;Italien;20
+2024-04-16;Schweden;18
+2024-04-16;Vereinigte Arabische Emirate;17
+2024-04-16;Indien;16
+2024-04-16;Marokko;16
+2024-04-16;Albanien;15
+2024-04-16;Thailand;14
+2024-04-16;Tschechische Republik;14
+2024-04-16;Vietnam;12
+2024-04-16;Israel;10
+2024-04-16;Norwegen;10
+2024-04-16;Südkorea;10
+2024-04-16;Dänemark;9
+2024-04-16;Rumänien;9
+2024-04-16;Saudi Arabien;9
+2024-04-16;Angola;9
+2024-04-16;Ägypten;8
+2024-04-16;Algeria;8
+2024-04-16;Portugal;8
+2024-04-16;Brasilien;6
+2024-04-16;China;6
+2024-04-16;Lettland;6
+2024-04-16;Tunesien;6
+2024-04-16;Ungarn;5
+2024-04-16;Türkei;5
+2024-04-16;Armenien;4
+2024-04-16;Finnland;4
+2024-04-16;Philippinen;4
+2024-04-16;Argentinien;3
+2024-04-16;Australien;3
+2024-04-16;Bulgarien;3
+2024-04-16;Estland;3
+2024-04-16;Griechenland;3
+2024-04-16;Kazakhstan;3
+2024-04-16;Kuwait;3
+2024-04-16;Zypern;3
+2024-04-16;Irak;2
+2024-04-16;Island;2
+2024-04-16;Jordanien;2
+2024-04-16;Litauen;2
+2024-04-16;Mexico;2
+2024-04-16;Senegal;2
+2024-04-16;Usbekistan;2
+2024-04-16;Serbien;2
+2024-04-16;Nigeria;2
+2024-04-16;Azerbaijan;2
+2024-04-16;Liechtenstein;1
+2024-04-16;Ukraine;1
+2024-04-16;Neuseeland;1
+2024-04-16;Slowakei;1
+2024-04-16;Bahamas;1
+2024-04-16;Bangladesch;1
+2024-04-16;Hongkong;1
+2024-04-16;Japan;1
+2024-04-16;Katar;1
+2024-04-16;Kenya;1
+2024-04-16;Kroatien;1
+2024-04-16;Oman;1
+2024-04-16;Peru;1
+2024-04-16;Mauritius;1
+2024-04-16;El Salvador;1
+2024-04-16;Honduras;1
+2024-04-16;Spanien (Kanarische Inseln);1
+2024-04-16;Nordrhein-Westfalen;1662
+2024-04-16;Bayern;1656
+2024-04-16;Baden-Württemberg;1250
+2024-04-16;Hessen;1224
+2024-04-16;Berlin;868
+2024-04-16;Hamburg;634
+2024-04-16;Niedersachsen;388
+2024-04-16;Rheinland-Pfalz;233
+2024-04-16;Sachsen;188
+2024-04-16;Schleswig-Holstein;134
+2024-04-16;Bremen;134
+2024-04-16;Sachsen-Anhalt;112
+2024-04-16;Thüringen;102
+2024-04-16;Mecklenburg-Vorpommern;87
+2024-04-16;Brandenburg;82
+2024-04-16;Saarland;49
+2024-04-16;Nur Endkundenprojekte;418

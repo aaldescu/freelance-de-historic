@@ -46,7 +46,7 @@ min_date, max_date = df['date'].min().date(), df['date'].max().date()
 week_ago_date = max_date - timedelta(days=7)
 
 selected_date_range = st.sidebar.slider("Select Date Range:", 
-                                        min_value=week_ago_date, 
+                                        min_value=min_date, 
                                         max_value=max_date, 
                                         value=(week_ago_date, max_date)
                                        )

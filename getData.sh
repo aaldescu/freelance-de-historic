@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#update current forlder with a pull first
+git pull origin main
+
 # Define the scripts to run
 scripts=("getData_freelance.de.py" "getData_freelancermap.de.py")
 

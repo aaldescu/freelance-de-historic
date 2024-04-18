@@ -18,7 +18,7 @@ project_path = os.path.dirname(os.path.realpath(__file__))
 buy_me_a_coffee_html = """
 <a href="https://www.buymeacoffee.com/aldescu_projects" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
-    height="50" width="128">
+    height="50" width="180">
 </a>
 """
 

@@ -1,6 +1,9 @@
 ## Purpose
 This dashboard provides insights into the freelancer market in Germany, focusing on job availability and expert participation across various job groups. 
 
+## Web Link
+[https://germany-freelance-market.streamlit.app/](https://germany-freelance-market.streamlit.app/)
+
 ## CSV File Structure and Data Source
 The dashboard aggregates data from three CSV files, each representing different aspects of the freelancer market:
 

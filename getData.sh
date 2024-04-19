@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /home/aaldescu/freelance-de-historic/
+
 #update current forlder with a pull first
 git pull origin main
 

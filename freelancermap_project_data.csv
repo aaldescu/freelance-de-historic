@@ -9714,3 +9714,214 @@ date;job_group;num_jobs
 2024-05-02;Brandenburg;80
 2024-05-02;Saarland;50
 2024-05-02;Nur Endkundenprojekte;421
+2024-05-03;Vor Ort;4746
+2024-05-03;Remote;2345
+2024-05-03;Hybrid;1779
+2024-05-03;Freiberuflich;7448
+2024-05-03;Festanstellung;731
+2024-05-03;Arbeitnehmerüberlassung;691
+2024-05-03;IT;2580
+2024-05-03;Anlagen- und Maschinenbau;545
+2024-05-03;Energiewirtschaft;510
+2024-05-03;Finanzen;371
+2024-05-03;Automobilindustrie;318
+2024-05-03;Baugewerbe;236
+2024-05-03;Medizin und Pharma;235
+2024-05-03;Hochschulen und Behörden und Verbände;216
+2024-05-03;Handel;188
+2024-05-03;Elektrotechnische Industrie;174
+2024-05-03;Web- und Softwareentwicklung;5261
+2024-05-03;Schreib- und Übersetzungsdienste;794
+2024-05-03;Grafikdesign und Kreativdienste;772
+2024-05-03;Digitales Marketing;777
+2024-05-03;Ingenieurwesen;3102
+2024-05-03;Finanz- und Rechnungswesen;1071
+2024-05-03;Management und Beratungsdienste;6157
+2024-05-03;Forschung und Analyse;3192
+2024-05-03;IT-Dienstleistungen;3617
+2024-05-03;SAP Applications;1594
+2024-05-03;Projektmanagement;1127
+2024-05-03;Softwareentwicklung;874
+2024-05-03;Sap Hana;799
+2024-05-03;Beratung;633
+2024-05-03;Verwaltungstätigkeiten;567
+2024-05-03;Automatisierung;563
+2024-05-03;Qualitätsmanagement;560
+2024-05-03;Java;505
+2024-05-03;Innovation;499
+2024-05-03;Jira;497
+2024-05-03;Datenbanken;491
+2024-05-03;Cloud Computing;479
+2024-05-03;Stakeholder Management;458
+2024-05-03;Microsoft Azure;455
+2024-05-03;Agile Methodologie;406
+2024-05-03;Schreiben von Dokumentation;399
+2024-05-03;Infrastruktur;396
+2024-05-03;SQL;388
+2024-05-03;Testen;382
+2024-05-03;Python;378
+2024-05-03;Inbetriebnahme;377
+2024-05-03;Architektur;376
+2024-05-03;Scrum;375
+2024-05-03;Prozessoptimierung;363
+2024-05-03;Elektrotechnik;351
+2024-05-03;Kubernetes;344
+2024-05-03;Devops;339
+2024-05-03;Linux;338
+2024-05-03;Continuous Integration;310
+2024-05-03;ABAP;303
+2024-05-03;Bauwesen;299
+2024-05-03;Confluence;295
+2024-05-03;Ablaufplanung;294
+2024-05-03;Projektplanung;294
+2024-05-03;Geschäftsprozesse;290
+2024-05-03;Backend;289
+2024-05-03;Git;288
+2024-05-03;Technischer Support;285
+2024-05-03;Fehleranalyse;276
+2024-05-03;Sap Erp;272
+2024-05-03;Automobilindustrie;271
+2024-05-03;Ingenieurwesen;270
+2024-05-03;Informationssicherheit;267
+2024-05-03;Docker;263
+2024-05-03;Javascript;263
+2024-05-03;Fehlerbehandlung;257
+2024-05-03;Test Automation;255
+2024-05-03;Finanzen;252
+2024-05-03;Vertrieb;251
+2024-05-03;ITIL;248
+2024-05-03;Rekrutierung;240
+2024-05-03;Front End;239
+2024-05-03;Buchhaltung;239
+2024-05-03;APIs;236
+2024-05-03;Bauleitung;226
+2024-05-03;Amazon Web Services;222
+2024-05-03;Enterprise Resource Planning;220
+2024-05-03;It Service Management;216
+2024-05-03;Kundenbeziehungsmanagement;213
+2024-05-03;Change Management;211
+2024-05-03;Oracle Financials;198
+2024-05-03;Allgemeinchirurgie;196
+2024-05-03;Maschinenbau;192
+2024-05-03;Test Management;188
+2024-05-03;Kundendienst;188
+2024-05-03;AngularJS;184
+2024-05-03;SAP IS-U;184
+2024-05-03;Springboot;182
+2024-05-03;Verhandlung;179
+2024-05-03;Microservices;178
+2024-05-03;Budgetierung;178
+2024-05-03;Energietechnik;177
+2024-05-03;Audits;177
+2024-05-03;Workflows;176
+2024-05-03;C++;176
+2024-05-03;Risikomanagement;175
+2024-05-03;Wirtschaftsinformatik;172
+2024-05-03;Beschaffungsmanagement;171
+2024-05-03;Data Analysis;170
+2024-05-03;Active Directory;170
+2024-05-03;Betriebssysteme;169
+2024-05-03;Speicherprogrammierbare Steuerungen;169
+2024-05-03;Integration (Software);163
+2024-05-03;Microsoft Sql-Server;162
+2024-05-03;C#;162
+2024-05-03;Nachhaltigkeit;161
+2024-05-03;SAP R/3;161
+2024-05-03;Sap Fi;158
+2024-05-03;Lagerverwaltung;155
+2024-05-03;Terraform;150
+2024-05-03;Gitlab;150
+2024-05-03;Software Systems;149
+2024-05-03;Jenkins;146
+2024-05-03;Rechnerarchitektur;145
+2024-05-03;SAP Sales und Distribution;145
+2024-05-03;Typescript;141
+2024-05-03;Softwaredokumentation;141
+2024-05-03;Sap MM;140
+2024-05-03;Kundenbindung;139
+2024-05-03;Deutschland;8882
+2024-05-03;Österreich;509
+2024-05-03;Schweiz;1192
+2024-05-03;Großbritannien;385
+2024-05-03;Niederlande;158
+2024-05-03;USA;136
+2024-05-03;Belgien;78
+2024-05-03;Spanien;62
+2024-05-03;Frankreich;60
+2024-05-03;Polen;55
+2024-05-03;Luxemburg;26
+2024-05-03;Irland;24
+2024-05-03;Rumänien;21
+2024-05-03;Indien;20
+2024-05-03;Italien;17
+2024-05-03;Schweden;15
+2024-05-03;Albanien;10
+2024-05-03;Vereinigte Arabische Emirate;10
+2024-05-03;Südkorea;10
+2024-05-03;Dänemark;9
+2024-05-03;Marokko;9
+2024-05-03;Thailand;9
+2024-05-03;Portugal;8
+2024-05-03;Tschechische Republik;8
+2024-05-03;Vietnam;7
+2024-05-03;Ägypten;6
+2024-05-03;Lettland;6
+2024-05-03;Algerien;5
+2024-05-03;Brasilien;5
+2024-05-03;Finnland;5
+2024-05-03;Israel;5
+2024-05-03;Saudi Arabien;5
+2024-05-03;Angola;5
+2024-05-03;Ungarn;4
+2024-05-03;Armenien;4
+2024-05-03;China;4
+2024-05-03;Norwegen;4
+2024-05-03;Tunesien;4
+2024-05-03;Liechtenstein;3
+2024-05-03;Argentinien;3
+2024-05-03;Philippinen;3
+2024-05-03;Bulgarien;2
+2024-05-03;Irak;2
+2024-05-03;Litauen;2
+2024-05-03;Mexico;2
+2024-05-03;Senegal;2
+2024-05-03;Türkei;2
+2024-05-03;Zypern;2
+2024-05-03;Nigeria;2
+2024-05-03;Ukraine;1
+2024-05-03;Neuseeland;1
+2024-05-03;Slowakei;1
+2024-05-03;Australien;1
+2024-05-03;Bahamas;1
+2024-05-03;Bangladesch;1
+2024-05-03;Estland;1
+2024-05-03;Japan;1
+2024-05-03;Jordanien;1
+2024-05-03;Kazakhstan;1
+2024-05-03;Katar;1
+2024-05-03;Kenya;1
+2024-05-03;Kroatien;1
+2024-05-03;Kuwait;1
+2024-05-03;Oman;1
+2024-05-03;Südafrika;1
+2024-05-03;Usbekistan;1
+2024-05-03;Serbien;1
+2024-05-03;Afghanistan;1
+2024-05-03;Honduras;1
+2024-05-03;Nordrhein-Westfalen;1619
+2024-05-03;Bayern;1598
+2024-05-03;Baden-Württemberg;1187
+2024-05-03;Hessen;1131
+2024-05-03;Berlin;833
+2024-05-03;Hamburg;626
+2024-05-03;Niedersachsen;375
+2024-05-03;Rheinland-Pfalz;273
+2024-05-03;Sachsen;163
+2024-05-03;Bremen;131
+2024-05-03;Schleswig-Holstein;121
+2024-05-03;Sachsen-Anhalt;107
+2024-05-03;Thüringen;92
+2024-05-03;Mecklenburg-Vorpommern;90
+2024-05-03;Brandenburg;79
+2024-05-03;Saarland;48
+2024-05-03;Nur Endkundenprojekte;418

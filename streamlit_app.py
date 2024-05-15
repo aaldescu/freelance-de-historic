@@ -43,7 +43,7 @@ st.sidebar.header('Filters')
 # Date Slider
 min_date, max_date = df['date'].min().date(), df['date'].max().date()
 
-_ago_date = max_date - timedelta(days=30)
+_ago_date = max_date - timedelta(days=90)
 
 selected_date_range = st.sidebar.slider("Select Date Range:", 
                                         min_value=min_date, 
@@ -53,7 +53,7 @@ selected_date_range = st.sidebar.slider("Select Date Range:",
 
 # Job Group Multiselect
 job_groups = df['job_group'].unique()
-selected_job_groups = st.sidebar.multiselect("Select Job Groups:", job_groups, default=["Jira", "Java","SQL","Python","Javascript","ERP / CRM Systeme", "SAP", "Web", "Softwareentwicklung / -programmierung"])
+selected_job_groups = st.sidebar.multiselect("Select Job Groups:", job_groups, default=["SQL","ERP / CRM Systeme", "SAP", "Web", "Softwareentwicklung / -programmierung"])
 
 # Filter data based on selections
 # Convert selected_date_range to pandas timestamps
@@ -93,7 +93,7 @@ st.header('Jobs :money_with_wings:')
 # Plotting with st.line_chart
 st.line_chart(job_pivot_df)
 
-st.header('Field Commpetition trend :sunglasses:')
+st.header('Experts per Job :sunglasses:')
 st.line_chart(expert_ratio_df)
 
 # Visualize the daily differences

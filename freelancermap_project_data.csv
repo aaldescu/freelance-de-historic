@@ -19723,3 +19723,195 @@ date;job_group;num_jobs
 2024-06-21;Brandenburg;69
 2024-06-21;Saarland;44
 2024-06-21;Nur Endkundenprojekte;469
+2024-06-22;Vor Ort;4553
+2024-06-22;Remote;2470
+2024-06-22;Hybrid;1969
+2024-06-22;Freiberuflich;7420
+2024-06-22;Festanstellung;797
+2024-06-22;Arbeitnehmerüberlassung;775
+2024-06-22;IT;2686
+2024-06-22;Anlagen- und Maschinenbau;586
+2024-06-22;Energiewirtschaft;518
+2024-06-22;Finanzen;382
+2024-06-22;Automobilindustrie;316
+2024-06-22;Medizin und Pharma;264
+2024-06-22;Baugewerbe;261
+2024-06-22;Hochschulen und Behörden und Verbände;245
+2024-06-22;Elektrotechnische Industrie;195
+2024-06-22;Handel;185
+2024-06-22;Web- und Softwareentwicklung;4771
+2024-06-22;Schreib- und Übersetzungsdienste;718
+2024-06-22;Grafikdesign und Kreativdienste;719
+2024-06-22;Digitales Marketing;726
+2024-06-22;Ingenieurwesen;2725
+2024-06-22;Finanz- und Rechnungswesen;969
+2024-06-22;Management und Beratungsdienste;5435
+2024-06-22;Forschung und Analyse;2845
+2024-06-22;IT-Dienstleistungen;3443
+2024-06-22;SAP Applications;1355
+2024-06-22;Projektmanagement;962
+2024-06-22;Softwareentwicklung;795
+2024-06-22;Sap Hana;750
+2024-06-22;Verwaltungstätigkeiten;610
+2024-06-22;Automatisierung;553
+2024-06-22;Beratung;528
+2024-06-22;Java;524
+2024-06-22;Qualitätsmanagement;490
+2024-06-22;Microsoft Azure;474
+2024-06-22;Cloud Computing;472
+2024-06-22;Datenbanken;467
+2024-06-22;Innovation;437
+2024-06-22;Jira;414
+2024-06-22;Stakeholder Management;403
+2024-06-22;Agile Methodologie;403
+2024-06-22;Infrastruktur;385
+2024-06-22;Python;384
+2024-06-22;Testen;379
+2024-06-22;Schreiben von Dokumentation;376
+2024-06-22;Prozessoptimierung;364
+2024-06-22;Linux;360
+2024-06-22;Scrum;351
+2024-06-22;Architektur;348
+2024-06-22;Devops;340
+2024-06-22;SQL;339
+2024-06-22;Continuous Integration;328
+2024-06-22;Inbetriebnahme;316
+2024-06-22;Kubernetes;316
+2024-06-22;Elektrotechnik;307
+2024-06-22;Git;294
+2024-06-22;Fehleranalyse;292
+2024-06-22;Backend;284
+2024-06-22;Technischer Support;280
+2024-06-22;Ablaufplanung;273
+2024-06-22;Fehlerbehandlung;262
+2024-06-22;Projektplanung;262
+2024-06-22;Informationssicherheit;262
+2024-06-22;ABAP;256
+2024-06-22;Confluence;252
+2024-06-22;Geschäftsprozesse;245
+2024-06-22;Amazon Web Services;240
+2024-06-22;Bauwesen;237
+2024-06-22;Javascript;235
+2024-06-22;Test Automation;233
+2024-06-22;Kundenbeziehungsmanagement;228
+2024-06-22;Front End;227
+2024-06-22;Finanzen;223
+2024-06-22;Docker;219
+2024-06-22;APIs;219
+2024-06-22;Automobilindustrie;218
+2024-06-22;Sap Erp;216
+2024-06-22;ITIL;216
+2024-06-22;It Service Management;211
+2024-06-22;Vertrieb;210
+2024-06-22;Buchhaltung;206
+2024-06-22;Enterprise Resource Planning;204
+2024-06-22;Betriebssysteme;199
+2024-06-22;Bauleitung;199
+2024-06-22;Rekrutierung;188
+2024-06-22;Change Management;187
+2024-06-22;Oracle Financials;185
+2024-06-22;AngularJS;183
+2024-06-22;Maschinenbau;183
+2024-06-22;Workflows;182
+2024-06-22;Kundendienst;181
+2024-06-22;Active Directory;174
+2024-06-22;Microservices;172
+2024-06-22;Verhandlung;172
+2024-06-22;Beschaffungsmanagement;168
+2024-06-22;Speicherprogrammierbare Steuerungen;166
+2024-06-22;Allgemeinchirurgie;166
+2024-06-22;Terraform;164
+2024-06-22;C#;163
+2024-06-22;Springboot;161
+2024-06-22;Risikomanagement;159
+2024-06-22;Energietechnik;158
+2024-06-22;Sap Fi;156
+2024-06-22;Audits;156
+2024-06-22;Software Systems;155
+2024-06-22;Microsoft Sql-Server;155
+2024-06-22;Jenkins;152
+2024-06-22;Rechnerarchitektur;151
+2024-06-22;Ansible;150
+2024-06-22;C++;148
+2024-06-22;Softwaredokumentation;147
+2024-06-22;Wirtschaftsinformatik;147
+2024-06-22;Budgetierung;145
+2024-06-22;Integration (Software);142
+2024-06-22;SAP IS-U;142
+2024-06-22;Anforderungsanalyse;141
+2024-06-22;Sap Fi/Co;140
+2024-06-22;Ingenieurwesen;140
+2024-06-22;Typescript;139
+2024-06-22;Logistikprozesse;137
+2024-06-22;Data Analysis;137
+2024-06-22;Restful Apis;136
+2024-06-22;Postgresql;135
+2024-06-22;Produktanforderungen;133
+2024-06-22;SAP Sales und Distribution;132
+2024-06-22;Deutschland;9004
+2024-06-22;Österreich;406
+2024-06-22;Schweiz;999
+2024-06-22;Großbritannien;326
+2024-06-22;USA;295
+2024-06-22;Niederlande;142
+2024-06-22;Belgien;89
+2024-06-22;Frankreich;68
+2024-06-22;Polen;45
+2024-06-22;Spanien;34
+2024-06-22;Irland;30
+2024-06-22;Schweden;28
+2024-06-22;Luxemburg;22
+2024-06-22;Rumänien;20
+2024-06-22;Indien;18
+2024-06-22;Italien;17
+2024-06-22;Dänemark;17
+2024-06-22;Tschechische Republik;11
+2024-06-22;Portugal;9
+2024-06-22;Ungarn;7
+2024-06-22;Brasilien;6
+2024-06-22;Griechenland;6
+2024-06-22;Albanien;5
+2024-06-22;Argentinien;4
+2024-06-22;Australien;4
+2024-06-22;Finnland;4
+2024-06-22;Litauen;3
+2024-06-22;Liechtenstein;2
+2024-06-22;Ukraine;2
+2024-06-22;Estland;2
+2024-06-22;Irak;2
+2024-06-22;Kolumbien;2
+2024-06-22;Norwegen;2
+2024-06-22;Pakistan;2
+2024-06-22;Philippinen;2
+2024-06-22;Thailand;2
+2024-06-22;Vereinigte Arabische Emirate;2
+2024-06-22;Südkorea;2
+2024-06-22;Neuseeland;1
+2024-06-22;Slowakei;1
+2024-06-22;Ägypten;1
+2024-06-22;Bahamas;1
+2024-06-22;Bangladesch;1
+2024-06-22;China;1
+2024-06-22;Kazakhstan;1
+2024-06-22;Kenya;1
+2024-06-22;Lettland;1
+2024-06-22;Mexico;1
+2024-06-22;Afghanistan;1
+2024-06-22;Honduras;1
+2024-06-22;Nordrhein-Westfalen;1654
+2024-06-22;Bayern;1584
+2024-06-22;Baden-Württemberg;1116
+2024-06-22;Hessen;1089
+2024-06-22;Berlin;795
+2024-06-22;Hamburg;592
+2024-06-22;Niedersachsen;419
+2024-06-22;Rheinland-Pfalz;252
+2024-06-22;Sachsen;165
+2024-06-22;Bremen;137
+2024-06-22;Schleswig-Holstein;136
+2024-06-22;Thüringen;116
+2024-06-22;Sachsen-Anhalt;93
+2024-06-22;Mecklenburg-Vorpommern;92
+2024-06-22;Brandenburg;69
+2024-06-22;Saarland;44
+2024-06-22;Nur Endkundenprojekte;472

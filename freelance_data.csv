@@ -35310,3 +35310,469 @@ date;job_group;num_jobs;href
 2024-10-23;Polizeibeamte;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Polizeibeamte-Freelancer/
 2024-10-23;Polizeiermittler;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Polizeiermittler-Freelancer/
 2024-10-23;Sicherheits- und Überwachungsmitarbeiter;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Sicherheits-Und-Überwachungsmitarbeiter-Freelancer/
+2024-10-24;Kunst, Kultur und Medien;23795;/Freelancer/K/Design-Kunst-Medien-Freelancer/
+2024-10-24;Audio/Video Herausgeber/Lektoren;15;/Freelancer/K/Design-Kunst-Medien-Freelancer/Audio-video-Herausgeber-lektoren-Freelancer/
+2024-10-24;Bibliothekare und Dokumentare;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Bibliothekare-Und-Dokumentare-Freelancer/
+2024-10-24;Design;14852;/Freelancer/K/Design-Kunst-Medien-Freelancer/Design-Freelancer/
+2024-10-24;Dirigenten, Komponisten und Choreografen;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Dirigenten-Komponisten-Und-Choreografen-Freelancer/
+2024-10-24;Film-, Theater-, TV- und Studiotechniker;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Film-Theater-Tv-Und-Studiotechniker-Freelancer/
+2024-10-24;Fotografen und Kameramänner/-frauen;1;/Freelancer/K/Design-Kunst-Medien-Freelancer/Fotografen-Und-Kameramänner-frauen-Freelancer/
+2024-10-24;Grafik- / Animationssoftware;6719;/Freelancer/K/Design-Kunst-Medien-Freelancer/Grafik-Animationssoftware-Freelancer/
+2024-10-24;Illustratoren und Designer (2D);1;/Freelancer/K/Design-Kunst-Medien-Freelancer/Illustratoren-Und-Designer-2d-Freelancer/
+2024-10-24;Illustratoren und Designer (3D);3;/Freelancer/K/Design-Kunst-Medien-Freelancer/Illustratoren-Und-Designer-3d-Freelancer/
+2024-10-24;Journalisten und Redakteure;4;/Freelancer/K/Design-Kunst-Medien-Freelancer/Journalisten-Und-Redakteure-Freelancer/
+2024-10-24;Kunst;3845;/Freelancer/K/Design-Kunst-Medien-Freelancer/Kunst-Freelancer/
+2024-10-24;Kunst, Kultur und Medien (sonstige);5;/Freelancer/K/Design-Kunst-Medien-Freelancer/Kunst-Kultur-Und-Medien-sonstige-Freelancer/
+2024-10-24;Manager Kunst, Kultur und Medien;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Manager-Kunst-Kultur-Und-Medien-Freelancer/
+2024-10-24;Medien;4568;/Freelancer/K/Design-Kunst-Medien-Freelancer/Medien-Freelancer/
+2024-10-24;Moderatoren;7;/Freelancer/K/Design-Kunst-Medien-Freelancer/Moderatoren-Freelancer/
+2024-10-24;Museumsmitarbeiter;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Museumsmitarbeiter-Freelancer/
+2024-10-24;Musiker, Sänger und Tänzer;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Musiker-Sänger-Und-Tänzer-Freelancer/
+2024-10-24;Redaktion;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Regisseure und Produzenten;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Regisseure-Und-Produzenten-Freelancer/
+2024-10-24;Restauratoren;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Restauratoren-Freelancer/
+2024-10-24;Schauspieler;0;/Freelancer/K/Design-Kunst-Medien-Freelancer/Schauspieler-Freelancer/
+2024-10-24;Schriftsteller und Dichter;7100;/Freelancer/K/Design-Kunst-Medien-Freelancer/Redaktion-Freelancer/
+2024-10-24;Übersetzer und Dolmetscher;1;/Freelancer/K/Design-Kunst-Medien-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Einkauf und Lagerhaltung;7730;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/
+2024-10-24;Arbeitskräfte Beladung und Bestellungsaufnahme;0;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Arbeitskräfte-Beladung-Und-Bestellungsaufnahme-Freelancer/
+2024-10-24;Einkauf;0;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Einkauf und Lagerhaltung (sonstige);0;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Einkauf-Und-Lagerhaltung-sonstige-Freelancer/
+2024-10-24;Handel / E-Commerce;2565;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Handel-E-Commerce-Freelancer/
+2024-10-24;Import / Export;495;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Import-Export-Freelancer/
+2024-10-24;Käufer / Beschaffer;2566;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Einkauf-Freelancer/
+2024-10-24;Kranführer, interner Warentransporteur;1;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Kranführer-Interner-Warentransporteur-Freelancer/
+2024-10-24;Lagerleiter;1;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Lagerleiter-Freelancer/
+2024-10-24;Lagermitarbeiter und Regalauffüller;3;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Lagermitarbeiter-Und-Regalauffüller-Freelancer/
+2024-10-24;Leiter Einkauf und Lagerverwaltung;9;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Leiter-Einkauf-Und-Lagerverwaltung-Freelancer/
+2024-10-24;Lieferantenmanagement;1247;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Lieferantenmanagement-Freelancer/
+2024-10-24;Logistik / Supply-Chain-Management;2636;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Supply-Chain-Management-Freelancer/
+2024-10-24;Transport / Spedition;536;/Freelancer/K/Einkauf-Handel-Logistik-Freelancer/Transport-Freelancer/
+2024-10-24;Versicherungen und Finanzen;8485;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/
+2024-10-24;Berater Versicherungen und Finanzen;2;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Berater-Versicherungen-Und-Finanzen-Freelancer/
+2024-10-24;Finanzdirektoren;1;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Finanzdirektoren-Freelancer/
+2024-10-24;Finanzexperten;8;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Finanzexperten-Freelancer/
+2024-10-24;Finanzwesen;3357;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Finanzwesen-Freelancer/
+2024-10-24;Manager Versicherungen und Finanzen;8;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Manager-Versicherungen-Und-Finanzen-Freelancer/
+2024-10-24;Mitarbeiter Bankfiliale;2;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Mitarbeiter-Bankfiliale-Freelancer/
+2024-10-24;Mitarbeiter Versicherungen und Finanzen;1;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ökonomen / Wirtschaftsexperten;2;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Rechnungswesen;4852;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Rechnungswesen-Freelancer/
+2024-10-24;Rechtswesen;1855;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Rechtswesen-Freelancer/
+2024-10-24;Versicherungen;533;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Versicherungen-Freelancer/
+2024-10-24;Versicherungen und Finanzen (sonstige);0;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Versicherungen-Und-Finanzen-sonstige-Freelancer/
+2024-10-24;Versicherungsexperten;1;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Versicherungsexperten-Freelancer/
+2024-10-24;Wirtschaftsprüfer / Buchhalter / Steuerberater;13;/Freelancer/K/Finanzen-Versicherung-Recht-Freelancer/Wirtschaftsprüfer-Buchhalter-Steuerberater-Freelancer/
+2024-10-24;Bildungswesen und Training;8135;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/
+2024-10-24;Berufsschullehrer;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Berufsschullehrer-Freelancer/
+2024-10-24;Bildung;1447;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Bildung-Freelancer/
+2024-10-24;Bildungswesen und Training (sonstige);6;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Bildungswesen-Und-Training-sonstige-Freelancer/
+2024-10-24;Dekane und Koordinatoren;1;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Dekane-Und-Koordinatoren-Freelancer/
+2024-10-24;Direktoren Bildungsstätte;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Direktoren-Bildungsstätte-Freelancer/
+2024-10-24;Fachhochschullehrer;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Fachhochschullehrer-Freelancer/
+2024-10-24;Forschung / Entwicklung;1562;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Forschung-Entwicklung-Freelancer/
+2024-10-24;Grundschullehrer;2;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Grundschullehrer-Freelancer/
+2024-10-24;Hochschullehrer Gesundheits- und Sozialbereich;1;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Hochschullehrer-Gesundheits-Und-Sozialbereich-Freelancer/
+2024-10-24;Hochschullehrer Kunst und Medien;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Hochschullehrer-Kunst-Und-Medien-Freelancer/
+2024-10-24;Hochschullehrer Mathematik und Naturwissenschaften;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Hochschullehrer-Mathematik-Und-Naturwissenschaften-Freelancer/
+2024-10-24;Hochschullehrer Sprach- und Kulturbereich;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Hochschullehrer-Sprach-Und-Kulturbereich-Freelancer/
+2024-10-24;Lehrer an Technischer Berufsschule;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Lehrer-An-Technischer-Berufsschule-Freelancer/
+2024-10-24;Lehrer Sekundarstufe I;1;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Lehrer-Sekundarstufe-I-Freelancer/
+2024-10-24;Medizinische Wissenschaft;1141;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Medizinische-Wissenschaft-Freelancer/
+2024-10-24;Mitarbeiter Bildungswesen/Bildungsunterstützung;4;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Mitarbeiter-Bildungswesen-bildungsunterstützung-Freelancer/
+2024-10-24;Universitätsdozenten (sonstige);0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-sonstige-Freelancer/
+2024-10-24;Universitätsdozenten Geisteswissenschaften;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-Geisteswissenschaften-Freelancer/
+2024-10-24;Universitätsdozenten Ingenieurwesen/Ingenieurwissenschaft;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-Ingenieurwesen-ingenieurwissenschaft-Freelancer/
+2024-10-24;Universitätsdozenten Mathematik und Naturwissenschaften;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-Mathematik-Und-Naturwissenschaften-Freelancer/
+2024-10-24;Universitätsdozenten Medizin;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-Medizin-Freelancer/
+2024-10-24;Universitätsdozenten Rechts-, Wirtschafts- und Sozialwissenschaften;0;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Universitätsdozenten-Rechts-Wirtschafts-Und-Sozialwissenschaften-Freelancer/
+2024-10-24;Wissenschaft;4996;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Wissenschaft-Freelancer/
+2024-10-24;Wissenschaftler;1;/Freelancer/K/Forschung-Wissenschaft-Bildung-Freelancer/Wissenschaftler-Freelancer/
+2024-10-24;Informations- und Kommunikationstechnologie;56288;/Freelancer/K/IT-Entwicklung-Freelancer/
+2024-10-24;Berater und Spezialisten;73;/Freelancer/K/IT-Entwicklung-Freelancer/Berater-Und-Spezialisten-Freelancer/
+2024-10-24;Blockchain;220;/Freelancer/K/IT-Entwicklung-Freelancer/Blockchain-Freelancer/
+2024-10-24;Business Intelligence;6440;/Freelancer/K/IT-Entwicklung-Freelancer/Business-Intelligence-Freelancer/
+2024-10-24;Datenbanken;10959;/Freelancer/K/IT-Entwicklung-Freelancer/Datenbanken-Freelancer/
+2024-10-24;Datenbankspezialisten;5;/Freelancer/K/IT-Entwicklung-Freelancer/Datenbankspezialisten-Freelancer/
+2024-10-24;DevOps;2121;/Freelancer/K/IT-Entwicklung-Freelancer/DevOps-Freelancer/
+2024-10-24;ERP / CRM Systeme;4519;/Freelancer/K/IT-Entwicklung-Freelancer/ERP-CRM-Systeme-Freelancer/
+2024-10-24;Hardware-Entwicklung / Engineering;1831;/Freelancer/K/IT-Entwicklung-Freelancer/Hardware-Entwicklung-Engineering-Freelancer/
+2024-10-24;Incident / Service Management / ITIL;0;/Freelancer/K/IT-Entwicklung-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Informations- und Kommunikationstechnologie (sonstige);2;/Freelancer/K/IT-Entwicklung-Freelancer/Informations-Und-Kommunikationstechnologie-sonstige-Freelancer/
+2024-10-24;Ingenieure, Konstrukteure und Techniker Elektronik;14;/Freelancer/K/IT-Entwicklung-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;IT R&D Professionals;4;/Freelancer/K/IT-Entwicklung-Freelancer/It-R-d-Professionals-Freelancer/
+2024-10-24;IT Sicherheit;4128;/Freelancer/K/IT-Entwicklung-Freelancer/IT-Sicherheit-Freelancer/
+2024-10-24;IT Testers;9;/Freelancer/K/IT-Entwicklung-Freelancer/It-Testers-Freelancer/
+2024-10-24;IT-Koordinatoren;58;/Freelancer/K/IT-Entwicklung-Freelancer/It-koordinatoren-Freelancer/
+2024-10-24;Leitende Angestelle IT;30;/Freelancer/K/IT-Entwicklung-Freelancer/Leitende-Angestelle-It-Freelancer/
+2024-10-24;Maschinelles Lernen;1542;/Freelancer/K/IT-Entwicklung-Freelancer/Maschinelles-Lernen-Freelancer/
+2024-10-24;Mitarbeiter Support;2499;/Freelancer/K/IT-Entwicklung-Freelancer/Incidentmanagement-Servicemanagement-ITIL-Freelancer/
+2024-10-24;Natural Language Processing (NLP);293;/Freelancer/K/IT-Entwicklung-Freelancer/Natural-Language-Processing-Freelancer/
+2024-10-24;Netzwerkspezialisten;9;/Freelancer/K/IT-Entwicklung-Freelancer/Netzwerkspezialisten-Freelancer/
+2024-10-24;Plattformen / Betriebssysteme;0;/Freelancer/K/IT-Entwicklung-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Programmierer;105;/Freelancer/K/IT-Entwicklung-Freelancer/Programmierer-Freelancer/
+2024-10-24;Projektleitung / -management (IT);17473;/Freelancer/K/IT-Entwicklung-Freelancer/Projektleitung-Projektmanagement-IT-Freelancer/
+2024-10-24;Qualitätsmanagement / Testing (IT);5345;/Freelancer/K/IT-Entwicklung-Freelancer/Qualitaetsmanagement-Testing-Freelancer/
+2024-10-24;SAP;5412;/Freelancer/K/IT-Entwicklung-Freelancer/SAP-Freelancer/
+2024-10-24;Serveradministration;2892;/Freelancer/K/IT-Entwicklung-Freelancer/Serveradministration-Freelancer/
+2024-10-24;Shopify;579;/Freelancer/K/IT-Entwicklung-Freelancer/Shopify-Freelancer/
+2024-10-24;Software Architektur / Analyse;4497;/Freelancer/K/IT-Entwicklung-Freelancer/Softwarearchitektur-Softwareanalyse-Freelancer/
+2024-10-24;Softwareentwicklung / -programmierung;22921;/Freelancer/K/IT-Entwicklung-Freelancer/Softwareentwicklung-Softwareprogrammierung-Freelancer/
+2024-10-24;Softwarepaketierung / Verteilung;917;/Freelancer/K/IT-Entwicklung-Freelancer/Softwarepaketierung-Verteilung-Freelancer/
+2024-10-24;Support / Techniker;3181;/Freelancer/K/IT-Entwicklung-Freelancer/Support-Techniker-Freelancer/
+2024-10-24;System Architektur / Analyse;4746;/Freelancer/K/IT-Entwicklung-Freelancer/Systemarchitektur-Systemanalyse-Freelancer/
+2024-10-24;System- und Anwendungsadministratoren;4842;/Freelancer/K/IT-Entwicklung-Freelancer/Plattformen-Betriebssysteme-Freelancer/
+2024-10-24;Systemadministration;3289;/Freelancer/K/IT-Entwicklung-Freelancer/Systemadministration-Freelancer/
+2024-10-24;Systementwickler und -analytiker;41;/Freelancer/K/IT-Entwicklung-Freelancer/Systementwickler-Und-analytiker-Freelancer/
+2024-10-24;Telekommunikation / Netzwerke;3859;/Freelancer/K/IT-Entwicklung-Freelancer/Telekommunikation-Netzwerke-Freelancer/
+2024-10-24;User Interface / User Experience;2489;/Freelancer/K/IT-Entwicklung-Freelancer/User-Interface-User-Experience-Freelancer/
+2024-10-24;Virtualisierung;3774;/Freelancer/K/IT-Entwicklung-Freelancer/Virtualisierung-Freelancer/
+2024-10-24;Web;16326;/Freelancer/K/IT-Entwicklung-Freelancer/Web-Freelancer/
+2024-10-24;Web Professionals;45;/Freelancer/K/IT-Entwicklung-Freelancer/Web-Professionals-Freelancer/
+2024-10-24;Weitere IT-Qualifikationen;13759;/Freelancer/K/IT-Entwicklung-Freelancer/Weitere-IT-Qualifikationen-Freelancer/
+2024-10-24;Kommunikation, Marketing und Öffentlichkeitsarbeit;21661;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/
+2024-10-24;Benefizveranstalter / Spendenaktionäre;0;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Benefizveranstalter-Spendenaktionäre-Freelancer/
+2024-10-24;Kommunikation;7495;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Kommunikation-Freelancer/
+2024-10-24;Kommunikation, Marketing und Öffentlichkeitsarbeit (sonstige);6;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Kommunikation-Marketing-Und-Öffentlichkeitsarbeit-sonstige-Freelancer/
+2024-10-24;Manager Kommunikation, Marketing und Öffentlichkeitsarbeit;52;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Manager-Kommunikation-Marketing-Und-Öffentlichkeitsarbeit-Freelancer/
+2024-10-24;Manager und Handelsvertreter;0;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Manager-Und-Handelsvertreter-Freelancer/
+2024-10-24;Marketing;15400;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Marketing-Freelancer/
+2024-10-24;Mitarbeiter Information und Öffentlichkeitsarbeit;1;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Mitarbeiter-Information-Und-Öffentlichkeitsarbeit-Freelancer/
+2024-10-24;Mitarbeiter Marketing und Werbung;20;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Mitarbeiter-Marketing-Und-Werbung-Freelancer/
+2024-10-24;Mitarbeiter Verkaufsförderung;0;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Mitarbeiter-Verkaufsförderung-Freelancer/
+2024-10-24;Verleger / Herausgeber;1;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Verleger-Herausgeber-Freelancer/
+2024-10-24;Vertrieb;5212;/Freelancer/K/Marketing-Vertrieb-Kommunikation-Freelancer/Vertrieb-Freelancer/
+2024-10-24;Verwaltung;32973;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/
+2024-10-24;Behördendirektoren;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Behördendirektoren-Freelancer/
+2024-10-24;Behördenleiter;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Behördenleiter-Freelancer/
+2024-10-24;Behördenmitarbeiter;3;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Behördenmitarbeiter-Freelancer/
+2024-10-24;Führungskraft öffentliche Verwaltung;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Führungskraft-öffentliche-Verwaltung-Freelancer/
+2024-10-24;Gemeindemanager;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Gemeindemanager-Freelancer/
+2024-10-24;Generaldirektoren;4;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Generaldirektoren-Freelancer/
+2024-10-24;Gesetzgeber, Volksvertreter;1;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Gesetzgeber-Volksvertreter-Freelancer/
+2024-10-24;Kaufmännische Angestellte und Telemarketing Mitarbeiter;4800;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Weitere-organisatorische-Freelancer/
+2024-10-24;Management;12690;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Management-Freelancer/
+2024-10-24;Management, Verwaltung und Politik (Sonstige);29;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Managementanalytiker und -berater;25;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Manager Betriebsverwaltung und -politik;3;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Manager-Betriebsverwaltung-Und-politik-Freelancer/
+2024-10-24;Personalwesen;5144;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Personalwesen-Freelancer/
+2024-10-24;Projektleitung / -management / PMO;18268;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Projektleitung-Projektmanagement-PMO-Freelancer/
+2024-10-24;Qualitätsmanagement;3217;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Qualitaetsmanagement-Freelancer/
+2024-10-24;Regierungsinspektoren;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Regierungsinspektoren-Freelancer/
+2024-10-24;Schreibkräfte;7;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sekretärinnen;7;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Strategie;11671;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Strategie-Freelancer/
+2024-10-24;Weitere organisatorische Qualifikationen;0;/Freelancer/K/Management-Unternehmen-Strategie-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Recht, Personalwirtschaft und Sozialwesen;13334;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/
+2024-10-24;Anwälte und unterstützendes Personal;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Anwälte-Und-Unterstützendes-Personal-Freelancer/
+2024-10-24;Arbeits- und Einkommensspezialisten öffentlicher Sektor;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Arbeits-Und-Einkommensspezialisten-öffentlicher-Sektor-Freelancer/
+2024-10-24;Arbeitsmanager;7;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Arbeitsmanager-Freelancer/
+2024-10-24;Arbeitsschutzexperten und -inspektoren;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Arbeitsschutzexperten-Und-inspektoren-Freelancer/
+2024-10-24;Dienstleistung;2540;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Dienstleistung-Freelancer/
+2024-10-24;Erziehung;45;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Erziehung-Freelancer/
+2024-10-24;Geistliche und Ordensleute;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Geistliche-Und-Ordensleute-Freelancer/
+2024-10-24;Hilfspersonal Justiz;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Hilfspersonal-Justiz-Freelancer/
+2024-10-24;Juristen;2;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Kursleiter und Ausbilder;6;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Notare/Notarinnen und unterstützendes Personal;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Notare-notarinnen-Und-Unterstützendes-Personal-Freelancer/
+2024-10-24;Personal- und Arbeitsmarktexperten;18;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Personal-Und-Arbeitsmarktexperten-Freelancer/
+2024-10-24;Recht, Personalwirtschaft und Sozialwesen (sonstige);1;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Recht-Personalwirtschaft-Und-Sozialwesen-sonstige-Freelancer/
+2024-10-24;Richter;0;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Richter-Freelancer/
+2024-10-24;Sozial-gesellschaftliche Arbeiter;3;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Sozial-gesellschaftliche-Arbeiter-Freelancer/
+2024-10-24;Soziales;285;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Soziales-Freelancer/
+2024-10-24;Sprache / Übersetzung;4193;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Sprache-Uebersetzung-Freelancer/
+2024-10-24;Training / Schulung / Coaching;7237;/Freelancer/K/Sprachen-Dienstleistung-Soziales-Freelancer/Training-Schulung-Coaching-Freelancer/
+2024-10-24;Ingenieurwesen;23177;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/
+2024-10-24;Architektur;1024;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Architektur-Freelancer/
+2024-10-24;Automatisierungstechnik;2003;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Automatisierungstechnik-Freelancer/
+2024-10-24;Bauingenieurwesen;1758;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Bauingenieurwesen-Freelancer/
+2024-10-24;Betriebsingenieure und Experten;13;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Elektrotechnik / Elektronik;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Energietechnik;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Engineering Managers / Konstruktionsleiter;10;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Engineering-Managers-Konstruktionsleiter-Freelancer/
+2024-10-24;Fahrzeugbau / -technik;1984;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Fahrzeugbau-Fahrzeugtechnik-Freelancer/
+2024-10-24;Fertigungstechnik;1342;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Fertigungstechnik-Freelancer/
+2024-10-24;Funk- / Nachrichtentechnik;1081;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Funktechnik-Nachrichtentechnik-Freelancer/
+2024-10-24;Handwerk;958;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Handwerk-Freelancer/
+2024-10-24;Ingenieure, Konstrukteure und Techniker Chemie;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Ingenieure-Konstrukteure-Und-Techniker-Chemie-Freelancer/
+2024-10-24;Ingenieure, Konstrukteure und Techniker im Bauwesen;5;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Ingenieure-Konstrukteure-Und-Techniker-Im-Bauwesen-Freelancer/
+2024-10-24;Ingenieure, Konstrukteure und Techniker im Maschinenbau;5;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Ingenieure-Konstrukteure-Und-Techniker-Im-Maschinenbau-Freelancer/
+2024-10-24;Ingenieure, Konstrukteure und Techniker im Tief- und Wasserbau;1;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Ingenieure-Konstrukteure-Und-Techniker-Im-Tief-Und-Wasserbau-Freelancer/
+2024-10-24;Ingenieurwesen (sonstige);3;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Ingenieurwesen-sonstige-Freelancer/
+2024-10-24;Installateure und Klempner;3201;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/weitere-technische-Freelancer/
+2024-10-24;Installation / Montage / Wartung;1565;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Installation-Montage-Wartung-Freelancer/
+2024-10-24;Kalkulatoren und Planer technischer Arbeiten;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Kalkulatoren-Und-Planer-Technischer-Arbeiten-Freelancer/
+2024-10-24;Konstrukteure, Bauherren und Installateure;1;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Konstruktionstechnik;1493;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Konstruktionstechnik-Freelancer/
+2024-10-24;Luft- / Raumfahrttechnik;548;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Luftfahrttechnik-Raumfahrttechnik-Freelancer/
+2024-10-24;Management (Technik);5897;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Projektleitung-Projektmanagement-PMO-Freelancer/
+2024-10-24;Maschinen- / Anlagenbau;3290;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Maschinenbau-Anlagenbau-Freelancer/
+2024-10-24;Maschinenmechaniker;2;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Material- und Prozesstechnologen;2;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mechatronik;454;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Mechatronik-Freelancer/
+2024-10-24;Mess- / Regelungstechnik;2047;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Messtechnik-Regelungstechnik-Freelancer/
+2024-10-24;Mitarbeiter im Textilbereich;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Produktionstechnik;2292;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Produktionstechnik-Freelancer/
+2024-10-24;Prüftechnik;750;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Prueftechnik-Freelancer/
+2024-10-24;Qualitätsmanagement / Testing (Technik);2118;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Qualitaetsmanagement-Freelancer/
+2024-10-24;Reinigung und Wartung (sonstige);1121;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Energietechnik-Freelancer/
+2024-10-24;Robotik / Robotertechnik;511;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Robotik-Robotertechnik-Freelancer/
+2024-10-24;Schweißer und Löter;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sicherheitstechnik;1450;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sicherheitstechnik-Freelancer/
+2024-10-24;Techniker Installation und Wartung elektrischer Geräte;2138;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Elektrotechnik-Elektronik-Freelancer/
+2024-10-24;Technische Zeichner/Systemplaner und Konstrukteure Elektro;1;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Technische-Zeichner-systemplaner-Und-Konstrukteure-Elektro-Freelancer/
+2024-10-24;Technisches Zeichnen / CAD / CAE;4337;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Technisches-Zeichnen-CAD-CAE-Freelancer/
+2024-10-24;Textiltechnik;93;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Textiltechnik-Freelancer/
+2024-10-24;Umwelttechnik;607;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Umwelttechnik-Freelancer/
+2024-10-24;Verfahrenstechnik;993;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Verfahrenstechnik-Freelancer/
+2024-10-24;Vermessungstechniker und Kartografen;1;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Vermessungstechniker-Und-Kartografen-Freelancer/
+2024-10-24;Versorgungstechnik;1063;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Versorgungstechnik-Freelancer/
+2024-10-24;Weitere technische Qualifikationen;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zeichner und Konstrukteure im Bauwesen;4;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Zeichner-Und-Konstrukteure-Im-Bauwesen-Freelancer/
+2024-10-24;Zeichner und Konstrukteure im Maschinenbau;3;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Zeichner-Und-Konstrukteure-Im-Maschinenbau-Freelancer/
+2024-10-24;Zeichner und Konstrukteure im Tief- und Wasserbau;0;/Freelancer/K/Technik-Ingenieurwesen-Freelancer/Zeichner-Und-Konstrukteure-Im-Tief-Und-Wasserbau-Freelancer/
+2024-10-24;Gesundheitswesen;23;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Freizeit, Sport und Tourismus;17;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/
+2024-10-24;Casino-Personal und Buchmacher;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Casino-personal-Und-Buchmacher-Freelancer/
+2024-10-24;Flugbegleiter;1;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Flugbegleiter-Freelancer/
+2024-10-24;Freizeit, Sport und Tourismus (sonstige);0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Freizeit-Sport-Und-Tourismus-sonstige-Freelancer/
+2024-10-24;Manager und Führungskräfte Tourismus und Wellness;8;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Manager-Und-Führungskräfte-Tourismus-Und-Wellness-Freelancer/
+2024-10-24;Mitarbeiter im Bereich Freizeit und Erholung;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Mitarbeiter-Im-Bereich-Freizeit-Und-Erholung-Freelancer/
+2024-10-24;Mitarbeiter Reiseorganisation/Reisebüro;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Mitarbeiter-Reiseorganisation/reisebüro-Freelancer/
+2024-10-24;Profisportler;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Profisportler-Freelancer/
+2024-10-24;Reiseleiter / Reiseführer;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Trainer und Coaches;8;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Trainer-Und-Coaches-Freelancer/
+2024-10-24;Unterhalter und Animateure;0;/Freelancer/K/Freizeit-Sport-Und-Tourismus-Freelancer/Unterhalter-Und-Animateure-Freelancer/
+2024-10-24;Transport und Verkehr;4;/Freelancer/K/Transport-Und-Verkehr-Freelancer/
+2024-10-24;Berufskraftfahrer;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Berufskraftfahrer-Freelancer/
+2024-10-24;Chauffeure und Taxifahrer;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Chauffeure-Und-Taxifahrer-Freelancer/
+2024-10-24;Fluglotsen und Hafenmeister;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Fluglotsen-Und-Hafenmeister-Freelancer/
+2024-10-24;Inspektoren Luft-, Wasser- und Straßenverkehr;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Inspektoren-Luft-Wasser-Und-Straßenverkehr-Freelancer/
+2024-10-24;Kapitäne und Steuerleute;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Kurier und Zusteller;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Leiter Verkehr und Transport;2;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Be- und Entladen;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Mitarbeiter-Be-Und-Entladen-Freelancer/
+2024-10-24;Piloten;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Piloten-Freelancer/
+2024-10-24;Serviceleiter und Koordinatoren;1;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Serviceleiter-Und-Koordinatoren-Freelancer/
+2024-10-24;Transport und Verkehr (sonstige);1;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zugführer und -mechaniker;0;/Freelancer/K/Transport-Und-Verkehr-Freelancer/Zugführer-Und-mechaniker-Freelancer/
+2024-10-24;Reinigung und Wartung;2;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/
+2024-10-24;Hausmeister und Verwalter;0;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Hausmeister-Und-Verwalter-Freelancer/
+2024-10-24;Manager Reinigung und Wartung;1;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Manager-Reinigung-Und-Wartung-Freelancer/
+2024-10-24;Mitarbeiter öffentlicher Reinigungsdienst;0;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Mitarbeiter-öffentlicher-Reinigungsdienst-Freelancer/
+2024-10-24;Reinigungskräfte Fahrzeuge und Geräte;1;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Reinigungskräfte-Fahrzeuge-Und-Geräte-Freelancer/
+2024-10-24;Reinigungskräfte für Gebäude und Räumlichkeiten;0;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Reinigungskräfte-Für-Gebäude-Und-Räumlichkeiten-Freelancer/
+2024-10-24;Reinigungskräfte Innenraumpflege;0;/Freelancer/K/Reinigung-Und-Wartung-Freelancer/Reinigungskräfte-Innenraumpflege-Freelancer/
+2024-10-24;Persönliche Dienstleistungen;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/
+2024-10-24;Bestattungspersonal;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Bestattungspersonal-Freelancer/
+2024-10-24;Friseure;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Friseure-Freelancer/
+2024-10-24;Kosmetiker;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Kosmetiker-Freelancer/
+2024-10-24;Leiter betriebliche Personenbetreuung;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Leiter-Betriebliche-Personenbetreuung-Freelancer/
+2024-10-24;Persönliche Dienstleistungen (sonstige);0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Persönliche-Dienstleistungen-sonstige-Freelancer/
+2024-10-24;Stylisten;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Stylisten-Freelancer/
+2024-10-24;Tiertrainer, -betreuer und -aufpasser;0;/Freelancer/K/Persönliche-Dienstleistungen-Freelancer/Tiertrainer-betreuer-Und-aufpasser-Freelancer/
+2024-10-24;Hotellerie und Gastronomie;1;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Administration und Kundenbetreuung;89;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/
+2024-10-24;Administration und Kundenbetreuung (sonstige);38;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Administration-Und-Kundenbetreuung-sonstige-Freelancer/
+2024-10-24;Leiter Administration und Kundenservice;16;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Leiter-Administration-Und-Kundenservice-Freelancer/
+2024-10-24;Mitarbeiter Finanzen und Verwaltung;19;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Mitarbeiter-Finanzen-Und-Verwaltung-Freelancer/
+2024-10-24;Mitarbeiter Kundenservice;2;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Mitarbeiter-Kundenservice-Freelancer/
+2024-10-24;Mitarbeiter Verwaltung;19;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Mitarbeiter-Verwaltung-Freelancer/
+2024-10-24;Personal- und Lohnverwalter;1;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Personal-Und-Lohnverwalter-Freelancer/
+2024-10-24;Planer / Koordinatoren;10;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Planer-/-Koordinatoren-Freelancer/
+2024-10-24;Rezeptionisten;0;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Rezeptionisten-Freelancer/
+2024-10-24;Telefonisten und Ansager;1;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Telefonisten-Und-Ansager-Freelancer/
+2024-10-24;Zeitplanersteller und Diensteinteiler;1;/Freelancer/K/Administration-Und-Kundenbetreuung-Freelancer/Zeitplanersteller-Und-Diensteinteiler-Freelancer/
+2024-10-24;Verkauf und Handel;32;/Freelancer/K/Verkauf-Und-Handel-Freelancer/
+2024-10-24;Account Manager Unternehmensdienstleistungen;6;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Account-Manager-Unternehmensdienstleistungen-Freelancer/
+2024-10-24;Filialleiter Verkauf;11;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Filialleiter-Verkauf-Freelancer/
+2024-10-24;Händler;1;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Händler-Freelancer/
+2024-10-24;Immobilienmakler;1;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Immobilienmakler-Freelancer/
+2024-10-24;Markt- und Straßenverkäufer;0;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Markt-Und-Straßenverkäufer-Freelancer/
+2024-10-24;Verkauf und Handel (sonstige);0;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Verkauf-Und-Handel-sonstige-Freelancer/
+2024-10-24;Verkäufer;0;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Verkäufer-Freelancer/
+2024-10-24;Vertreter Artikel und Produkte;0;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Vertreter-Artikel-Und-Produkte-Freelancer/
+2024-10-24;Vertreter Öffentlichkeitsarbeit und Werbung;2;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Vertreter-Öffentlichkeitsarbeit-Und-Werbung-Freelancer/
+2024-10-24;Vertriebsleiter / Sales Manager;11;/Freelancer/K/Verkauf-Und-Handel-Freelancer/Vertriebsleiter-/-Sales-Manager-Freelancer/
+2024-10-24;Produktion;19;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Natur- und Umweltwissenschaften;3;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Forschung, Wissenschaft, Bildung;0;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Landwirtschaft, Viehwirtschaft und Fischerei;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/
+2024-10-24;Aufseher Landwirtschaft und Fischerei;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Aufseher-Landwirtschaft-Und-Fischerei-Freelancer/
+2024-10-24;Fischer und Fischzüchter;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Fischer-Und-Fischzüchter-Freelancer/
+2024-10-24;Gärtner;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Gärtner-Freelancer/
+2024-10-24;Inspektoren und Kontrolleure;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Inspektoren-Und-Kontrolleure-Freelancer/
+2024-10-24;Landwirte und Züchter;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Landwirte-Und-Züchter-Freelancer/
+2024-10-24;Landwirtschafts- und Viehzuchtexperten;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Landwirtschafts-Und-Viehzuchtexperten-Freelancer/
+2024-10-24;Landwirtschaftsmitarbeiter;4;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Landwirtschaftsmitarbeiter-Freelancer/
+2024-10-24;Tierärzte;0;/Freelancer/K/Landwirtschaft-Viehwirtschaft-Und-Fischerei-Freelancer/Tierärzte-Freelancer/
+2024-10-24;Andere;0;/Freelancer/K/Andere-Freelancer/
+2024-10-24;Apotheker und Pharmazeuten;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Ärzte;1;/Freelancer/K/Andere-Freelancer/Ärzte-Freelancer/
+2024-10-24;Betreuer;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Direktoren Pflege und Fürsorge;0;/Freelancer/K/Andere-Freelancer/Direktoren-Pflege-Und-Fürsorge-Freelancer/
+2024-10-24;Ernährungsberater und Therapeut;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Forscher und Analytiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Gesundheitswesen (sonstige);0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Hauptkrankenpfleger und Koordinatoren;0;/Freelancer/K/Andere-Freelancer/Hauptkrankenpfleger-Und-Koordinatoren-Freelancer/
+2024-10-24;Heilpraktiker;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Helfer;0;/Freelancer/K/Andere-Freelancer/Helfer-Freelancer/
+2024-10-24;Krankenpfleger;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Laborant;0;/Freelancer/K/Andere-Freelancer/Laborant-Freelancer/
+2024-10-24;Medizinische Assistenten;0;/Freelancer/K/Andere-Freelancer/Medizinische-Assistenten-Freelancer/
+2024-10-24;Medizinische Spezialisten und Chirurgen;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Mitarbeiter Kinderbetreuung;1;/Freelancer/K/Andere-Freelancer/Mitarbeiter-Kinderbetreuung-Freelancer/
+2024-10-24;Pflegemanager;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Psychologen und pädagogische Berater;1;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sonstige Berufe;14;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Spezialisierte Krankenpfleger;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Sportausbilder / Sportlehrer;2;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Techniker und medizinische Gerätehersteller;0;/Freelancer/K/Andere-Freelancer/Sonstige-Berufe-Freelancer/
+2024-10-24;Zahnärzte und Spezialisten für Zahnheilkunde;0;/Freelancer/K/Andere-Freelancer/Zahnärzte-Und-Spezialisten-Für-Zahnheilkunde-Freelancer/
+2024-10-24;Bauwesen und Bergbau;25;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/
+2024-10-24;Baumaschinenführer Hoch-, Tief- und Wasserbau;0;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Baumaschinenführer-Hoch-Tief-Und-Wasserbau-Freelancer/
+2024-10-24;Bauwesen und Bergbau (sonstige);1;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Bauwesen-Und-Bergbau-sonstige-Freelancer/
+2024-10-24;Betonbauer und Dachdecker;0;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Betonbauer-Und-Dachdecker-Freelancer/
+2024-10-24;Bohrarbeitenaufseher / Bohrarbeitenprüfer;1;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Bohrarbeitenaufseher-/-Bohrarbeitenprüfer-Freelancer/
+2024-10-24;Finisher Bau;0;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Finisher-Bau-Freelancer/
+2024-10-24;Manager Bau und Rohstoffgewinnung;1;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Manager-Bau-Und-Rohstoffgewinnung-Freelancer/
+2024-10-24;Maurer und Steinhauer;0;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Maurer-Und-Steinhauer-Freelancer/
+2024-10-24;Projektleiter Bau;16;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Projektleiter-Bau-Freelancer/
+2024-10-24;Straßenbauer;0;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Straßenbauer-Freelancer/
+2024-10-24;Subunternehmer Bauwesen;9;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Subunternehmer-Bauwesen-Freelancer/
+2024-10-24;Subunternehmer und Projektleiter im Tief- und Wasserbau;1;/Freelancer/K/Bauwesen-Und-Bergbau-Freelancer/Subunternehmer-Und-Projektleiter-Im-Tief-Und-Wasserbau-Freelancer/
+2024-10-24;Installation, Reparatur und Wartung;9;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/
+2024-10-24;Aufzug-, Rolltreppen- und Türenmonteure;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Aufzug-Rolltreppen-Und-Türenmonteure-Freelancer/
+2024-10-24;Inspektoren/Prüfer Installation, Reparatur und Wartung;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Inspektoren/prüfer-Installation-Reparatur-Und-Wartung-Freelancer/
+2024-10-24;Installation, Reparatur und Wartung (sonstige);4;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Installation-Reparatur-Und-Wartung-sonstige-Freelancer/
+2024-10-24;Kfz-Mechaniker;1;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Kfz-mechaniker-Freelancer/
+2024-10-24;Leiter Installation, Reparatur und Wartung;4;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Leiter-Installation-Reparatur-Und-Wartung-Freelancer/
+2024-10-24;Mechaniker Büro- und Kommunikationsgeräte;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/seo_category:office-equipment-mechanics-freelancer/url/
+2024-10-24;Mechaniker Flugzeug, Bahn und Schiffe;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Mechaniker-Flugzeug-Bahn-Und-Schiffe-Freelancer/
+2024-10-24;Mechaniker für mobile Werkzeuge;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Mechaniker-Für-Mobile-Werkzeuge-Freelancer/
+2024-10-24;Mechaniker für Sanitär-, Heizungs- und Klimatechnik;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Mechaniker-Für-Sanitär-Heizungs-Und-Klimatechnik-Freelancer/
+2024-10-24;Mechaniker Präzisions- und Musikinstrumente;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Mechaniker-Präzisions-Und-Musikinstrumente-Freelancer/
+2024-10-24;Mechaniker und Monteure (sonstige);0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Mechaniker-Und-Monteure-sonstige-Freelancer/
+2024-10-24;Messgeräte- und Ventilmechaniker;0;/Freelancer/K/Installation-Reparatur-Und-Wartung-Freelancer/Messgeräte-Und-Ventilmechaniker-Freelancer/
+2024-10-24;Bundeswehr;1;/Freelancer/K/Bundeswehr-Freelancer/
+2024-10-24;Berufssoldat, Gefreite und Unteroffiziere Bundeswehr;1;/Freelancer/K/Bundeswehr-Freelancer/Berufssoldat-Gefreite-Und-Unteroffiziere-Bundeswehr-Freelancer/
+2024-10-24;Bundeswehr (sonstige);0;/Freelancer/K/Bundeswehr-Freelancer/Bundeswehr-sonstige-Freelancer/
+2024-10-24;Polizei, Feuerwehr und Sicherheit;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/
+2024-10-24;Detektiven und Sicherheitsexperten;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Detektiven-Und-Sicherheitsexperten-Freelancer/
+2024-10-24;Feuerwehrleute;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Feuerwehrleute-Freelancer/
+2024-10-24;Justizvollzugsdienstbeamte;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Justizvollzugsdienstbeamte-Freelancer/
+2024-10-24;Leiter Polizei, Feuerwehr und Sicherheit;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Leiter-Polizei-Feuerwehr-Und-Sicherheit-Freelancer/
+2024-10-24;Polizei, Feuerwehr und Sicherheit (sonstige);0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Polizei-Feuerwehr-Und-Sicherheit-sonstige-Freelancer/
+2024-10-24;Polizeibeamte;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Polizeibeamte-Freelancer/
+2024-10-24;Polizeiermittler;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Polizeiermittler-Freelancer/
+2024-10-24;Sicherheits- und Überwachungsmitarbeiter;0;/Freelancer/K/Polizei-Feuerwehr-Und-Sicherheit-Freelancer/Sicherheits-Und-Überwachungsmitarbeiter-Freelancer/

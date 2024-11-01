@@ -45266,3 +45266,202 @@ date;job_group;num_jobs
 2024-10-31;Brandenburg;79
 2024-10-31;Saarland;47
 2024-10-31;Nur Endkundenprojekte;532
+2024-11-01;Vor Ort;3837
+2024-11-01;Remote;2278
+2024-11-01;Hybrid;1885
+2024-11-01;Freiberuflich;6823
+2024-11-01;Arbeitnehmerüberlassung;693
+2024-11-01;Festanstellung;484
+2024-11-01;IT;2250
+2024-11-01;Anlagen- und Maschinenbau;595
+2024-11-01;Energiewirtschaft;479
+2024-11-01;Finanzen;305
+2024-11-01;Baugewerbe;292
+2024-11-01;Automobilindustrie;272
+2024-11-01;Medizin und Pharma;271
+2024-11-01;Hochschulen und Behörden und Verbände;246
+2024-11-01;Elektrotechnische Industrie;198
+2024-11-01;Handel;178
+2024-11-01;Web- und Softwareentwicklung;4411
+2024-11-01;Schreib- und Übersetzungsdienste;682
+2024-11-01;Grafikdesign und Kreativdienste;714
+2024-11-01;Digitales Marketing;729
+2024-11-01;Ingenieurwesen;2664
+2024-11-01;Finanz- und Rechnungswesen;1060
+2024-11-01;Management und Beratungsdienste;5181
+2024-11-01;Forschung und Analyse;2751
+2024-11-01;IT-Dienstleistungen;3068
+2024-11-01;SAP Applications;1328
+2024-11-01;Projektmanagement;993
+2024-11-01;Softwareentwicklung;700
+2024-11-01;Sap Hana;695
+2024-11-01;Beratung;605
+2024-11-01;Verwaltungstätigkeiten;547
+2024-11-01;Automatisierung;541
+2024-11-01;Qualitätsmanagement;533
+2024-11-01;Datenbanken;462
+2024-11-01;Stakeholder Management;452
+2024-11-01;Innovation;445
+2024-11-01;Jira;428
+2024-11-01;Java;427
+2024-11-01;Prozessoptimierung;424
+2024-11-01;Cloud Computing;408
+2024-11-01;Schreiben von Dokumentation;396
+2024-11-01;Microsoft Azure;387
+2024-11-01;Testen;381
+2024-11-01;Infrastruktur;377
+2024-11-01;Agile Methodologie;362
+2024-11-01;Python;345
+2024-11-01;Architektur;343
+2024-11-01;Devops;341
+2024-11-01;Scrum;337
+2024-11-01;SQL;312
+2024-11-01;Continuous Integration;312
+2024-11-01;Inbetriebnahme;309
+2024-11-01;Linux;301
+2024-11-01;Kubernetes;296
+2024-11-01;Elektrotechnik;291
+2024-11-01;Finanzen;278
+2024-11-01;Ablaufplanung;275
+2024-11-01;Confluence;273
+2024-11-01;Geschäftsprozesse;261
+2024-11-01;Projektplanung;258
+2024-11-01;Git;256
+2024-11-01;Informationssicherheit;256
+2024-11-01;Backend;255
+2024-11-01;Bauwesen;250
+2024-11-01;ABAP;250
+2024-11-01;Amazon Web Services;248
+2024-11-01;Fehlerbehandlung;237
+2024-11-01;Docker;234
+2024-11-01;APIs;234
+2024-11-01;Buchhaltung;234
+2024-11-01;Vertrieb;228
+2024-11-01;Technischer Support;217
+2024-11-01;Automobilindustrie;216
+2024-11-01;Front End;212
+2024-11-01;Audits;210
+2024-11-01;Test Automation;208
+2024-11-01;Bauleitung;207
+2024-11-01;Javascript;205
+2024-11-01;Rekrutierung;203
+2024-11-01;Fehleranalyse;202
+2024-11-01;Change Management;197
+2024-11-01;Demonstrations-Fähigkeiten;193
+2024-11-01;It Service Management;192
+2024-11-01;Workflows;189
+2024-11-01;Energietechnik;189
+2024-11-01;Ingenieurwesen;186
+2024-11-01;Sap Erp;183
+2024-11-01;ITIL;183
+2024-11-01;SAP IS-U;182
+2024-11-01;Enterprise Resource Planning;180
+2024-11-01;Kundenbeziehungsmanagement;170
+2024-11-01;Terraform;166
+2024-11-01;Kundendienst;166
+2024-11-01;Datenmanagement;157
+2024-11-01;Verhandlung;156
+2024-11-01;Risikomanagement;154
+2024-11-01;Gitlab;154
+2024-11-01;Active Directory;154
+2024-11-01;Software Systems;151
+2024-11-01;Ansible;151
+2024-11-01;Betriebssysteme;149
+2024-11-01;Springboot;148
+2024-11-01;Buchhaltungskontrolle;147
+2024-11-01;Maschinenbau;145
+2024-11-01;User Experience (UX);144
+2024-11-01;Budgetierung;143
+2024-11-01;Sap Fi;142
+2024-11-01;Debugging;142
+2024-11-01;Wirtschaftsinformatik;142
+2024-11-01;Data Analysis;142
+2024-11-01;Anforderungsanalyse;141
+2024-11-01;Speicherprogrammierbare Steuerungen;140
+2024-11-01;AngularJS;139
+2024-11-01;Ausbildungsaktivitäten;139
+2024-11-01;C++;139
+2024-11-01;Vmware;136
+2024-11-01;Sap Fi/Co;135
+2024-11-01;Datenmodell;131
+2024-11-01;Forschung;131
+2024-11-01;Microservices;130
+2024-11-01;User Stories;130
+2024-11-01;Nachhaltigkeit;128
+2024-11-01;Produktanforderungen;128
+2024-11-01;C#;128
+2024-11-01;Compliance;127
+2024-11-01;Deutschland;8000
+2024-11-01;Österreich;366
+2024-11-01;Schweiz;807
+2024-11-01;Großbritannien;312
+2024-11-01;USA;141
+2024-11-01;Niederlande;106
+2024-11-01;Belgien;65
+2024-11-01;Frankreich;50
+2024-11-01;Polen;38
+2024-11-01;Schweden;27
+2024-11-01;Spanien;26
+2024-11-01;Indien;25
+2024-11-01;Irland;25
+2024-11-01;Luxemburg;18
+2024-11-01;Italien;16
+2024-11-01;Rumänien;13
+2024-11-01;Tschechische Republik;13
+2024-11-01;Dänemark;12
+2024-11-01;Brasilien;10
+2024-11-01;Ungarn;9
+2024-11-01;Griechenland;8
+2024-11-01;Portugal;8
+2024-11-01;Türkei;7
+2024-11-01;Albanien;6
+2024-11-01;Argentinien;5
+2024-11-01;Mexico;5
+2024-11-01;Ukraine;4
+2024-11-01;Kanada;4
+2024-11-01;Liechtenstein;3
+2024-11-01;Kolumbien;3
+2024-11-01;Saudi Arabien;3
+2024-11-01;Zypern;3
+2024-11-01;Australien;2
+2024-11-01;Bulgarien;2
+2024-11-01;Norwegen;2
+2024-11-01;Pakistan;2
+2024-11-01;Peru;2
+2024-11-01;Serbien;2
+2024-11-01;Südkorea;2
+2024-11-01;Swaziland;2
+2024-11-01;Slowakei;1
+2024-11-01;Bangladesch;1
+2024-11-01;Belarus;1
+2024-11-01;China;1
+2024-11-01;Haiti;1
+2024-11-01;Japan;1
+2024-11-01;Katar;1
+2024-11-01;Kenya;1
+2024-11-01;Kroatien;1
+2024-11-01;Malaysia;1
+2024-11-01;Philippinen;1
+2024-11-01;Singapur;1
+2024-11-01;Thailand;1
+2024-11-01;Vietnam;1
+2024-11-01;Nigeria;1
+2024-11-01;Equador;1
+2024-11-01;Uganda;1
+2024-11-01;Nordrhein-Westfalen;1436
+2024-11-01;Bayern;1329
+2024-11-01;Hessen;1027
+2024-11-01;Baden-Württemberg;1008
+2024-11-01;Berlin;697
+2024-11-01;Hamburg;520
+2024-11-01;Niedersachsen;337
+2024-11-01;Rheinland-Pfalz;208
+2024-11-01;Bremen;157
+2024-11-01;Sachsen;154
+2024-11-01;Schleswig-Holstein;152
+2024-11-01;Sachsen-Anhalt;105
+2024-11-01;Mecklenburg-Vorpommern;104
+2024-11-01;Thüringen;83
+2024-11-01;Brandenburg;78
+2024-11-01;Saarland;46
+2024-11-01;Nur Endkundenprojekte;536

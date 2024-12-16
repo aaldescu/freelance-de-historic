@@ -3,13 +3,12 @@ from datetime import datetime
 import time
 import sqlite3
 import pandas as pd
+import os
 from playwright.sync_api import sync_playwright
 
 now = datetime.now()
 current_time = now.strftime("%Y-%m-%d")
 print("Current Time =", current_time)
-
-project_path = os.path.dirname(os.path.realpath(__file__)) + "/"
 
 def save_to_db(data):
     conn = sqlite3.connect('freelance_projects.db')

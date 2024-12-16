@@ -26,59 +26,94 @@ buy_me_a_coffee_html = """
 # Connect to SQLite database
 conn = sqlite3.connect(os.path.join(project_path, 'freelance_projects.db'))
 
-# Read data from the projects table
-df = pd.read_sql_query("""
+# Read data from both tables
+projects_df = pd.read_sql_query("""
     SELECT 
         date,
         category as job_group,
-        num_jobs,
-        'freelancermap.de' as source
+        num_jobs
     FROM projects
 """, conn)
 
-# Convert date column to datetime
-df['date'] = pd.to_datetime(df['date']).dt.floor('D')
+freelancers_df = pd.read_sql_query("""
+    SELECT 
+        date,
+        category as job_group,
+        num_freelancers
+    FROM freelances
+""", conn)
+
+# Convert date columns to datetime
+projects_df['date'] = pd.to_datetime(projects_df['date']).dt.floor('D')
+freelancers_df['date'] = pd.to_datetime(freelancers_df['date']).dt.floor('D')
 
 # Sidebar 
 st.sidebar.header('Filters')
 
-# Date Slider
-min_date, max_date = df['date'].min().date(), df['date'].max().date()
+# Date Slider - use projects date range since that's what we're primarily interested in
+min_date, max_date = projects_df['date'].min().date(), projects_df['date'].max().date()
 
 _ago_date = max_date - timedelta(days=90)
 
 selected_date_range = st.sidebar.slider("Select Date Range:", 
-                                        min_value=min_date, 
-                                        max_value=max_date, 
-                                        value=(_ago_date, max_date)
-                                       )
+                                      min_value=min_date, 
+                                      max_value=max_date, 
+                                      value=(_ago_date, max_date)
+                                     )
 
-# Job Group Multiselect
-job_groups = df['job_group'].unique()
+# Job Group Multiselect - use unique categories from projects
+job_groups = projects_df['job_group'].unique()
 selected_job_groups = st.sidebar.multiselect("Select Job Groups:", job_groups, default=["SQL","ERP / CRM Systeme", "SAP", "Web", "Softwareentwicklung / -programmierung"])
 
 # Filter data based on selections
-# Convert selected_date_range to pandas timestamps
 start_date, end_date = pd.to_datetime(selected_date_range[0]), pd.to_datetime(selected_date_range[1])
 
-filtered_df = df[(df['date'] >= start_date) & (df['date'] <= end_date)]
-filtered_df = filtered_df[filtered_df['job_group'].isin(selected_job_groups)]
+filtered_projects = projects_df[
+    (projects_df['date'] >= start_date) & 
+    (projects_df['date'] <= end_date) &
+    (projects_df['job_group'].isin(selected_job_groups))
+]
 
-# Split data source into job and expert
-job_filtered_df = filtered_df[filtered_df['source'].isin(['freelancermap_project_data.csv', 'project_data.csv'])]
-expert_filtered_df = filtered_df[filtered_df['source'].isin(['freelance_data.csv'])]
+filtered_freelancers = freelancers_df[
+    (freelancers_df['date'] >= start_date) & 
+    (freelancers_df['date'] <= end_date) &
+    (freelancers_df['job_group'].isin(selected_job_groups))
+]
 
-# Preparing data for the line chart
-job_pivot_df = job_filtered_df.pivot_table(index='date', columns='job_group', values='num_jobs', aggfunc='sum').fillna(0)
-expert_pivot_df = expert_filtered_df.pivot_table(index='date', columns='job_group', values='num_jobs', aggfunc='sum').fillna(0)
+# Preparing data for the line charts
+job_pivot_df = filtered_projects.pivot_table(
+    index='date', 
+    columns='job_group', 
+    values='num_jobs', 
+    aggfunc='sum'
+).fillna(0)
+
+expert_pivot_df = filtered_freelancers.pivot_table(
+    index='date', 
+    columns='job_group', 
+    values='num_freelancers', 
+    aggfunc='sum'
+).fillna(0)
 
 # Data for Experts / Jobs Ratio
-df_pivot = filtered_df.pivot_table(index=["job_group", "date"], columns="source", values="num_jobs").fillna(0).reset_index()
-df_pivot["experts"] = df_pivot["freelance_data.csv"] + df_pivot["freelancermap_project_data.csv"]
-df_pivot = df_pivot.drop(columns=["freelance_data.csv", "freelancermap_project_data.csv"])
-# Apply the function for safe division and rounding up
-df_pivot["ratio"] = df_pivot.apply(lambda row: safe_divide_and_ceil(row["experts"], row["project_data.csv"]), axis=1)
-expert_ratio_df = df_pivot.pivot_table(index='date', columns='job_group', values='ratio', aggfunc='sum').fillna(0)
+merged_df = pd.merge(
+    filtered_projects.groupby(['date', 'job_group'])['num_jobs'].sum().reset_index(),
+    filtered_freelancers.groupby(['date', 'job_group'])['num_freelancers'].sum().reset_index(),
+    on=['date', 'job_group'],
+    how='outer'
+).fillna(0)
+
+merged_df['ratio'] = merged_df.apply(
+    lambda row: safe_divide_and_ceil(row['num_freelancers'], row['num_jobs']), 
+    axis=1
+)
+
+expert_ratio_df = merged_df.pivot_table(
+    index='date', 
+    columns='job_group', 
+    values='ratio', 
+    aggfunc='sum'
+).fillna(0)
 
 # Calculate the daily differences for jobs
 job_daily_diff = job_pivot_df.diff().fillna(0)  # Calculate day-to-day difference and fill NaN with 0
@@ -140,15 +175,11 @@ daily_diff_chart_experts = alt.Chart(expert_daily_diff.reset_index().melt('date'
 
 st.altair_chart(daily_diff_chart_experts)
 
-df_topcomp = df.pivot_table(index=["job_group", "date"], columns="source", values="num_jobs").fillna(0).reset_index()
-df_topcomp["experts"] = df_topcomp["freelance_data.csv"] + df_topcomp["freelancermap_project_data.csv"]
-df_topcomp = df_topcomp.drop(columns=["freelance_data.csv", "freelancermap_project_data.csv"])
-# Apply the function for safe division and rounding up
-df_topcomp["ratio"] = df_topcomp.apply(lambda row: safe_divide_and_ceil(row["experts"], row["project_data.csv"]), axis=1)
-
-abc = df_topcomp.groupby('job_group')['ratio'].mean().round().reset_index()
-abc = abc.sort_values(by="ratio", ascending=False)
-st.write(abc)
+# Top competition calculation
+df_topcomp = merged_df.copy()
+df_topcomp = df_topcomp.groupby('job_group')['ratio'].mean().round().reset_index()
+df_topcomp = df_topcomp.sort_values(by="ratio", ascending=False)
+st.write(df_topcomp)
 
 # Close database connection
 conn.close()

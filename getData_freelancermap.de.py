@@ -1,10 +1,9 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
-import csv
-import os
+import sqlite3
+import pandas as pd
 from playwright.sync_api import sync_playwright
-
 
 now = datetime.now()
 current_time = now.strftime("%Y-%m-%d")
@@ -12,15 +11,33 @@ print("Current Time =", current_time)
 
 project_path = os.path.dirname(os.path.realpath(__file__)) + "/"
 
+def save_to_db(data):
+    conn = sqlite3.connect('freelance_projects.db')
+    
+    # Convert data to pandas DataFrame
+    df = pd.DataFrame(data, columns=['date', 'category', 'num_jobs'])
+    
+    # Convert date to datetime
+    df['date'] = pd.to_datetime(df['date'])
+    
+    # Add empty href column to match schema
+    df['href'] = ''
+    
+    # Write to database - append mode
+    df.to_sql('projects', conn, if_exists='append', index=False)
+    
+    # Get count of records inserted
+    cursor = conn.cursor()
+    cursor.execute("SELECT COUNT(*) FROM projects WHERE date = ?", (df['date'].iloc[0].strftime("%Y-%m-%d"),))
+    count = cursor.fetchone()[0]
+    print(f"Added {len(df)} records to projects. Total records for today: {count}")
+    
+    conn.commit()
+    conn.close()
 
 #GET PROJEKTE DATA
 start_url = "https://www.freelancermap.de/projektboerse.html"
-# all the data points are at this level
 data = []
-
-
-#header row
-#data.append(["date","job_group","num_jobs", "href"])
 
 # Define the URL you want to visit
 url = 'https://www.freelancermap.de/projektboerse.html'
@@ -68,13 +85,11 @@ elements = soup.find_all('div', class_="checkbox-item")
 for el in elements:
     count = el.find('span',class_='count').text.strip().replace(".","")
     item = el.find('span',class_='item-name').text.strip()
-    data.append([current_time,item, count])
+    data.append([current_time, item, count])
 
-print(len(elements))
+print(f"Found {len(elements)} categories")
 
-
-# Save data to CSV file
-with open(project_path + 'freelancermap_project_data.csv', 'a', newline='', encoding='utf-8' ) as csvfile:
-    csvwriter = csv.writer(csvfile, delimiter=";")
-    csvwriter.writerows(data)
-
+# Save data to database
+print("\nSaving data to database...")
+save_to_db(data)
+print("Data has been saved to database")

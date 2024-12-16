@@ -14,11 +14,13 @@ def extract_data(page, data_type='jobs'):
             if anchor:
                 text = anchor.text_content().strip()
                 text = text.split('(')[0].strip()
+                href = anchor.get_attribute('href')
                 span = item.query_selector('span.ms-2')
                 count = span.text_content().strip('()') if span else '0'
                 
                 data.append({
                     'category': text,
+                    'href': href,
                     'num_jobs': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
@@ -28,11 +30,13 @@ def extract_data(page, data_type='jobs'):
             anchor = item.query_selector('a')
             if anchor:
                 text = anchor.text_content().strip()
+                href = anchor.get_attribute('href')
                 span = item.query_selector('span')
                 count = span.text_content().strip().strip('[]') if span else '0'
                 
                 data.append({
                     'category': text,
+                    'href': href,
                     'num_freelancers': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
@@ -71,10 +75,10 @@ def save_to_db(data, table_name):
     # Create indices if they don't exist
     if table_name == 'projects':
         cursor.execute('CREATE INDEX IF NOT EXISTS idx_date ON projects(date)')
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_category ON projects(job_group)')
+        cursor.execute('CREATE INDEX IF NOT EXISTS idx_category ON projects(category)')
     else:
         cursor.execute('CREATE INDEX IF NOT EXISTS idx_freelance_date ON freelances(date)')
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_freelance_category ON freelances(job_group)')
+        cursor.execute('CREATE INDEX IF NOT EXISTS idx_freelance_category ON freelances(category)')
     
     # Get count of records inserted
     cursor.execute(f"SELECT COUNT(*) FROM {table_name} WHERE date = ?", (df['date'].iloc[0].strftime("%Y-%m-%d"),))

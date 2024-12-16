@@ -4,6 +4,7 @@ import streamlit as st
 from datetime import timedelta
 import math
 import altair as alt
+import sqlite3
 
 def safe_divide_and_ceil(numerator, denominator):
     if denominator == 0:  # Check for division by zero
@@ -22,17 +23,18 @@ buy_me_a_coffee_html = """
 </a>
 """
 
-# Define the file paths (or names if they are in the same directory)
-file_names = ['freelance_data.csv', 'freelancermap_project_data.csv', 'project_data.csv']
-file_paths = [os.path.join(project_path, file_name) for file_name in file_names]
+# Connect to SQLite database
+conn = sqlite3.connect(os.path.join(project_path, 'freelance_projects.db'))
 
-# Use comprehension to read each file into a DataFrame, adding a source column, and store them in a list
-data_frames = [pd.read_csv(file, sep=';').assign(source=os.path.basename(file)) for file in file_paths]
-
-# Concatenate all DataFrames in the list into a single DataFrame
-df = pd.concat(data_frames, ignore_index=True)
-
-# Streamlit Dashboard
+# Read data from the projects table
+df = pd.read_sql_query("""
+    SELECT 
+        date,
+        category as job_group,
+        num_jobs,
+        'freelancermap.de' as source
+    FROM projects
+""", conn)
 
 # Convert date column to datetime
 df['date'] = pd.to_datetime(df['date']).dt.floor('D')
@@ -147,3 +149,6 @@ df_topcomp["ratio"] = df_topcomp.apply(lambda row: safe_divide_and_ceil(row["exp
 abc = df_topcomp.groupby('job_group')['ratio'].mean().round().reset_index()
 abc = abc.sort_values(by="ratio", ascending=False)
 st.write(abc)
+
+# Close database connection
+conn.close()

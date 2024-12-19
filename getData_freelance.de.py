@@ -91,7 +91,7 @@ def save_to_db(data, table_name):
 def main():
     with sync_playwright() as p:
         # Launch browser
-        browser = p.chromium.launch(headless=False)  # Set to True for headless mode
+        browser = p.chromium.launch(headless=True)  # Set to True for headless mode
         page = browser.new_page()
         
         # Handle cookies only once at the start

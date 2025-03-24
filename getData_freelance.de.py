@@ -24,15 +24,15 @@ def extract_data(page, data_type='jobs'):
                     'num_jobs': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
-    else:
-        list_items = page.query_selector_all("//div[@class='row margin-top-xs']//ul//li")
+    elif data_type == 'freelancers':
+        list_items = page.query_selector_all("//div[@class='mt-2']//ul//li")
         for item in list_items:
             anchor = item.query_selector('a')
             if anchor:
-                text = anchor.text_content().strip()
+                text = anchor.text_content().split('(')[0].strip()
                 href = anchor.get_attribute('href')
                 span = item.query_selector('span')
-                count = span.text_content().strip().strip('[]') if span else '0'
+                count = span.text_content().strip().strip('()') if span else '0'
                 
                 data.append({
                     'category': text,
@@ -40,6 +40,8 @@ def extract_data(page, data_type='jobs'):
                     'num_freelancers': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
+    else :
+        data.append({'error':'data_type case not found'})
     
     return data
 
@@ -102,8 +104,9 @@ def main():
                 cookie_button.click()
                 time.sleep(2)
         except Exception as e:
-            print("Cookie popup not found or already accepted:", str(e))
-        
+            #print("Cookie popup not found or already accepted:", str(e))
+            print("Cookie popup not found or already accepted. Continue ...")
+                
         # Collect Jobs Data
         print("Collecting jobs data...")
         url = "https://www.freelance.de/projekte"
@@ -127,7 +130,7 @@ def main():
                 subcategory_url = f"https://www.freelance.de{item['href']}"
                 subcategory_data = get_subcategory_data(page, subcategory_url, 'jobs')
                 all_jobs_data.extend(subcategory_data)
-        
+                
         # Collect Freelancers Data
         print("\nCollecting freelancers data...")
         url = "https://www.freelance.de/Freelancer"
@@ -143,14 +146,16 @@ def main():
             print(f"Error clicking 'Alle anzeigen' button: {e}")
         
         freelancers_main_data = extract_data(page, 'freelancers')
-        all_freelancers_data = []
         
+
+        all_freelancers_data = []
         for item in freelancers_main_data:
             all_freelancers_data.append(item)
             if item['href']:
                 subcategory_url = f"https://www.freelance.de{item['href']}"
                 subcategory_data = get_subcategory_data(page, subcategory_url, 'freelancers')
                 all_freelancers_data.extend(subcategory_data)
+        
         
         # Save data to database
         print("\nSaving data to database...")

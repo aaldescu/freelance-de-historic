@@ -114,17 +114,6 @@ job_chart = alt.Chart(job_pivot_df.reset_index().melt('date')).mark_line().encod
 
 st.altair_chart(job_chart)
 
-st.header('Experts per Job :sunglasses:')
-expert_ratio_chart = alt.Chart(expert_ratio_df.reset_index().melt('date')).mark_line().encode(
-    x=alt.X('date:T', axis=alt.Axis(labelAngle=45)), 
-    y='value:Q', 
-    color='job_group:N'
-).properties(
-    width=800,
-    height=400
-)
-
-st.altair_chart(expert_ratio_chart)
 
 # Visualize the daily differences
 st.header('Daily Difference in Jobs :chart_with_upwards_trend:')

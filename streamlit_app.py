@@ -31,7 +31,7 @@ projects_df = pd.read_sql_query("""
     SELECT 
         date,
         category as job_group,
-        num_jobs
+        num
     FROM projects
 """, conn)
 
@@ -39,7 +39,7 @@ freelancers_df = pd.read_sql_query("""
     SELECT 
         date,
         category as job_group,
-        num_freelancers
+        num
     FROM freelances
 """, conn)
 
@@ -84,27 +84,27 @@ filtered_freelancers = freelancers_df[
 job_pivot_df = filtered_projects.pivot_table(
     index='date', 
     columns='job_group', 
-    values='num_jobs', 
+    values='num', 
     aggfunc='sum'
 ).fillna(0)
 
 expert_pivot_df = filtered_freelancers.pivot_table(
     index='date', 
     columns='job_group', 
-    values='num_freelancers', 
+    values='num', 
     aggfunc='sum'
 ).fillna(0)
 
 # Data for Experts / Jobs Ratio
 merged_df = pd.merge(
-    filtered_projects.groupby(['date', 'job_group'])['num_jobs'].sum().reset_index(),
-    filtered_freelancers.groupby(['date', 'job_group'])['num_freelancers'].sum().reset_index(),
+    filtered_projects.groupby(['date', 'job_group'])['num'].sum().reset_index(),
+    filtered_freelancers.groupby(['date', 'job_group'])['num'].sum().reset_index(),
     on=['date', 'job_group'],
     how='outer'
 ).fillna(0)
 
 merged_df['ratio'] = merged_df.apply(
-    lambda row: safe_divide_and_ceil(row['num_freelancers'], row['num_jobs']), 
+    lambda row: safe_divide_and_ceil(row['num'], row['num']), 
     axis=1
 )
 

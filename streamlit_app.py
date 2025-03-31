@@ -6,12 +6,6 @@ import math
 import altair as alt
 import sqlite3
 
-def safe_divide_and_ceil(numerator, denominator):
-    if denominator == 0:  # Check for division by zero
-        return 0  # Or None, or any other value you deem appropriate
-    else:
-        result = numerator / denominator
-        return round(result, 2)
     
 project_path = os.path.dirname(os.path.realpath(__file__))
 
@@ -95,33 +89,7 @@ expert_pivot_df = filtered_freelancers.pivot_table(
     aggfunc='sum'
 ).fillna(0)
 
-# Merge the dataframes on 'date' and 'job_group' and handle missing values
-merged_df = pd.merge(
-    filtered_projects.groupby(['date', 'job_group'])['num'].sum().reset_index(),
-    filtered_freelancers.groupby(['date', 'job_group'])['num'].sum().reset_index(),
-    on=['date', 'job_group'],
-    how='outer'
-).fillna(0)
 
-# Define a safe divide function that avoids division by zero
-def safe_divide_and_ceil(numerator, denominator):
-    if denominator == 0:
-        return 0  # Avoid division by zero, return 0 in such cases
-    return (numerator / denominator).ceil()  # You can round up the result if needed
-
-# Calculate the ratio of projects to freelancers, ensuring safe division
-merged_df['ratio'] = merged_df.apply(
-    lambda row: safe_divide_and_ceil(row['num_x'], row['num_y']),  # Use appropriate column names for project and freelancer counts
-    axis=1
-)
-
-
-expert_ratio_df = merged_df.pivot_table(
-    index='date', 
-    columns='job_group', 
-    values='ratio', 
-    aggfunc='sum'
-).fillna(0)
 
 # Calculate the daily differences for jobs
 job_daily_diff = job_pivot_df.diff().fillna(0)  # Calculate day-to-day difference and fill NaN with 0

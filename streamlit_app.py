@@ -44,8 +44,8 @@ freelancers_df = pd.read_sql_query("""
 """, conn)
 
 # Convert date columns to datetime
-projects_df['date'] = pd.to_datetime(projects_df['date']).dt.floor('D')
-freelancers_df['date'] = pd.to_datetime(freelancers_df['date']).dt.floor('D')
+projects_df['date'] = pd.to_datetime(projects_df['date'], errors='coerce').dt.floor('D')
+freelancers_df['date'] = pd.to_datetime(freelancers_df['date'],errors='coerce').dt.floor('D')
 
 # Sidebar 
 st.sidebar.header('Filters')

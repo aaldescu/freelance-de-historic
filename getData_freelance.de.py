@@ -62,33 +62,46 @@ def get_subcategory_data(page, url, data_type='jobs'):
     return extract_data(page, data_type)
 
 def save_to_db(data, table_name):
-    conn = sqlite3.connect('freelance_projects.db')
-    cursor = conn.cursor()
-    
-    # Convert data to pandas DataFrame
-    df = pd.DataFrame(data)
-    
-    # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'])
-    
-    # Write to database - append instead of replace
-    df.to_sql(table_name, conn, if_exists='append', index=False)
-    
-    # Create indices if they don't exist
-    if table_name == 'projects':
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_date ON projects(date)')
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_category ON projects(category)')
-    else:
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_freelance_date ON freelances(date)')
-        cursor.execute('CREATE INDEX IF NOT EXISTS idx_freelance_category ON freelances(category)')
-    
-    # Get count of records inserted
-    cursor.execute(f"SELECT COUNT(*) FROM {table_name} WHERE date = ?", (df['date'].iloc[0].strftime("%Y-%m-%d"),))
-    count = cursor.fetchone()[0]
-    print(f"Added {len(df)} records to {table_name}. Total records for today: {count}")
-    
-    conn.commit()
-    conn.close()
+    with sqlite3.connect('freelance_projects.db') as conn:
+        cursor = conn.cursor()
+
+        # Ensure the table exists with the updated schema
+        cursor.execute(f"""
+            CREATE TABLE IF NOT EXISTS {table_name} (
+                date TIMESTAMP,
+                category TEXT,
+                num INTEGER,
+                href TEXT,
+                UNIQUE(date, category)
+            );
+        """)
+
+        # Ensure the composite index exists
+        cursor.execute(f"""
+            CREATE INDEX IF NOT EXISTS idx_{table_name}_date_category
+            ON {table_name}(date, category);
+        """)
+
+        # Convert data to DataFrame and format the date
+        df = pd.DataFrame(data)
+        df['date'] = pd.to_datetime(df['date']).dt.strftime("%Y-%m-%d")  # Standardize date format
+
+        # Insert data while preventing duplicates (ON CONFLICT IGNORE)
+        insert_query = f"""
+            INSERT OR IGNORE INTO {table_name} (date, category, num, href)
+            VALUES (?, ?, ?, ?);
+        """
+        cursor.executemany(insert_query, df[['date', 'category', 'num', 'href']].values.tolist())
+
+        # Count records added today
+        today_str = df['date'].iloc[0]
+        cursor.execute(f"SELECT COUNT(*) FROM {table_name} WHERE date = ?", (today_str,))
+        count = cursor.fetchone()[0]
+
+        print(f"Added {len(df)} new records (ignoring duplicates) to {table_name}. Total records for today: {count}")
+
+        conn.commit()
+
 
 def main():
     with sync_playwright() as p:

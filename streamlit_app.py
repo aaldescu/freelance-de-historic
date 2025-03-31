@@ -140,11 +140,7 @@ daily_diff_chart_experts = alt.Chart(expert_daily_diff.reset_index().melt('date'
 
 st.altair_chart(daily_diff_chart_experts)
 
-# Top competition calculation
-df_topcomp = merged_df.copy()
-df_topcomp = df_topcomp.groupby('job_group')['ratio'].mean().round().reset_index()
-df_topcomp = df_topcomp.sort_values(by="ratio", ascending=False)
-st.write(df_topcomp)
+
 
 # Close database connection
 conn.close()

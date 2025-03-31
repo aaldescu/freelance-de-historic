@@ -6,33 +6,50 @@ import pandas as pd
 import os
 from playwright.sync_api import sync_playwright
 
-now = datetime.now()
-current_time = now.strftime("%Y-%m-%d")
+# Get current date
+current_time = datetime.now().strftime("%Y-%m-%d")
 print("Current Time =", current_time)
 
 def save_to_db(data):
-    conn = sqlite3.connect('freelance_projects.db')
-    
-    # Convert data to pandas DataFrame
-    df = pd.DataFrame(data, columns=['date', 'category', 'num_jobs'])
-    
-    # Convert date to datetime
-    df['date'] = pd.to_datetime(df['date'])
-    
-    # Add empty href column to match schema
-    df['href'] = ''
-    
-    # Write to database - append mode
-    df.to_sql('projects', conn, if_exists='append', index=False)
-    
-    # Get count of records inserted
-    cursor = conn.cursor()
-    cursor.execute("SELECT COUNT(*) FROM projects WHERE date = ?", (df['date'].iloc[0].strftime("%Y-%m-%d"),))
-    count = cursor.fetchone()[0]
-    print(f"Added {len(df)} records to projects. Total records for today: {count}")
-    
-    conn.commit()
-    conn.close()
+    with sqlite3.connect('freelance_projects.db') as conn:
+        cursor = conn.cursor()
+
+        # Ensure table exists
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS projects (
+                date TIMESTAMP,
+                category TEXT,
+                num INTEGER,
+                href TEXT,
+                UNIQUE(date, category)
+            );
+        """)
+
+        # Ensure composite index exists
+        cursor.execute("""
+            CREATE INDEX IF NOT EXISTS idx_projects_date_category
+            ON projects(date, category);
+        """)
+
+        # Convert data to DataFrame and format the date
+        df = pd.DataFrame(data, columns=['date', 'category', 'num'])
+        df['date'] = pd.to_datetime(df['date']).dt.strftime("%Y-%m-%d")  # Standardize date format
+        df['href'] = ''  # Ensure href column exists
+
+        # Insert data while preventing duplicates (ON CONFLICT IGNORE)
+        insert_query = """
+            INSERT OR IGNORE INTO projects (date, category, num, href)
+            VALUES (?, ?, ?, ?);
+        """
+        cursor.executemany(insert_query, df[['date', 'category', 'num', 'href']].values.tolist())
+
+        # Count records added today
+        cursor.execute("SELECT COUNT(*) FROM projects WHERE date = ?", (current_time,))
+        count = cursor.fetchone()[0]
+
+        print(f"Added {len(df)} new records (ignoring duplicates) to projects. Total records for today: {count}")
+
+        conn.commit()
 
 #GET PROJEKTE DATA
 start_url = "https://www.freelancermap.de/projektboerse.html"

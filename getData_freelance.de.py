@@ -21,7 +21,7 @@ def extract_data(page, data_type='jobs'):
                 data.append({
                     'category': text,
                     'href': href,
-                    'num_jobs': count,
+                    'num': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
     elif data_type == 'freelancers':

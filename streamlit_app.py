@@ -140,7 +140,15 @@ daily_diff_chart_experts = alt.Chart(expert_daily_diff.reset_index().melt('date'
 
 st.altair_chart(daily_diff_chart_experts)
 
+st.header("Debugging: Filtered DataFrames")
 
+# Show the filtered projects table
+st.subheader("Filtered Projects Data")
+st.dataframe(filtered_projects)  # Use st.table(filtered_projects) for a static table
+
+# Show the filtered freelancers table
+st.subheader("Filtered Freelancers Data")
+st.dataframe(filtered_freelancers)
 
 # Close database connection
 conn.close()

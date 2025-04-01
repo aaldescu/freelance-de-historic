@@ -20,7 +20,6 @@ def extract_data(page, data_type='jobs'):
                 
                 data.append({
                     'category': text,
-                    'href': href,
                     'num': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
@@ -36,7 +35,6 @@ def extract_data(page, data_type='jobs'):
                 
                 data.append({
                     'category': text,
-                    'href': href,
                     'num': count,
                     'date': datetime.now().strftime("%Y-%m-%d")
                 })
@@ -88,10 +86,10 @@ def save_to_db(data, table_name):
 
         # Insert data while preventing duplicates (ON CONFLICT IGNORE)
         insert_query = f"""
-            INSERT OR IGNORE INTO {table_name} (date, category, num, href)
+            INSERT OR IGNORE INTO {table_name} (date, category, num)
             VALUES (?, ?, ?, ?);
         """
-        cursor.executemany(insert_query, df[['date', 'category', 'num', 'href']].values.tolist())
+        cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
 
         # Count records added today
         today_str = df['date'].iloc[0]

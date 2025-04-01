@@ -38,10 +38,10 @@ def save_to_db(data):
 
         # Insert data while preventing duplicates (ON CONFLICT IGNORE)
         insert_query = """
-            INSERT OR IGNORE INTO projects (date, category, num, href)
+            INSERT OR IGNORE INTO projects (date, category, num)
             VALUES (?, ?, ?, ?);
         """
-        cursor.executemany(insert_query, df[['date', 'category', 'num', 'href']].values.tolist())
+        cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
 
         # Count records added today
         cursor.execute("SELECT COUNT(*) FROM projects WHERE date = ?", (current_time,))

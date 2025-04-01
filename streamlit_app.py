@@ -150,5 +150,15 @@ st.dataframe(filtered_projects)  # Use st.table(filtered_projects) for a static 
 st.subheader("Filtered Freelancers Data")
 st.dataframe(filtered_freelancers)
 
+st.header("Debugging: Original DataFrames")
+
+# Show the filtered projects table
+st.subheader("Projects Data")
+st.dataframe(projects_df)  
+
+# Show the filtered freelancers table
+st.subheader("Freelancers Data")
+st.dataframe(freelancers_df)
+
 # Close database connection
 conn.close()

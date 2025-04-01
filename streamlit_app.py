@@ -26,7 +26,7 @@ projects_df = pd.read_sql_query("""
         date,
         category as job_group,
         num
-    FROM projects
+    FROM projects ORDER BY date DESC
 """, conn)
 
 freelancers_df = pd.read_sql_query("""
@@ -34,7 +34,7 @@ freelancers_df = pd.read_sql_query("""
         date,
         category as job_group,
         num
-    FROM freelances
+    FROM freelances ORDER BY date DESC
 """, conn)
 
 # Convert date columns to datetime

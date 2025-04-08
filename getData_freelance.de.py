@@ -21,7 +21,8 @@ def extract_data(page, data_type='jobs'):
                 data.append({
                     'category': text,
                     'num': count,
-                    'date': datetime.now().strftime("%Y-%m-%d")
+                    'date': datetime.now().strftime("%Y-%m-%d"),
+                    'href': href
                 })
     elif data_type == 'freelancers':
         list_items = page.query_selector_all("//div[@class='mt-2']//ul//li")
@@ -36,7 +37,8 @@ def extract_data(page, data_type='jobs'):
                 data.append({
                     'category': text,
                     'num': count,
-                    'date': datetime.now().strftime("%Y-%m-%d")
+                    'date': datetime.now().strftime("%Y-%m-%d"),
+                    'href': href
                 })
     else :
         data.append({'error':'data_type case not found'})
@@ -87,7 +89,7 @@ def save_to_db(data, table_name):
         # Insert data while preventing duplicates (ON CONFLICT IGNORE)
         insert_query = f"""
             INSERT OR IGNORE INTO {table_name} (date, category, num)
-            VALUES (?, ?, ?, ?);
+            VALUES (?, ?, ?);
         """
         cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
 

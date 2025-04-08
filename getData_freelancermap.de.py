@@ -39,7 +39,7 @@ def save_to_db(data):
         # Insert data while preventing duplicates (ON CONFLICT IGNORE)
         insert_query = """
             INSERT OR IGNORE INTO projects (date, category, num)
-            VALUES (?, ?, ?, ?);
+            VALUES (?, ?, ?);
         """
         cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
 

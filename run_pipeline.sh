@@ -9,6 +9,10 @@ SUCCESS_MESSAGE="Job Summary:\n"
 # Get the directory where the script is located
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
+# Navigate to the  directory for better context.
+cd "$SCRIPT_DIR" || exit 1  
+
+
 # Activate the virtual environment
 echo "Activating virtual environment..."
 source "$SCRIPT_DIR/.venv/bin/activate"
@@ -33,7 +37,7 @@ scripts=("getData_freelance.de.py" "getData_freelancermap.de.py")
 # Iterate over the scripts and execute them
 for script in "${scripts[@]}"; do
   echo "Running $script..."
-  python "$script"
+  python "$SCRIPT_DIR/$script"
   if [ $? -eq 0 ]; then
     echo "$script completed successfully."
     SUCCESS_MESSAGE+="- $script: SUCCESS\n"

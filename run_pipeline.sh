@@ -10,8 +10,7 @@ SUCCESS_MESSAGE="Job Summary:\n"
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
 # Navigate to the  directory for better context.
-cd "$SCRIPT_DIR" || exit 1  
-
+cd "$SCRIPT_DIR" || exit 1
 
 # Activate the virtual environment
 echo "Activating virtual environment..."

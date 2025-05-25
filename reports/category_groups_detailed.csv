@@ -1,0 +1,432 @@
+group,category,num
+Consulting,Beratung,626
+Consulting,Prozessoptimierung,548
+Consulting,Berater und Spezialisten,365
+Consulting,Geschäftsprozesse,233
+Consulting,Logistikprozesse,188
+Consulting,Wirtschaftsprüfer / Buchhalter / Steuerberater,61
+Consulting,Strategie,52
+Consulting,Material- und Prozesstechnologen,10
+Data,SQL,309
+Data,Bildungswesen und Training,269
+Data,Data Analysis,205
+Data,Datenmanagement,188
+Data,Ausbildungsaktivitäten,175
+Data,Automobilindustrie,158
+Data,Datenmodell,154
+Data,Postgresql,149
+Data,Datenbanken,148
+Data,Business Intelligence,110
+Data,Logistik / Supply-Chain-Management,96
+Data,Datenbankspezialisten,88
+Data,Immobilienmakler,34
+Data,Kursleiter und Ausbilder,32
+Data,Training / Schulung / Coaching,29
+Data,Bibliothekare und Dokumentare,12
+Data,Saudi Arabien,12
+Data,Bildung,8
+Data,Blockchain,5
+Data,Kolumbien,4
+Data,Natural Language Processing,3
+Data,Trainer und Coaches,3
+Data,Mitarbeiter Bildungswesen/Bildungsunterstützung,2
+Data,Serbien,2
+Data,Ukraine,2
+Data,Azerbaijan,1
+Data,Reinigungskräfte für Gebäude und Räumlichkeiten,1
+Data,Vereinigte Arabische Emirate,1
+Design,Linux,306
+Design,Grafikdesign und Kreativdienste,202
+Design,Bauingenieurwesen,156
+Design,"Kunst, Kultur und Medien",112
+Design,Technisches Zeichnen / CAD / CAE,67
+Design,User Interface / User Experience,16
+Design,Design,13
+Design,Illustratoren und Designer,7
+Design,Luxemburg,4
+Design,Medien,4
+Design,Audio/Video Herausgeber/Lektoren,1
+Development,Web- und Softwareentwicklung,3342
+Development,SAP Applications,1384
+Development,Softwareentwicklung,775
+Development,Cloud Computing,617
+Development,Python,446
+Development,Microsoft Azure,436
+Development,Softwareentwicklung / -programmierung,405
+Development,Java,379
+Development,Kubernetes,352
+Development,DevOps,337
+Development,Amazon Web Services,283
+Development,Backend,253
+Development,Docker,238
+Development,Javascript,231
+Development,Web,197
+Development,AngularJS,167
+Development,Integration (Software),167
+Development,Software Systems,164
+Development,Software Architecture,163
+Development,Systementwickler und -analytiker,148
+Development,Software Architektur / Analyse,88
+Development,Web Professionals,40
+Development,Grafik- / Animationssoftware,21
+Development,Hardware-Entwicklung / Engineering,15
+Development,Softwarepaketierung / Verteilung,5
+Development,Forschung / Entwicklung,3
+Development,Mechaniker für mobile Werkzeuge,1
+Infrastructure,Infrastruktur,460
+Infrastructure,Administration und Kundenbetreuung,322
+Infrastructure,Informationssicherheit,284
+Infrastructure,Gesundheit und Sicherheit am Arbeitsplatz,179
+Infrastructure,System Architektur / Analyse,166
+Infrastructure,ERP / CRM Systeme,150
+Infrastructure,IT Sicherheit,136
+Infrastructure,System- und Anwendungsadministratoren,105
+Infrastructure,Systemadministration,98
+Infrastructure,Telekommunikation / Netzwerke,89
+Infrastructure,Leiter Administration und Kundenservice,88
+Infrastructure,Sicherheitstechnik,72
+Infrastructure,Serveradministration,55
+Infrastructure,Netzwerkspezialisten,39
+Infrastructure,Detektiven und Sicherheitsexperten,3
+Infrastructure,Technische Zeichner/Systemplaner und Konstrukteure Elektro,1
+Management,Management und Beratungsdienste,4148
+Management,Projektmanagement,1047
+Management,Nur Endkundenprojekte,583
+Management,Stakeholder Management,568
+Management,Scrum,414
+Management,Agile Methodologie,372
+Management,Projektplanung,249
+Management,Projektleitung / -management / PMO,232
+Management,It Service Management,225
+Management,Change Management,218
+Management,Bauleitung,216
+Management,Kundenbeziehungsmanagement,208
+Management,Technischer Support,206
+Management,Risikomanagement,185
+Management,Management,180
+Management,Kanban,158
+Management,Scaled Agile Framework,151
+Management,Vertragsmanagement,150
+Management,"Manager Kommunikation, Marketing und Öffentlichkeitsarbeit",139
+Management,Qualitätsmanagement / Testing,134
+Management,Projektleitung / -management,113
+Management,Polen,102
+Management,Manager Versicherungen und Finanzen,86
+Management,Mecklenburg-Vorpommern,85
+Management,Managementanalytiker und -berater,74
+Management,Qualitätsmanagement,74
+Management,Transport und Verkehr,69
+Management,"Management, Verwaltung und Politik",51
+Management,Mitarbeiter Support,49
+Management,Leiter Verkehr und Transport,31
+Management,Projektleiter Bau,30
+Management,Account Manager Unternehmensdienstleistungen,27
+Management,Manager Bau und Rohstoffgewinnung,27
+Management,"Freizeit, Sport und Tourismus",24
+Management,Subunternehmer und Projektleiter im Tief- und Wasserbau,24
+Management,Support / Techniker,18
+Management,Vertriebsleiter / Sales Manager,17
+Management,Manager und Führungskräfte Tourismus und Wellness,15
+Management,Portugal,14
+Management,Engineering Managers / Konstruktionsleiter,11
+Management,"Polizei, Feuerwehr und Sicherheit",9
+Management,Transport / Spedition,8
+Management,"Leiter Polizei, Feuerwehr und Sicherheit",6
+Management,Manager Betriebsverwaltung und -politik,5
+Management,Import / Export,3
+Management,Apotheker und Pharmazeuten,2
+Management,Arbeitsmanager,1
+Management,"Kranführer, interner Warentransporteur",1
+Management,Lieferantenmanagement,1
+Management,Manager Reinigung und Wartung,1
+Management,Pflegemanager,1
+Marketing,Digitales Marketing,384
+Marketing,Kaufmännische Angestellte und Telemarketing Mitarbeiter,68
+Marketing,Marketing,38
+Marketing,Mitarbeiter Marketing und Werbung,15
+Other,Deutschland,7604
+Other,Freiberuflich,6310
+Other,Vor Ort,2964
+Other,IT,2443
+Other,Remote,2376
+Other,Hybrid,2263
+Other,IT-Dienstleistungen,2211
+Other,Bayern,1442
+Other,Nordrhein-Westfalen,1390
+Other,Schreiben von Dokumentation,1205
+Other,Ingenieurwesen,1176
+Other,Forschung und Analyse,1104
+Other,Hessen,1022
+Other,Arbeitnehmerüberlassung,888
+Other,Baden-Württemberg,871
+Other,Ablaufplanung,831
+Other,Schweiz,746
+Other,Verwaltungstätigkeiten,711
+Other,Verwaltung,662
+Other,Berlin,646
+Other,Innovation,577
+Other,Jira,521
+Other,Anlagen- und Maschinenbau,499
+Other,Hamburg,467
+Other,Energiewirtschaft,418
+Other,Festanstellung,406
+Other,Bauwesen,384
+Other,Niedersachsen,323
+Other,Österreich,321
+Other,APIs,310
+Other,Elektrotechnik,298
+Other,Fehleranalyse,296
+Other,Inbetriebnahme,293
+Other,Hochschulen und Behörden und Verbände,289
+Other,Medizin und Pharma,286
+Other,"Recht, Personalwirtschaft und Sozialwesen",286
+Other,Buchhaltung,282
+Other,Workflows,275
+Other,Git,266
+Other,Einkauf und Lagerhaltung,258
+Other,Audits,251
+Other,Bauwesen und Bergbau,241
+Other,Buchhaltungskontrolle,241
+Other,Betriebsingenieure und Experten,238
+Other,Demonstrations-Fähigkeiten,234
+Other,Fehlerbehandlung,232
+Other,IT R&D Professionals,223
+Other,Baugewerbe,215
+Other,Rekrutierung,214
+Other,Rheinland-Pfalz,211
+Other,Front End,209
+Other,ITIL,204
+Other,Maschinenbau,201
+Other,Wissenschaft,200
+Other,Beschaffung,195
+Other,Künstliche Intelligenz,192
+Other,Verhandlung,191
+Other,Nachhaltigkeit,189
+Other,Terraform,187
+Other,Rechnerarchitektur,180
+Other,Ansible,174
+Other,Techniker Installation und Wartung elektrischer Geräte,174
+Other,Rechnungswesen,173
+Other,Technisches Geschick,171
+Other,Gitlab,169
+Other,Juristen,169
+Other,Handel,162
+Other,Anforderungsanalyse,161
+Other,Multidisziplinären Ansatz,158
+Other,Personal- und Arbeitsmarktexperten,157
+Other,Steuerung,157
+Other,Digitalisierung,154
+Other,Wirtschaftsinformatik,148
+Other,Großbritannien,147
+Other,Planer / Koordinatoren,147
+Other,Technische Dokumentation,146
+Other,Sachsen-Anhalt,142
+Other,Sachsen,131
+Other,IT-Koordinatoren,129
+Other,Schleswig-Holstein,127
+Other,Bremen,123
+Other,USA,122
+Other,Thüringen,120
+Other,"Ingenieure, Konstrukteure und Techniker Elektronik",100
+Other,Kalkulatoren und Planer technischer Arbeiten,99
+Other,Virtualisierung,99
+Other,Subunternehmer Bauwesen,90
+Other,Verkauf und Handel,88
+Other,Niederlande,83
+Other,Bohrarbeitenaufseher / Bohrarbeitenprüfer,82
+Other,Produktion,82
+Other,Belgien,78
+Other,Maschinen- / Anlagenbau,75
+Other,Brandenburg,72
+Other,Leitende Angestelle IT,72
+Other,Mess- / Regelungstechnik,69
+Other,Frankreich,68
+Other,Spanien,68
+Other,Mitarbeiter Verwaltung,66
+Other,Leiter Einkauf und Lagerverwaltung,59
+Other,Käufer / Beschaffer,58
+Other,Fahrzeugbau / -technik,49
+Other,"Installation, Reparatur und Wartung",46
+Other,Produktionstechnik,46
+Other,Behördenleiter,45
+Other,"Ingenieure, Konstrukteure und Techniker im Maschinenbau",45
+Other,Versorgungstechnik,45
+Other,Handwerk,43
+Other,Schreibkräfte,41
+Other,Vertrieb,41
+Other,Installateure und Klempner,40
+Other,Saarland,40
+Other,Architektur,39
+Other,Installation / Montage / Wartung,39
+Other,Medizinische Assistenten,38
+Other,Reinigung und Wartung,38
+Other,Natur- und Umweltwissenschaften,37
+Other,Straßenbauer,35
+Other,Rechtswesen,34
+Other,Funk- / Nachrichtentechnik,33
+Other,Medizinische Wissenschaft,33
+Other,Umwelttechnik,33
+Other,Italien,31
+Other,Verfahrenstechnik,28
+Other,"Ingenieure, Konstrukteure und Techniker Chemie",27
+Other,Irland,26
+Other,"Ingenieure, Konstrukteure und Techniker im Tief- und Wasserbau",25
+Other,Lagermitarbeiter und Regalauffüller,24
+Other,Schriftsteller und Dichter,24
+Other,Mechatronik,23
+Other,Inspektoren und Kontrolleure,22
+Other,Konstruktionstechnik,22
+Other,Zugführer und -mechaniker,22
+Other,Mitarbeiter Information und Öffentlichkeitsarbeit,21
+Other,Personalwesen,21
+Other,Schweden,21
+Other,"Ingenieure, Konstrukteure und Techniker im Bauwesen",20
+Other,Maschinenmechaniker,19
+Other,Rumänien,19
+Other,Ungarn,19
+Other,Robotik / Robotertechnik,17
+Other,Dienstleistung,16
+Other,Fertigungstechnik,16
+Other,Dänemark,15
+Other,Indien,14
+Other,"Inspektoren/Prüfer Installation, Reparatur und Wartung",14
+Other,Kurier und Zusteller,13
+Other,Schweißer und Löter,13
+Other,"Konstrukteure, Bauherren und Installateure",12
+Other,Lehrer an Technischer Berufsschule,12
+Other,Maschinelles Lernen,12
+Other,Tschechische Republik,12
+Other,Zeitplanersteller und Diensteinteiler,12
+Other,Übersetzer und Dolmetscher,12
+Other,Generaldirektoren,11
+Other,Sonstige Berufe,11
+Other,Bulgarien,10
+Other,Kanada,10
+Other,Spezialisierte Krankenpfleger,10
+Other,Norwegen,9
+Other,Sekretärinnen,9
+Other,Forscher und Analytiker,8
+Other,Arbeitsschutzexperten und -inspektoren,7
+Other,Argentinien,7
+Other,Griechenland,7
+Other,Journalisten und Redakteure,7
+Other,Sprache / Übersetzung,7
+Other,Flugbegleiter,6
+Other,Krankenpfleger,6
+Other,"Mechaniker Flugzeug, Bahn und Schiffe",6
+Other,Verkäufer,6
+Other,Vermessungstechniker und Kartografen,6
+Other,Zeichner und Konstrukteure im Maschinenbau,6
+Other,Ökonomen / Wirtschaftsexperten,6
+Other,"Gesetzgeber, Volksvertreter",5
+Other,Laborant,5
+Other,Versicherungen,5
+Other,Albanien,4
+Other,Medizinische Spezialisten und Chirurgen,4
+Other,Mitarbeiter im Textilbereich,4
+Other,Prüftechnik,4
+Other,Sozial-gesellschaftliche Arbeiter,4
+Other,Zeichner und Konstrukteure im Bauwesen,4
+Other,Behördenmitarbeiter,3
+Other,China,3
+Other,Kapitäne und Steuerleute,3
+Other,Kunst,3
+Other,Lagerleiter,3
+Other,Liechtenstein,3
+Other,Malaysia,3
+Other,Moderatoren,3
+Other,Piloten,3
+Other,Reinigungskräfte Fahrzeuge und Geräte,3
+Other,Slowakei,3
+Other,Telefonisten und Ansager,3
+Other,Türkei,3
+Other,Usbekistan,3
+Other,Versicherungsexperten,3
+Other,Arbeitskräfte Beladung und Bestellungsaufnahme,2
+Other,Gesundheitswesen,2
+Other,Katar,2
+Other,Kroatien,2
+Other,Landwirtschafts- und Viehzuchtexperten,2
+Other,"Leiter Installation, Reparatur und Wartung",2
+Other,"Mechaniker für Sanitär-, Heizungs- und Klimatechnik",2
+Other,Messgeräte- und Ventilmechaniker,2
+Other,Moldawien,2
+Other,Persönliche Dienstleistungen,2
+Other,Rezeptionisten,2
+Other,Serviceleiter und Koordinatoren,2
+Other,Slowenien,2
+Other,Venezuela,2
+Other,Vertreter Artikel und Produkte,2
+Other,Zypern,2
+Other,Angola,1
+Other,"Baumaschinenführer Hoch-, Tief- und Wasserbau",1
+Other,Belarus,1
+Other,Berufskraftfahrer,1
+Other,Energietechnik,1
+Other,Estland,1
+Other,Hongkong,1
+Other,Hotellerie und Gastronomie,1
+Other,Händler,1
+Other,Indonesien,1
+Other,Israel,1
+Other,Japan,1
+Other,Kosmetiker,1
+Other,Luft- / Raumfahrttechnik,1
+Other,Malta,1
+Other,Markt- und Straßenverkäufer,1
+Other,Mechaniker Präzisions- und Musikinstrumente,1
+Other,Oman,1
+Other,Pakistan,1
+Other,Personal- und Lohnverwalter,1
+Other,Shopify,1
+Other,Singapur,1
+Other,Soziales,1
+Other,Stylisten,1
+Other,Südafrika,1
+Other,Techniker und medizinische Gerätehersteller,1
+Other,Tunesien,1
+Other,Ärzte,1
+Other,Weniger,0
+SAP,Informations- und Kommunikationstechnologie,1842
+SAP,Sap Hana,799
+SAP,Finanz- und Rechnungswesen,631
+SAP,Versicherungen und Finanzen,420
+SAP,Continuous Integration,407
+SAP,Confluence,373
+SAP,SAP,367
+SAP,Finanzen,345
+SAP,Compliance,308
+SAP,"Kommunikation, Marketing und Öffentlichkeitsarbeit",263
+SAP,Enterprise Resource Planning,257
+SAP,Schreib- und Übersetzungsdienste,256
+SAP,ABAP,251
+SAP,Sap Erp,251
+SAP,Weitere IT-Qualifikationen,180
+SAP,Firewalls,160
+SAP,Programmierer,155
+SAP,Telekommunikation,140
+SAP,Finanzwesen,71
+SAP,Mitarbeiter Finanzen und Verwaltung,62
+SAP,Mitarbeiter Versicherungen und Finanzen,49
+SAP,Handel / E-Commerce,35
+SAP,Kommunikation,35
+SAP,Mitarbeiter Bankfiliale,33
+SAP,Finisher Bau,30
+SAP,"Landwirtschaft, Viehwirtschaft und Fischerei",29
+SAP,Finanzexperten,23
+SAP,Mechaniker Büro- und Kommunikationsgeräte,9
+SAP,Berater Versicherungen und Finanzen,8
+SAP,Finnland,6
+SAP,Aufseher Landwirtschaft und Fischerei,5
+SAP,Mexico,5
+SAP,Arbeits- und Einkommensspezialisten öffentlicher Sektor,3
+SAP,"Universitätsdozenten Rechts-, Wirtschafts- und Sozialwissenschaften",3
+SAP,Filialleiter Verkauf,2
+SAP,Mitarbeiter öffentlicher Reinigungsdienst,2
+SAP,Philippinen,1
+SAP,Universitätsdozenten Mathematik und Naturwissenschaften,1
+Testing,Automatisierung,659
+Testing,Testen,406
+Testing,Test Automation,201
+Testing,Automatisierungstechnik,57
+Testing,IT Testers,4

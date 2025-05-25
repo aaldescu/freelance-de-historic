@@ -1,55 +1,22 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
-import sqlite3
 import pandas as pd
 import os
 from playwright.sync_api import sync_playwright
+from db_utils import save_to_mysql
 
 # Get current date
 current_time = datetime.now().strftime("%Y-%m-%d")
 print("Current Time =", current_time)
 
 def save_to_db(data):
-    with sqlite3.connect('freelance_projects.db') as conn:
-        cursor = conn.cursor()
-
-        # Ensure table exists
-        cursor.execute("""
-            CREATE TABLE IF NOT EXISTS projects (
-                date TIMESTAMP,
-                category TEXT,
-                num INTEGER,
-                href TEXT,
-                UNIQUE(date, category)
-            );
-        """)
-
-        # Ensure composite index exists
-        cursor.execute("""
-            CREATE INDEX IF NOT EXISTS idx_projects_date_category
-            ON projects(date, category);
-        """)
-
-        # Convert data to DataFrame and format the date
-        df = pd.DataFrame(data, columns=['date', 'category', 'num'])
-        df['date'] = pd.to_datetime(df['date']).dt.strftime("%Y-%m-%d")  # Standardize date format
-        df['href'] = ''  # Ensure href column exists
-
-        # Insert data while preventing duplicates (ON CONFLICT IGNORE)
-        insert_query = """
-            INSERT OR IGNORE INTO projects (date, category, num)
-            VALUES (?, ?, ?);
-        """
-        cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
-
-        # Count records added today
-        cursor.execute("SELECT COUNT(*) FROM projects WHERE date = ?", (current_time,))
-        count = cursor.fetchone()[0]
-
-        print(f"Added {len(df)} new records (ignoring duplicates) to projects. Total records for today: {count}")
-
-        conn.commit()
+    # Convert data to DataFrame
+    df = pd.DataFrame(data, columns=['date', 'category', 'num'])
+    df['href'] = ''  # Ensure href column exists
+    
+    # Use the shared MySQL utility function
+    save_to_mysql(df, 'projects')
 
 #GET PROJEKTE DATA
 start_url = "https://www.freelancermap.de/projektboerse.html"
@@ -105,7 +72,7 @@ for el in elements:
 
 print(f"Found {len(elements)} categories")
 
-# Save data to database
-print("\nSaving data to database...")
+# Save data to MySQL database
+print("\nSaving data to MySQL database...")
 save_to_db(data)
-print("Data has been saved to database")
+print("Data has been saved to MySQL database")

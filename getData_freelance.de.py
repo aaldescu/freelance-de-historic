@@ -1,8 +1,8 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime
 import time
-import sqlite3
 import pandas as pd
+from db_utils import save_to_mysql
 
 def extract_data(page, data_type='jobs'):
     data = []
@@ -62,45 +62,8 @@ def get_subcategory_data(page, url, data_type='jobs'):
     return extract_data(page, data_type)
 
 def save_to_db(data, table_name):
-    with sqlite3.connect('freelance_projects.db') as conn:
-        cursor = conn.cursor()
-
-        # Ensure the table exists with the updated schema
-        cursor.execute(f"""
-            CREATE TABLE IF NOT EXISTS {table_name} (
-                date TIMESTAMP,
-                category TEXT,
-                num INTEGER,
-                href TEXT,
-                UNIQUE(date, category)
-            );
-        """)
-
-        # Ensure the composite index exists
-        cursor.execute(f"""
-            CREATE INDEX IF NOT EXISTS idx_{table_name}_date_category
-            ON {table_name}(date, category);
-        """)
-
-        # Convert data to DataFrame and format the date
-        df = pd.DataFrame(data)
-        df['date'] = pd.to_datetime(df['date']).dt.strftime("%Y-%m-%d")  # Standardize date format
-
-        # Insert data while preventing duplicates (ON CONFLICT IGNORE)
-        insert_query = f"""
-            INSERT OR IGNORE INTO {table_name} (date, category, num)
-            VALUES (?, ?, ?);
-        """
-        cursor.executemany(insert_query, df[['date', 'category', 'num']].values.tolist())
-
-        # Count records added today
-        today_str = df['date'].iloc[0]
-        cursor.execute(f"SELECT COUNT(*) FROM {table_name} WHERE date = ?", (today_str,))
-        count = cursor.fetchone()[0]
-
-        print(f"Added {len(df)} new records (ignoring duplicates) to {table_name}. Total records for today: {count}")
-
-        conn.commit()
+    # Use the shared MySQL utility function
+    save_to_mysql(data, table_name)
 
 
 def main():
@@ -170,12 +133,12 @@ def main():
                 all_freelancers_data.extend(subcategory_data)
         
         
-        # Save data to database
-        print("\nSaving data to database...")
+        # Save data to MySQL database
+        print("\nSaving data to MySQL database...")
         save_to_db(all_jobs_data, 'projects')
         save_to_db(all_freelancers_data, 'freelances')
         
-        print("Data has been saved to database")
+        print("Data has been saved to MySQL database")
         browser.close()
 
 if __name__ == "__main__":

@@ -22,13 +22,6 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-# Update current folder with a pull first
-echo "Pulling latest changes..."
-git pull origin main
-if [ $? -ne 0 ]; then
-  HAS_ERROR=1
-  ERROR_MESSAGE+="Failed to pull from git repository.\n"
-fi
 
 # Define the scripts to run
 scripts=("getData_freelance.de.py" "getData_freelancermap.de.py")

@@ -1,0 +1,716 @@
+Category Groups Analysis
+======================
+
+Total distinct categories: 679
+
+Other: 309 categories
+  - APIs
+  - Ablaufplanung
+  - Active Directory
+  - Afghanistan
+  - Albanien
+  - Algeria
+  - Algerien
+  - Alle anzeigen
+  - Allgemeinchirurgie
+  - Andere
+  - Anforderungsanalyse
+  - Angola
+  - Ansible
+  - Anwälte und unterstützendes Personal
+  - Apache Kafka
+  - Arbeitnehmerüberlassung
+  - Arbeitskräfte Beladung und Bestellungsaufnahme
+  - Arbeitsschutzexperten und -inspektoren
+  - Architektur
+  - Argentinien
+  - Armenien
+  - Audits
+  - Australien
+  - Bahamas
+  - Bangladesch
+  - Behördendirektoren
+  - Behördenleiter
+  - Behördenmitarbeiter
+  - Belarus
+  - Belgien
+  - Berechnungen
+  - Berufskraftfahrer
+  - Berufsschullehrer
+  - Beschaffung
+  - Bestattungspersonal
+  - Betreuer
+  - Bohrarbeitenaufseher / Bohrarbeitenprüfer
+  - Botswana
+  - Brasilien
+  - Budgetierung
+  - Bulgarien
+  - Bundeswehr
+  - Bundeswehr (sonstige)
+  - CSS
+  - Casino-Personal und Buchmacher
+  - Chile
+  - China
+  - Debugging
+  - Dekane und Koordinatoren
+  - Demonstrations-Fähigkeiten
+  - Dienstleistung
+  - Digitalisierung
+  - Dominikanische Republik
+  - Dänemark
+  - Einkauf
+  - Einkauf und Lagerhaltung
+  - Einkauf und Lagerhaltung (sonstige)
+  - Einkauf, Handel, Logistik
+  - El Salvador
+  - Energietechnik
+  - Equador
+  - Erziehung
+  - Estland
+  - Fachhochschullehrer
+  - Fehleranalyse
+  - Fehlerbehandlung
+  - Fertigungstechnik
+  - Festanstellung
+  - Feuerwehrleute
+  - Flugbegleiter
+  - Fluglotsen und Hafenmeister
+  - Forscher und Analytiker
+  - Forschung
+  - Forschung und Analyse
+  - Fotografen und Kameramänner/-frauen
+  - Frankreich
+  - Friseure
+  - Front End
+  - Funk- / Nachrichtentechnik
+  - Funk- / Nachrichtentechnik
+  - Geistliche und Ordensleute
+  - Generaldirektoren
+  - Gesetzgeber, Volksvertreter
+  - Git
+  - Gitlab
+  - Griechenland
+  - Großbritannien
+  - Grundschullehrer
+  - Gärtner
+  - Handel
+  - Handwerk
+  - Hausmeister und Verwalter
+  - Heilpraktiker
+  - Helfer
+  - Hilfspersonal Justiz
+  - Hochschulen und Behörden und Verbände
+  - Hochschullehrer Mathematik und Naturwissenschaften
+  - Hochschullehrer Sprach- und Kulturbereich
+  - Honduras
+  - Hongkong
+  - Hotellerie und Gastronomie
+  - Händler
+  - IT
+  - IT R&D Professionals
+  - IT-Dienstleistungen
+  - IT-Koordinatoren
+  - ITIL
+  - Inbetriebnahme
+  - Indien
+  - Indonesien
+  - Innovation
+  - Inspektoren Luft-, Wasser- und Straßenverkehr
+  - Inspektoren und Kontrolleure
+  - Inspektoren/Prüfer Installation, Reparatur und Wartung
+  - Installateure und Klempner
+  - Installation / Montage / Wartung
+  - Installation / Montage / Wartung
+  - Installation, Reparatur und Wartung
+  - Installation, Reparatur und Wartung (sonstige)
+  - Irak
+  - Iran
+  - Irland
+  - Island
+  - Israel
+  - Italien
+  - Japan
+  - Jenkins
+  - Jira
+  - Jordanien
+  - Journalisten und Redakteure
+  - Juristen
+  - Kalenderverwaltung
+  - Kalkulatoren und Planer technischer Arbeiten
+  - Kanada
+  - Katar
+  - Kazakhstan
+  - Kenya
+  - Kfz-Mechaniker
+  - Kirgisistan
+  - Konfliktlösung
+  - Kongo
+  - Konstruktionstechnik
+  - Kosmetiker
+  - Kosovo
+  - Kroatien
+  - Kunst
+  - Kurier und Zusteller
+  - Käufer / Beschaffer
+  - Künstliche Intelligenz
+  - Laborant
+  - Lagerleiter
+  - Lagermitarbeiter und Regalauffüller
+  - Lagerverwaltung
+  - Landwirte und Züchter
+  - Lehrer Sekundarstufe I
+  - Lehrer an Technischer Berufsschule
+  - Leistungssteigerung
+  - Leitende Angestelle IT
+  - Leiter Einkauf und Lagerverwaltung
+  - Leiter Installation, Reparatur und Wartung
+  - Leiter betriebliche Personenbetreuung
+  - Lettland
+  - Liechtenstein
+  - Litauen
+  - Luft- / Raumfahrttechnik
+  - Luft- / Raumfahrttechnik
+  - Malaysia
+  - Malta
+  - Markt- und Straßenverkäufer
+  - Marokko
+  - Maschinelles Lernen
+  - Maschinenmechaniker
+  - Maurer und Steinhauer
+  - Mauritius
+  - Mechaniker Flugzeug, Bahn und Schiffe
+  - Mechaniker Präzisions- und Musikinstrumente
+  - Mechaniker für Sanitär-, Heizungs- und Klimatechnik
+  - Mechaniker und Monteure (sonstige)
+  - Mechatronik
+  - Mess- / Regelungstechnik
+  - Messgeräte- und Ventilmechaniker
+  - Microservices
+  - Mitarbeiter Be- und Entladen
+  - Mitarbeiter Information und Öffentlichkeitsarbeit
+  - Mitarbeiter Kinderbetreuung
+  - Mitarbeiter Verkaufsförderung
+  - Mitarbeiter Verwaltung
+  - Mitarbeiter im Bereich Freizeit und Erholung
+  - Mitarbeiter im Textilbereich
+  - Moderatoren
+  - Moldawien
+  - Multidisziplinären Ansatz
+  - Museumsmitarbeiter
+  - Musiker, Sänger und Tänzer
+  - Nachhaltigkeit
+  - Natur- und Umweltwissenschaften
+  - Neuseeland
+  - Nicaragua
+  - Niederlande
+  - Nigeria
+  - Norwegen
+  - Notare/Notarinnen und unterstützendes Personal
+  - Oman
+  - Pakistan
+  - Personal- und Arbeitsmarktexperten
+  - Personal- und Lohnverwalter
+  - Personalwesen
+  - Persönliche Dienstleistungen
+  - Persönliche Dienstleistungen (sonstige)
+  - Peru
+  - Piloten
+  - Planer / Koordinatoren
+  - Produktanforderungen
+  - Produktion
+  - Produktionstechnik
+  - Präsentationen
+  - Prüftechnik
+  - Rechnerarchitektur
+  - Rechnungswesen
+  - Redaktion
+  - Regierungsinspektoren
+  - Regisseure und Produzenten
+  - Reinigung und Wartung
+  - Reinigung und Wartung (sonstige)
+  - Reinigungskräfte Fahrzeuge und Geräte
+  - Reiseleiter / Reiseführer
+  - Rekrutierung
+  - Restauratoren
+  - Restful Apis
+  - Rezeptionisten
+  - Richter
+  - Risikoanalyse
+  - Robotik / Robotertechnik
+  - Rumänien
+  - Russische Föderation
+  - Schauspieler
+  - Schreiben von Dokumentation
+  - Schreibkräfte
+  - Schriftsteller und Dichter
+  - Schweden
+  - Schweiz
+  - Schweißer und Löter
+  - Sekretärinnen
+  - Senegal
+  - Serviceleiter und Koordinatoren
+  - Seychellen
+  - Shopify
+  - Singapur
+  - Skalierbarkeit
+  - Slowakei
+  - Slowenien
+  - Sonstige Berufe
+  - Sozial-gesellschaftliche Arbeiter
+  - Soziales
+  - Spanien
+  - Spanien (Kanarische Inseln)
+  - Sprache / Übersetzung
+  - Sprachen, Dienstleistung, Soziales
+  - Springboot
+  - Sri Lanka
+  - Stylisten
+  - Swaziland
+  - Südafrika
+  - Südkorea
+  - Tansania
+  - Techniker Installation und Wartung elektrischer Geräte
+  - Technische Dokumentation
+  - Technisches Geschick
+  - Telefonisten und Ansager
+  - Terraform
+  - Textiltechnik
+  - Tschechische Republik
+  - Tunesien
+  - Türkei
+  - USA
+  - Uganda
+  - Umwelttechnik
+  - Ungarn
+  - Unterhalter und Animateure
+  - Unternehmensverwaltung
+  - Usbekistan
+  - User Stories
+  - Venezuela
+  - Verfahrenstechnik
+  - Verhandlung
+  - Verkauf und Handel
+  - Verkauf und Handel (sonstige)
+  - Verkehr und Logistik
+  - Verkäufer
+  - Verleger / Herausgeber
+  - Vermessungstechniker und Kartografen
+  - Versorgungstechnik
+  - Vertreter Artikel und Produkte
+  - Vertreter Öffentlichkeitsarbeit und Werbung
+  - Vertrieb
+  - Verwaltung
+  - Verwaltungstätigkeiten
+  - Vietnam
+  - Virtualisierung
+  - Weniger
+  - Wissenschaft
+  - Wissenschaftler
+  - Workflows
+  - Zeitplanersteller und Diensteinteiler
+  - Zugführer und -mechaniker
+  - Zypern
+  - Ägypten
+  - Österreich
+  - Übersetzer und Dolmetscher
+
+Management: 75 categories
+  - Account Manager Unternehmensdienstleistungen
+  - Agile Methodologie
+  - Apotheker und Pharmazeuten
+  - Arbeitsmanager
+  - Bauleitung
+  - Beschaffungsmanagement
+  - Change Management
+  - Dirigenten, Komponisten und Choreografen
+  - Freizeit, Sport und Tourismus
+  - Freizeit, Sport und Tourismus (sonstige)
+  - Führungskraft öffentliche Verwaltung
+  - Gemeindemanager
+  - Identitätsmanagement
+  - Import / Export
+  - Incident / Service Management / ITIL
+  - It Service Management
+  - Kanban
+  - Kranführer, interner Warentransporteur
+  - Kundenbeziehungsmanagement
+  - Leiter Polizei, Feuerwehr und Sicherheit
+  - Leiter Verkehr und Transport
+  - Lieferantenmanagement
+  - Management
+  - Management (Technik)
+  - Management und Beratungsdienste
+  - Management, Unternehmen, Strategie
+  - Management, Verwaltung und Politik
+  - Management, Verwaltung und Politik (Sonstige)
+  - Managementanalytiker und -berater
+  - Manager Bau und Rohstoffgewinnung
+  - Manager Betriebsverwaltung und -politik
+  - Manager Kommunikation, Marketing und Öffentlichkeitsarbeit
+  - Manager Kunst, Kultur und Medien
+  - Manager Reinigung und Wartung
+  - Manager Versicherungen und Finanzen
+  - Manager und Führungskräfte Tourismus und Wellness
+  - Manager und Handelsvertreter
+  - Mecklenburg-Vorpommern
+  - Microsoft Sharepoint
+  - Mitarbeiter Support
+  - Nur Endkundenprojekte
+  - Pflegemanager
+  - Polen
+  - Polizei, Feuerwehr und Sicherheit
+  - Polizei, Feuerwehr und Sicherheit (sonstige)
+  - Polizeibeamte
+  - Polizeiermittler
+  - Portugal
+  - Profisportler
+  - Projektleiter Bau
+  - Projektleitung / -management
+  - Projektleitung / -management (IT)
+  - Projektleitung / -management / PMO
+  - Projektmanagement
+  - Projektplanung
+  - Qualitätsmanagement
+  - Qualitätsmanagement / Testing
+  - Qualitätsmanagement / Testing (IT)
+  - Qualitätsmanagement / Testing (Technik)
+  - Requirements Management
+  - Risikomanagement
+  - Scaled Agile Framework
+  - Scrum
+  - Stakeholder Management
+  - Subunternehmer und Projektleiter im Tief- und Wasserbau
+  - Support / Techniker
+  - Technischer Support
+  - Test Management
+  - Tiefbauprojekte
+  - Transport / Spedition
+  - Transport und Verkehr
+  - Transport und Verkehr (sonstige)
+  - Vertragsmanagement
+  - Vertriebsleiter / Sales Manager
+  - Windows Powershell
+
+SAP: 67 categories
+  - ABAP
+  - Arbeits- und Einkommensspezialisten öffentlicher Sektor
+  - Aufseher Landwirtschaft und Fischerei
+  - Aufzug-, Rolltreppen- und Türenmonteure
+  - Benefizveranstalter / Spendenaktionäre
+  - Berater Versicherungen und Finanzen
+  - Berufssoldat, Gefreite und Unteroffiziere Bundeswehr
+  - Cisco
+  - Code-Review
+  - Compliance
+  - Confluence
+  - Continuous Integration
+  - Costa Rica
+  - Enterprise Resource Planning
+  - Filialleiter Verkauf
+  - Film-, Theater-, TV- und Studiotechniker
+  - Finanz- und Rechnungswesen
+  - Finanzdirektoren
+  - Finanzen
+  - Finanzen, Versicherung, Recht
+  - Finanzexperten
+  - Finanzwesen
+  - Finisher Bau
+  - Finnland
+  - Firewalls
+  - Fischer und Fischzüchter
+  - Handel / E-Commerce
+  - Informations- und Kommunikationstechnologie
+  - Informations- und Kommunikationstechnologie (sonstige)
+  - Justizvollzugsdienstbeamte
+  - Kommunikation
+  - Kommunikation, Marketing und Öffentlichkeitsarbeit
+  - Kommunikation, Marketing und Öffentlichkeitsarbeit (sonstige)
+  - Landwirtschaft, Viehwirtschaft und Fischerei
+  - Marketing, Vertrieb, Kommunikation
+  - Mechaniker Büro- und Kommunikationsgeräte
+  - Mexico
+  - Mitarbeiter Bankfiliale
+  - Mitarbeiter Finanzen und Verwaltung
+  - Mitarbeiter Versicherungen und Finanzen
+  - Mitarbeiter öffentlicher Reinigungsdienst
+  - Oracle Financials
+  - Philippinen
+  - SAP
+  - SAP IS-U
+  - SAP R/3
+  - SAP Sales und Distribution
+  - Sachgüterproduktion
+  - Sap Erp
+  - Sap Fi
+  - Sap Fi/Co
+  - Sap Hana
+  - Sap MM
+  - Schreib- und Übersetzungsdienste
+  - Telekommunikation
+  - Universitätsdozenten
+  - Universitätsdozenten (sonstige)
+  - Universitätsdozenten Geisteswissenschaften
+  - Universitätsdozenten Ingenieurwesen/Ingenieurwissenschaft
+  - Universitätsdozenten Mathematik und Naturwissenschaften
+  - Universitätsdozenten Medizin
+  - Universitätsdozenten Rechts-, Wirtschafts- und Sozialwissenschaften
+  - Versicherungen und Finanzen
+  - Versicherungen und Finanzen (sonstige)
+  - Weitere IT-Qualifikationen
+  - Weitere organisatorische Qualifikationen
+  - Weitere technische Qualifikationen
+
+Data: 41 categories
+  - Ausbildungsaktivitäten
+  - Automobilindustrie
+  - Azerbaijan
+  - Bibliothekare und Dokumentare
+  - Bildung
+  - Bildungswesen und Training
+  - Bildungswesen und Training (sonstige)
+  - Blockchain
+  - Business Intelligence
+  - Data Analysis
+  - Data Centers
+  - Datenbanken
+  - Datenbankspezialisten
+  - Datenmanagement
+  - Datenmodell
+  - Direktoren Bildungsstätte
+  - Engineering Managers / Konstruktionsleiter
+  - Forschung, Wissenschaft, Bildung
+  - Haiti
+  - Immobilienmakler
+  - Kolumbien
+  - Kundenbindung
+  - Kursleiter und Ausbilder
+  - Kuwait
+  - Logistik / Supply-Chain-Management
+  - Microsoft Sql-Server
+  - Mitarbeiter Bildungswesen/Bildungsunterstützung
+  - Natural Language Processing (NLP)
+  - Postgresql
+  - Reinigungskräfte für Gebäude und Räumlichkeiten
+  - SQL
+  - Saudi Arabien
+  - Serbien
+  - Sportausbilder / Sportlehrer
+  - Taiwan
+  - Thailand
+  - Tiertrainer, -betreuer und -aufpasser
+  - Trainer und Coaches
+  - Training / Schulung / Coaching
+  - Ukraine
+  - Vereinigte Arabische Emirate
+
+Development: 38 categories
+  - Amazon Web Services
+  - AngularJS
+  - Backend
+  - C#
+  - C++
+  - Cloud Computing
+  - DevOps
+  - Devops
+  - Docker
+  - Forschung / Entwicklung
+  - Grafik- / Animationssoftware
+  - Hardware-Entwicklung / Engineering
+  - IT, Entwicklung
+  - Integration (Software)
+  - Java
+  - Javascript
+  - Kubernetes
+  - Mechaniker für mobile Werkzeuge
+  - Microsoft Azure
+  - Programmierer
+  - Python
+  - ReactJS
+  - SAP Applications
+  - Software Architecture
+  - Software Architektur / Analyse
+  - Software Systems
+  - Softwaredokumentation
+  - Softwareentwicklung
+  - Softwareentwicklung / -programmierung
+  - Softwarepaketierung / Verteilung
+  - Softwareverteilung
+  - Speicherprogrammierbare Steuerungen
+  - Systementwickler und -analytiker
+  - Typescript
+  - Web
+  - Web Applikationen
+  - Web Professionals
+  - Web- und Softwareentwicklung
+
+Engineering: 30 categories
+  - Anlagen- und Maschinenbau
+  - Baugewerbe
+  - Baumaschinenführer Hoch-, Tief- und Wasserbau
+  - Bauwesen
+  - Bauwesen und Bergbau
+  - Bauwesen und Bergbau (sonstige)
+  - Betonbauer und Dachdecker
+  - Betriebsingenieure und Experten
+  - Elektrotechnik
+  - Elektrotechnik / Elektronik
+  - Elektrotechnik / Elektronik
+  - Elektrotechnische Industrie
+  - Fahrzeugbau / -technik
+  - Ingenieure, Konstrukteure und Techniker Chemie
+  - Ingenieure, Konstrukteure und Techniker Elektronik
+  - Ingenieure, Konstrukteure und Techniker im Bauwesen
+  - Ingenieure, Konstrukteure und Techniker im Maschinenbau
+  - Ingenieure, Konstrukteure und Techniker im Tief- und Wasserbau
+  - Ingenieurwesen
+  - Ingenieurwesen (sonstige)
+  - Konstrukteure, Bauherren und Installateure
+  - Maschinen- / Anlagenbau
+  - Maschinen- / Anlagenbau
+  - Maschinenbau
+  - Straßenbauer
+  - Subunternehmer Bauwesen
+  - Technik, Ingenieurwesen
+  - Zeichner und Konstrukteure im Bauwesen
+  - Zeichner und Konstrukteure im Maschinenbau
+  - Zeichner und Konstrukteure im Tief- und Wasserbau
+
+Infrastructure: 22 categories
+  - Administration und Kundenbetreuung
+  - Administration und Kundenbetreuung (sonstige)
+  - Betriebssysteme
+  - Detektiven und Sicherheitsexperten
+  - ERP / CRM Systeme
+  - Gesundheit und Sicherheit am Arbeitsplatz
+  - IT Sicherheit
+  - Informationssicherheit
+  - Infrastruktur
+  - Leiter Administration und Kundenservice
+  - Netzwerkspezialisten
+  - Plattformen / Betriebssysteme
+  - Serveradministration
+  - Sicherheits- und Überwachungsmitarbeiter
+  - Sicherheitstechnik
+  - System Architektur / Analyse
+  - System- und Anwendungsadministratoren
+  - Systemadministration
+  - Technische Zeichner/Systemplaner und Konstrukteure Elektro
+  - Telekommunikation / Netzwerke
+  - Vmware
+  - Windows-Server
+
+Design: 18 categories
+  - Audio/Video Herausgeber/Lektoren
+  - Bauingenieurwesen
+  - Design
+  - Design, Kunst, Medien
+  - Grafikdesign und Kreativdienste
+  - Hochschullehrer Kunst und Medien
+  - Illustratoren und Designer
+  - Illustratoren und Designer (2D)
+  - Illustratoren und Designer (3D)
+  - Kunst, Kultur und Medien
+  - Kunst, Kultur und Medien (sonstige)
+  - Linux
+  - Luxemburg
+  - Medien
+  - Technisches Zeichnen / CAD / CAE
+  - Technisches Zeichnen / CAD / CAE
+  - User Experience (UX)
+  - User Interface / User Experience
+
+Healthcare: 16 categories
+  - Direktoren Pflege und Fürsorge
+  - Gesundheitserhaltung
+  - Gesundheitswesen
+  - Gesundheitswesen (sonstige)
+  - Hauptkrankenpfleger und Koordinatoren
+  - Hochschullehrer Gesundheits- und Sozialbereich
+  - Krankenpfleger
+  - Medizin und Pharma
+  - Medizinische Assistenten
+  - Medizinische Spezialisten und Chirurgen
+  - Medizinische Wissenschaft
+  - Reinigungskräfte Innenraumpflege
+  - Spezialisierte Krankenpfleger
+  - Techniker und medizinische Gerätehersteller
+  - Tierärzte
+  - Ärzte
+
+Location: 16 categories
+  - Baden-Württemberg
+  - Bayern
+  - Berlin
+  - Brandenburg
+  - Bremen
+  - Deutschland
+  - Hamburg
+  - Hessen
+  - Niedersachsen
+  - Nordrhein-Westfalen
+  - Rheinland-Pfalz
+  - Saarland
+  - Sachsen
+  - Sachsen-Anhalt
+  - Schleswig-Holstein
+  - Thüringen
+
+Finance: 15 categories
+  - Betriebswirtschaft
+  - Buchhaltung
+  - Buchhaltungskontrolle
+  - Chauffeure und Taxifahrer
+  - Energiewirtschaft
+  - Kapitäne und Steuerleute
+  - Landwirtschafts- und Viehzuchtexperten
+  - Landwirtschaftsmitarbeiter
+  - Recht, Personalwirtschaft und Sozialwesen
+  - Recht, Personalwirtschaft und Sozialwesen (sonstige)
+  - Steuerung
+  - Versicherungen
+  - Versicherungsexperten
+  - Wirtschaftsinformatik
+  - Ökonomen / Wirtschaftsexperten
+
+Consulting: 11 categories
+  - Berater und Spezialisten
+  - Beratung
+  - Ernährungsberater und Therapeut
+  - Geschäftsprozesse
+  - Logistikprozesse
+  - Material- und Prozesstechnologen
+  - Natural Language Processing
+  - Prozessoptimierung
+  - Psychologen und pädagogische Berater
+  - Strategie
+  - Wirtschaftsprüfer / Buchhalter / Steuerberater
+
+Marketing: 8 categories
+  - Digitales Marketing
+  - Kaufmännische Angestellte und Telemarketing Mitarbeiter
+  - Kundendienst
+  - Marketing
+  - Mitarbeiter Kundenservice
+  - Mitarbeiter Marketing und Werbung
+  - Mitarbeiter Reiseorganisation/Reisebüro
+  - Zahnärzte und Spezialisten für Zahnheilkunde
+
+Testing: 7 categories
+  - Automatisierung
+  - Automatisierungstechnik
+  - Automatisierungstechniker
+  - IT Testers
+  - Test Automation
+  - Testen
+  - Unit Testing
+
+Work Model: 4 categories
+  - Freiberuflich
+  - Hybrid
+  - Remote
+  - Vor Ort
+
+Legal: 2 categories
+  - Rechtswesen
+  - Vertragsverhandlung
+

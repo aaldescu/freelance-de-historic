@@ -1,0 +1,83 @@
+Daily Trends Analysis
+===================
+
+Analysis period: 2023-11-02 to 2025-05-24 (569 days)
+
+Growth Rates by Category Group:
+-------------------------------
+
+Location:
+  First 30 days average: 0.00
+  Last 30 days average: 13386.87
+  Growth rate: ∞
+
+Work Model:
+  First 30 days average: 0.00
+  Last 30 days average: 12685.30
+  Growth rate: ∞
+
+Finance:
+  First 30 days average: 15.13
+  Last 30 days average: 1529.57
+  Growth rate: 10007.27%
+
+Consulting:
+  First 30 days average: 132.23
+  Last 30 days average: 2010.17
+  Growth rate: 1420.17%
+
+Testing:
+  First 30 days average: 116.63
+  Last 30 days average: 1188.60
+  Growth rate: 919.09%
+
+Healthcare:
+  First 30 days average: 54.37
+  Last 30 days average: 453.07
+  Growth rate: 733.35%
+
+Marketing:
+  First 30 days average: 104.20
+  Last 30 days average: 504.63
+  Growth rate: 384.29%
+
+Management:
+  First 30 days average: 2669.40
+  Last 30 days average: 9697.83
+  Growth rate: 263.30%
+
+SAP:
+  First 30 days average: 2087.60
+  Last 30 days average: 7245.23
+  Growth rate: 247.06%
+
+Development:
+  First 30 days average: 3871.97
+  Last 30 days average: 9790.27
+  Growth rate: 152.85%
+
+Data:
+  First 30 days average: 831.90
+  Last 30 days average: 1992.57
+  Growth rate: 139.52%
+
+Engineering:
+  First 30 days average: 2099.23
+  Last 30 days average: 3712.17
+  Growth rate: 76.83%
+
+Design:
+  First 30 days average: 524.43
+  Last 30 days average: 856.63
+  Growth rate: 63.34%
+
+Infrastructure:
+  First 30 days average: 1634.00
+  Last 30 days average: 2166.27
+  Growth rate: 32.57%
+
+Legal:
+  First 30 days average: 105.80
+  Last 30 days average: 26.80
+  Growth rate: -74.67%
+

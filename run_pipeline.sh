@@ -18,7 +18,7 @@ source "$SCRIPT_DIR/.venv/bin/activate"
 if [ $? -ne 0 ]; then
   HAS_ERROR=1
   ERROR_MESSAGE+="Failed to activate virtual environment.\n"
-  echo -e "Subject:ERROR - Cannot activate Python venv\n\nFailed to activate the Python virtual environment." | msmtp andrei.aldescu@yahoo.com
+  curl -H "Title: ❌ ERROR - Cannot activate Python venv" -H "Priority: high" -H "Tags: error,pipeline,automation,job-scraper" -d "Failed to activate the Python virtual environment." ntfy.sh/FKsIl4udhZFOd0Aq
   exit 1
 fi
 
@@ -92,7 +92,11 @@ else
   BODY="The data collection process completed successfully:\n\n$SUCCESS_MESSAGE"
 fi
 
-# Send the email
-echo -e "Subject:$SUBJECT\n\n$BODY" | msmtp andrei.aldescu@yahoo.com
+# Send notification via ntfy
+if [ $HAS_ERROR -eq 1 ]; then
+  curl -H "Title: ❌ $SUBJECT" -H "Priority: high" -H "Tags: error,pipeline,automation,job-scraper" -d "$BODY" ntfy.sh/FKsIl4udhZFOd0Aq
+else
+  curl -H "Title: ✅ $SUBJECT" -H "Priority: low" -H "Tags: success,pipeline,automation,job-scraper" -d "$BODY" ntfy.sh/FKsIl4udhZFOd0Aq
+fi
 
 exit $HAS_ERROR

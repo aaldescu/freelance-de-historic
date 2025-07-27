@@ -1,0 +1,270 @@
+
+        <html>
+        <head>
+            <title>Category Analysis and Daily Trends</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+                h1, h2, h3 { color: #2c3e50; }
+                .report-section {
+                    border: 1px solid #ddd;
+                    border-radius: 5px;
+                    padding: 15px;
+                    margin-bottom: 20px;
+                    background-color: #f9f9f9;
+                }
+                .report-section h2 {
+                    margin-top: 0;
+                    border-bottom: 1px solid #eee;
+                    padding-bottom: 10px;
+                }
+                img { max-width: 100%; height: auto; margin: 10px 0; }
+                table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+                th, td { text-align: left; padding: 8px; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                .positive { color: green; }
+                .negative { color: red; }
+            </style>
+        </head>
+        <body>
+            <h1>Category Analysis and Daily Trends</h1>
+            <p>Report generated on 2025-05-25 22:31:03</p>
+            
+            <div class="report-section">
+                <h2>Category Groups Distribution</h2>
+                <p>Analysis of how categories are distributed across different groups.</p>
+                <img src="category_groups_distribution.png" alt="Category Groups Distribution">
+                <p>For a detailed list of categories in each group, see the <a href="category_groups_report.txt">Category Groups Report</a>.</p>
+            </div>
+            
+            <div class="report-section">
+                <h2>Daily Trends</h2>
+                <p>Analysis of daily trends for the top category groups.</p>
+                <img src="daily_trends_top_groups.png" alt="Daily Trends for Top Groups">
+                <img src="weekly_trends_top_groups.png" alt="Weekly Trends for Top Groups">
+                
+                <h3>Growth Rates by Category Group</h3>
+                <img src="growth_rates_by_group.png" alt="Growth Rates by Category Group">
+                
+                <h3>Top Growing Categories</h3>
+                <table>
+                    <tr>
+                        <th>Category Group</th>
+                        <th>First 30 Days Avg</th>
+                        <th>Last 30 Days Avg</th>
+                        <th>Growth Rate</th>
+                    </tr>
+        
+                    <tr>
+                        <td>Location</td>
+                        <td>0.00</td>
+                        <td>13386.87</td>
+                        <td class="positive">∞</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Work Model</td>
+                        <td>0.00</td>
+                        <td>12685.30</td>
+                        <td class="positive">∞</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Finance</td>
+                        <td>15.13</td>
+                        <td>1529.57</td>
+                        <td class="positive">10007.27%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Consulting</td>
+                        <td>132.23</td>
+                        <td>2010.17</td>
+                        <td class="positive">1420.17%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Testing</td>
+                        <td>116.63</td>
+                        <td>1188.60</td>
+                        <td class="positive">919.09%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Healthcare</td>
+                        <td>54.37</td>
+                        <td>453.07</td>
+                        <td class="positive">733.35%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Marketing</td>
+                        <td>104.20</td>
+                        <td>504.63</td>
+                        <td class="positive">384.29%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Management</td>
+                        <td>2669.40</td>
+                        <td>9697.83</td>
+                        <td class="positive">263.30%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>SAP</td>
+                        <td>2087.60</td>
+                        <td>7245.23</td>
+                        <td class="positive">247.06%</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Development</td>
+                        <td>3871.97</td>
+                        <td>9790.27</td>
+                        <td class="positive">152.85%</td>
+                    </tr>
+            
+                </table>
+                <p>For a detailed analysis of daily trends, see the <a href="daily_trends_report.txt">Daily Trends Report</a>.</p>
+            </div>
+            
+            <div class="report-section">
+                <h2>Category Correlations</h2>
+                <p>Analysis of correlations between different category groups.</p>
+                <img src="category_correlations.png" alt="Category Correlations">
+                
+                <h3>Top Correlated Category Pairs</h3>
+                <table>
+                    <tr>
+                        <th>Category Group 1</th>
+                        <th>Category Group 2</th>
+                        <th>Correlation</th>
+                    </tr>
+        
+                    <tr>
+                        <td>Location</td>
+                        <td>Work Model</td>
+                        <td class="positive">0.9998</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Other</td>
+                        <td>Testing</td>
+                        <td class="positive">0.9938</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Location</td>
+                        <td>Other</td>
+                        <td class="positive">0.9889</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Location</td>
+                        <td>Testing</td>
+                        <td class="positive">0.9886</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Other</td>
+                        <td>Work Model</td>
+                        <td class="positive">0.9880</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Testing</td>
+                        <td>Work Model</td>
+                        <td class="positive">0.9879</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Development</td>
+                        <td>Management</td>
+                        <td class="positive">0.9874</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Location</td>
+                        <td>Management</td>
+                        <td class="positive">0.9852</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Management</td>
+                        <td>Work Model</td>
+                        <td class="positive">0.9846</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Management</td>
+                        <td>Other</td>
+                        <td class="positive">0.9743</td>
+                    </tr>
+            
+                </table>
+                <p>For a detailed analysis of category correlations, see the <a href="category_correlations_report.txt">Category Correlations Report</a>.</p>
+            </div>
+            
+            <div class="report-section">
+                <h2>Individual Category Group Trends</h2>
+                <p>Daily trends for each individual category group.</p>
+        
+                <h3>Development</h3>
+                <img src="daily_trend_Development.png" alt="Daily Trend for Development">
+            
+                <h3>Marketing</h3>
+                <img src="daily_trend_Marketing.png" alt="Daily Trend for Marketing">
+            
+                <h3>Infrastructure</h3>
+                <img src="daily_trend_Infrastructure.png" alt="Daily Trend for Infrastructure">
+            
+                <h3>Design</h3>
+                <img src="daily_trend_Design.png" alt="Daily Trend for Design">
+            
+                <h3>Work Model</h3>
+                <img src="daily_trend_Work Model.png" alt="Daily Trend for Work Model">
+            
+                <h3>Location</h3>
+                <img src="daily_trend_Location.png" alt="Daily Trend for Location">
+            
+                <h3>Data</h3>
+                <img src="daily_trend_Data.png" alt="Daily Trend for Data">
+            
+                <h3>Finance</h3>
+                <img src="daily_trend_Finance.png" alt="Daily Trend for Finance">
+            
+                <h3>Engineering</h3>
+                <img src="daily_trend_Engineering.png" alt="Daily Trend for Engineering">
+            
+                <h3>Management</h3>
+                <img src="daily_trend_Management.png" alt="Daily Trend for Management">
+            
+                <h3>Testing</h3>
+                <img src="daily_trend_Testing.png" alt="Daily Trend for Testing">
+            
+                <h3>Healthcare</h3>
+                <img src="daily_trend_Healthcare.png" alt="Daily Trend for Healthcare">
+            
+                <h3>SAP</h3>
+                <img src="daily_trend_SAP.png" alt="Daily Trend for SAP">
+            
+                <h3>Consulting</h3>
+                <img src="daily_trend_Consulting.png" alt="Daily Trend for Consulting">
+            
+                <h3>Legal</h3>
+                <img src="daily_trend_Legal.png" alt="Daily Trend for Legal">
+            
+            </div>
+            
+            <div class="report-section">
+                <h2>Raw Data</h2>
+                <ul>
+                    <li><a href="growth_rates_by_group.csv">Growth Rates by Category Group (CSV)</a></li>
+                    <li><a href="category_correlations.csv">Category Correlations Matrix (CSV)</a></li>
+                    <li><a href="category_correlation_pairs.csv">Category Correlation Pairs (CSV)</a></li>
+                </ul>
+            </div>
+        </body>
+        </html>
+        

@@ -1,0 +1,30 @@
+Category Correlations Analysis
+============================
+
+Top Positive Correlations:
+-------------------------
+
+Location and Work Model: 0.9998
+Other and Testing: 0.9938
+Location and Other: 0.9889
+Location and Testing: 0.9886
+Other and Work Model: 0.9880
+Testing and Work Model: 0.9879
+Development and Management: 0.9874
+Location and Management: 0.9852
+Management and Work Model: 0.9846
+Management and Other: 0.9743
+
+Top Negative Correlations:
+-------------------------
+
+Legal and Management: -0.3338
+Legal and Location: -0.4388
+Legal and Work Model: -0.4400
+Legal and SAP: -0.4616
+Legal and Other: -0.4704
+Legal and Testing: -0.4810
+Data and Legal: -0.4912
+Healthcare and Legal: -0.5291
+Consulting and Legal: -0.5800
+Finance and Legal: -0.6008

@@ -4,7 +4,6 @@ import streamlit as st
 from datetime import timedelta
 import math
 import altair as alt
-import sqlite3
 
     
 project_path = os.path.dirname(os.path.realpath(__file__))
@@ -17,25 +16,25 @@ buy_me_a_coffee_html = """
 </a>
 """
 
-# Connect to SQLite database
-conn = sqlite3.connect(os.path.join(project_path, 'freelance_projects.db'))
+# Initialize connection using Streamlit's recommended approach
+conn = st.connection('mysql', type='sql')
 
 # Read data from both tables
-projects_df = pd.read_sql_query("""
+projects_df = conn.query("""
     SELECT 
         date,
         category as job_group,
         num
     FROM projects ORDER BY date DESC
-""", conn)
+""", ttl=600)
 
-freelancers_df = pd.read_sql_query("""
+freelancers_df = conn.query("""
     SELECT 
         date,
         category as job_group,
         num
     FROM freelances ORDER BY date DESC
-""", conn)
+""", ttl=600)
 
 # Convert date columns to datetime
 projects_df['date'] = pd.to_datetime(projects_df['date'])
@@ -160,5 +159,4 @@ st.dataframe(projects_df)
 st.subheader("Freelancers Data")
 st.dataframe(freelancers_df)
 
-# Close database connection
-conn.close()
+# Note: Streamlit connections are automatically managed
